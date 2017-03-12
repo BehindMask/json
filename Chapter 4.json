@@ -661,10 +661,10 @@
 {
 	
 	"object": {
-		"option1": "isp",
-		"option2": "ups",
-		"option3": "ips",
-		"option4": "aps"
+		"option1": "ISP",
+		"option2": "UPS",
+		"option3": "IPS",
+		"option4": "APS"
 	},
 	"question": "ইন্টারনেট সেবা প্রধানকারী প্রতিষ্ঠান কোনটি ?",
 	"answer": "1"
