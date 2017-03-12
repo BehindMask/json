@@ -1,0 +1,881 @@
+[{
+	
+	"object": {
+		"option1": "ওয়েব",
+		"option2": "ওয়েব পেইজ",
+		"option3": "পেইজ",
+		"option4": "ওয়েব সাইট"
+	},
+	"question": "HTML নামক মার্ক আপ ল্যাংঙ্গুয়েজের উপর ভিত্তি করে তৈরিকৃত ডকুমেন্টকে কী বলে? ",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "ডেটা থাকে",
+		"option2": "ওয়েব সাইট থাকে",
+		"option3": "বিভিন্ন উপকরন থাকে",
+		"option4": "তথ্য থাকে"
+	},
+	"question": "ওয়েব পেইজে সাধারণত বিভিন্ন ধরনের- ",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "টেলিভিশন দ্বারা",
+		"option2": "মোবাইল দ্বারা",
+		"option3": "কম্পিউটার দ্বারা",
+		"option4": "ইন্টারনেট দ্বারা"
+	},
+	"question": "ওয়েব পেইজে নিয়ন্ত্রন করা হয়। ",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "স্ট্যাটিক",
+		"option2": "ডাইনামিক",
+		"option3": "স্ট্যাটিক ও ডাইনামিক",
+		"option4": "ল্যাংঙ্গুয়েজ ভিত্তিক"
+	},
+	"question": "ওয়েব সাইট সাধারণত হতে পারে-",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "জানুয়ারি ২০০৭",
+		"option2": "জানুয়ারি ২০০৮",
+		"option3": "ফেব্রুয়ারি ২০০৭",
+		"option4": "ফেব্রুয়ারি ২০০৮"
+	},
+	"question": "HTML এর সংস্করণ HTML এর প্রকাশকাল কখন? ",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "Hyper Text Top Protocol",
+		"option2": "Hyper Technical Transfer Protocol",
+		"option3": "Hyper Text Top Protocol",
+		"option4": "Hyper Text Transfer Protocol"
+	},
+	"question": "HTTP এর পূর্ণ নাম কী?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "এরিক বিনা",
+		"option2": "টিম বার্নাস লি",
+		"option3": "মার্ক অ্যান্ডারসেন",
+		"option4": "বিল গেটস"
+	},
+	"question": "গ্লোবাল হাইপারটেক্স প্রজেক্ট এর প্রস্তাবনা দেন কে?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "১৯৮৯ সালে",
+		"option2": "১৯৯০ সালে",
+		"option3": "১৯৯৩ সালে",
+		"option4": "১৯৯৪ সালে"
+	},
+	"question": "W3C ওয়াল্ড ওয়াইড কনসোর্টিয়াম কত সালে প্রতিষ্ঠিত হয়। ",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "http",
+		"option2": "ftp",
+		"option3": "UDP",
+		"option4": "UCP"
+	},
+	"question": "ইন্টারনেটে ওয়েব পেইজসমূহ ব্রাউজ করার জন্য যে প্রোটোকল ব্যবহার করা হয় তা কোনটি?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "URL",
+		"option2": "http",
+		"option3": "TCP/IP",
+		"option4": "Web page"
+	},
+	"question": "Hyper Text Markup Language এর সাহায্যে কী তৈরি করা যায়?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "নোটপ্যাড",
+		"option2": "এম এস ওয়ার্ড",
+		"option3": "টেক্সট এডিট",
+		"option4": "মাউস প্যান"
+	},
+	"question": "HTML মাধ্যমে কোডিং করতে আমরা কী ব্যবহার করব?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "Attribute",
+		"option2": "Program",
+		"option3": "Value",
+		"option4": "Align"
+	},
+	"question": "HTML এ ট্যাগ এর বৈশিষ্ট্যকে প্রকাশ করে কোনটি?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "URL",
+		"option2": "WWW",
+		"option3": "HTML",
+		"option4": "HTTP"
+	},
+	"question": "ওয়েব পেইজ তৈরির জন্য ব্যবহৃত ভাষা কোনটি?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "সাধারণ ",
+		"option2": "ওয়ার্ড ",
+		"option3": "প্রোগ্রামিং",
+		"option4": "মার্ক-আপ ল্যাঙ্গুয়েজ"
+	},
+	"question": "HTML কোন ধরনের ল্যাঙ্গুয়েজ? ",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "ড্রিমওয়েবার",
+		"option2": "কোরলড্র",
+		"option3": "HTML",
+		"option4": "JSP"
+	},
+	"question": "কোনটি ওয়েব ডেভেলপমেন্ট অ্যাপ্লিকেশন টুল?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "Layout",
+		"option2": "Syntax",
+		"option3": "Formatting",
+		"option4": "Pert"
+	},
+	"question": "ডাইনামিক ওয়েব পেইজ তৈরিতে ব্যাহৃত সফটওয়্যার কোনটি?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "১০টি",
+		"option2": "২০টি",
+		"option3": "৫০টি",
+		"option4": "১৬টি"
+	},
+	"question": "ওয়ার্ল্ড ওয়াইড ওয়েব কনসোর্টিয়াম কতটি রং বা কালারের নামকে HTML ও CSS এর জন্য তালিকাভূক্ত করেছে। ",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "একমূখী",
+		"option2": "দ্বিমূখী",
+		"option3": "বহুমূখী",
+		"option4": "উভমূখী"
+	},
+	"question": "HTML কী ধরনের ল্যাংঙ্গুয়েজ?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "HTML 3",
+		"option2": "HTML 4",
+		"option3": "HTML 5",
+		"option4": "HTML 6"
+	},
+	"question": "HTML এর সর্বশেষ ভার্সন নিচের কোনটি?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "২০০৮ সালে",
+		"option2": "২০০৯ সালে",
+		"option3": "২০১০ সালে",
+		"option4": "২০১১ সালে"
+	},
+	"question": "HTML এর সর্বশেষ ভার্সন HTML.৫ পরিচিতি লাভ করে কত সালে?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "World Web Wide",
+		"option2": "Web World Web",
+		"option3": "World Wide Web",
+		"option4": "World Web World"
+	},
+	"question": "WWW এর পূর্ণ নাম কী?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "রিজার্ভেশন সিস্টেম",
+		"option2": "বুলেটিন বোর্ড",
+		"option3": "বুদ্ধিমত্তা",
+		"option4": "সৃজনশীল"
+	},
+	"question": "WWW কে ইন্টারনেটের কী বলা হয়?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "১৯৯০ সালে",
+		"option2": "১৯৯৩ সালে",
+		"option3": "১৯৯৪ সালে",
+		"option4": "১৯৮৯ সালে"
+	},
+	"question": "মোজাইক নামে ব্রাউজার তৈরি হয় কত সালে? ",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "ওয়েব সাইট",
+		"option2": "ওয়েব পেইজ",
+		"option3": "ওয়েব সাইটের কাঠামো",
+		"option4": "মূল পেইজ"
+	},
+	"question": "একটি ওয়েবসাটের সকল বিষয়বস্ত ও উপস্থাপনার কার্যগত অবকাঠামোই-",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "এক ধরনের বিষয়",
+		"option2": "এক ধরনের সূচি",
+		"option3": "মূল বিষয়",
+		"option4": "কাঠামোর সূচি"
+	},
+	"question": "মূলত হোম পেইজ হচ্ছে- ",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "Hierarchical স্ট্রাকচার",
+		"option2": "Network স্ট্রাকচার",
+		"option3": "Linear স্ট্রাকচার",
+		"option4": "Combination স্ট্রাকচার"
+	},
+	"question": "একাধিক স্ট্রাকচার ব্যবহার করে ওয়েব সাইট ডিজাইন করা হয় তাকে কী বলে?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "১৯৭০ সালে",
+		"option2": "১৯৯৫ সালে",
+		"option3": "১৯৮০ সালে",
+		"option4": "১৯৯৪ সালে"
+	},
+	"question": "HTML প্রাথমিক রূপ লাভ করে কখন?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "HTML Editor",
+		"option2": "Macromedia Firework",
+		"option3": "Macromedia Dreamweaver",
+		"option4": "Flash"
+	},
+	"question": "সরাসরি ওয়েব সাইট তৈরির জন্য নিচের কোন সফটওয়্যার ব্যবহার করা হয়?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "Tree Structure Site",
+		"option2": "Web-Linked Structure Site",
+		"option3": "Sequence Structure Site",
+		"option4": "Star Structure Site"
+	},
+	"question": "নিচের কোন স্ট্রাকচারটি সবচেয়ে জটিল প্রকৃতির?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "একটি প্যারাগ্রাফ বর্ণনা করা",
+		"option2": "একটি হরিজন্টাল রুল বর্ণনা করা",
+		"option3": "এক লাইন ফাঁকা তৈরি করা",
+		"option4": "একটি কমান্ড বর্ণনা করা"
+	},
+	"question": "≺p≻ অর্থ কী?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "ট্যাগ",
+		"option2": "বর্ণ",
+		"option3": "ফন্ট",
+		"option4": "হেডিং"
+	},
+	"question": "কোড লেখার আগে পরে নির্দিষ্ট কিছু চিএসহ নির্ধারিত কিছু শব্দ ব্যবহার করা হয় এগুলোকে কী বলে?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "পূর্ণ ঠিকানা ",
+		"option2": "বর্ণ",
+		"option3": "ফন্ট",
+		"option4": "হেডিং"
+	},
+	"question": "HTML লিংকের সিনটেক্সে url এর স্থলে কী দিতে হয়?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "Table",
+		"option2": "Tab Row",
+		"option3": "Table Repeat",
+		"option4": "Table Row"
+	},
+	"question": "≺tr≻ ট্যাগ হলো-",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "টিম লি",
+		"option2": "রবার্ট টিমলি",
+		"option3": "টিম বার্নার লি",
+		"option4": "রবার্ট লি"
+	},
+	"question": "১৯৮০ সালে HTML রচনা করেন কে?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "১৯৯১ সালে",
+		"option2": "২০০০ সালে",
+		"option3": "২০১২ সালে",
+		"option4": "১৯৯৪ সালে"
+	},
+	"question": "HTML.5 ভার্সন প্রকাশিত হয় কখন?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "অল্প কোড",
+		"option2": "একটি কোড",
+		"option3": "প্রচুর কোড",
+		"option4": "দুটি কোড"
+	},
+	"question": "সাধারন ওয়েব পেইজ তৈরির জন্য কী লিখতে হয়?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "দুর্বল",
+		"option2": "সবল",
+		"option3": "খুব দুর্বল",
+		"option4": "খুব সবল"
+	},
+	"question": "HTML এর নিরাপত্তা ব্যবস্থা কেমন?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "<1>",
+		"option2": "<!....>",
+		"option3": "<ĩ.....>",
+		"option4": "<?.....>"
+	},
+	"question": "HTML ফাইলের মধ্যে কোনো কমেন্ট দেওয়ার ট্যাগ কোনটি?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "( )",
+		"option2": "{}",
+		"option3": "<>",
+		"option4": "উপরের কোনটিই নয়"
+	},
+	"question": "HTML এর ট্যাগগুলো কী দ্বারা বেষ্টিত থাকে?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "Layout",
+		"option2": "Sintax",
+		"option3": "Copy",
+		"option4": "Formatting"
+	},
+	"question": "ওয়েব পেইজকে সুন্দরভাবে ফুটিয়ে তোলার পন্থাকে কী বলে?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "≺title/≻",
+		"option2": "≺Blockquote/≻",
+		"option3": "≺LI/≻",
+		"option4": "≺Meta/≻"
+	},
+	"question": "নিচের কোনটি Empty ট্যাগ?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "Body Section",
+		"option2": "Paragaph Section",
+		"option3": "Head Section",
+		"option4": "Hyperlink Section"
+	},
+	"question": "HTML এ ডকুমেন্ট টাইটেল থাকে কোন সেকশনে?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "মেটা ট্যাগ",
+		"option2": "স্টাইল ট্যাগ",
+		"option3": "বেস ট্যাগ",
+		"option4": "লিংক ট্যাগ"
+	},
+	"question": "একটি ডকুমেন্টের সাথে আরেকটি ডকুমেন্টের সংযোগ স্থাপন করা হয় নিচের কোন ট্যাগ ব্যবহার করে?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "≺tr/≻",
+		"option2": "≺table/≻",
+		"option3": "≺td/≻",
+		"option4": "≺hr/≻"
+	},
+	"question": "টেবিল তৈরি করার জন্য নিচের কোন ট্যাগটি দিতে হবে?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "টেবিল হেডিং",
+		"option2": "বডি",
+		"option3": "কলাম",
+		"option4": "সারি"
+	},
+	"question": "টেবিলের প্রতিটি কলামের উপরের অংশে তথ্যে শিরোনামকে কী বলে?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "সারি",
+		"option2": "সংযোগস্থল",
+		"option3": "কলাম",
+		"option4": "সেল"
+	},
+	"question": "টেবিলের সারি ও কলামের সংযোগস্থলকে কী বলে?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "img",
+		"option2": "src",
+		"option3": "alt",
+		"option4": "align"
+	},
+	"question": "ইমেজ লোড না হলে টেক্সট দেখাবে নিচের কোন অ্যাট্রিবিউট?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "আলাদা",
+		"option2": "ভিন্ন",
+		"option3": "স্বাধীন",
+		"option4": "মুক্ত"
+	},
+	"question": "একটি ফ্রোম অপর ফ্রেম কেমন?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "একটি সারি",
+		"option2": "একটি সারি বা কলাম",
+		"option3": "একটি কলাম",
+		"option4": "একটি টেবিল"
+	},
+	"question": "প্রতিটি ফ্রেম সেট নির্ধারণ করে কোনটি?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "২টি",
+		"option2": "৪টি",
+		"option3": "৩টি",
+		"option4": "অসংখ্য"
+	},
+	"question": "HTML ৫ এ লে-আউটকে সাধারণত কয়টি ট্যাগের মাধ্যমে করা হয়?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "≺h1≻ to ≺h5≻",
+		"option2": "≺h1≻ to ≺h4≻",
+		"option3": "≺h1≻ to ≺h6≻",
+		"option4": "≺h1≻ to ≺h7≻"
+	},
+	"question": "HTML হেডিং কোনটি?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "হাইপারলিংক সিস্টেম",
+		"option2": "হাইপারলিংক",
+		"option3": "হাইপার মিডিয়া",
+		"option4": "মিডিয়া"
+	},
+	"question": "হাইপারলিংক নির্দেশ দেওয়ার জন্য যে সফটওয়্যার ব্যবহার করা হয় তাকে কী বলে?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "২ভাগে",
+		"option2": "৩ভাগে",
+		"option3": "৪ভাগে",
+		"option4": "৫ভাগে"
+	},
+	"question": "HTML এ লিংককে কয় ভাগে ভাগ করা যায়?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "vaspace",
+		"option2": "haspace",
+		"option3": "border",
+		"option4": "alt"
+	},
+	"question": "ইমেজের বামে ও ডানে কী পরিমাণ জায়গা রাখতে চাই তা লেখার জন্য ব্যবহৃত হয় কোনটি?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "৪ বিট",
+		"option2": "৮ বিট",
+		"option3": "১৬ বিট",
+		"option4": "২৪ বিট"
+	},
+	"question": "JPES ফরম্যাটে কত বিট কালার সাপোর্ট পাওয়া যায়।",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "Adobe Photoshop",
+		"option2": "PHP",
+		"option3": "Adobe Illustrator",
+		"option4": "Coral Draw"
+	},
+	"question": "কোনটি গ্রাফিক্স সফটওয়্যার না?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "≺html/≻",
+		"option2": "≺html≻",
+		"option3": "≺htl/≻",
+		"option4": "≺htl/≻"
+	},
+	"question": "HTML এর ওপেনিং ট্যাগ কোনটি?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "≺/htl≻",
+		"option2": "≺htl/≻",
+		"option3": "≺/html≻",
+		"option4": "≺/htlm/≻"
+	},
+	"question": "HTML এর ক্লোজিং ট্যাগ কোনটি?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "লিনিয়ার",
+		"option2": "হায়ারকি",
+		"option3": "নেটওয়ার্ক",
+		"option4": "কম্বিনেশন"
+	},
+	"question": "কোন স্ট্রকচারের প্রত্যেকটি পেইজ হচ্ছে অনুক্রমিক?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "PHP",
+		"option2": "ASP",
+		"option3": "JSP",
+		"option4": "HTML"
+	},
+	"question": "নিচের কোনটি দিয়ে স্ট্যাকি ওয়েব পেইজ তৈরি করা হয়?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "isp",
+		"option2": "ups",
+		"option3": "ips",
+		"option4": "aps"
+	},
+	"question": "ইন্টারনেট সেবা প্রধানকারী প্রতিষ্ঠান কোনটি ?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "Browser",
+		"option2": "Oracle",
+		"option3": "Database",
+		"option4": "pase "
+	},
+	"question": "INTERNET EXPLORER কি?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "Engine",
+		"option2": "Search Engine",
+		"option3": "Protocol",
+		"option4": "Email Address"
+	},
+	"question": "Google.com/yahoo কী?",
+	"answer": "2"
+},
+{
+	
+	"object": {
+		"option1": "টপ লেবেল",
+		"option2": "টপ ডোমেইন ",
+		"option3": "Last লেবেল ডোমেইন ",
+		"option4": "Last ডোমেইন "
+	},
+	"question": "একটি ডোমইন নেম এর ডট এর পর শেষ অংশকে কী বলে?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "২ ভাগে",
+		"option2": "৩ ভাগে",
+		"option3": "৪ ভাগে",
+		"option4": "৫ ভাগে"
+	},
+	"question": "টপ লেভেল ডোমেন সমূহেকে কয় ভাগে ভাগে করা যায়?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "ওয়াই-ফাই",
+		"option2": "নেটওয়ার্ক",
+		"option3": "টপোলজি",
+		"option4": "ইন্টারনেট ডকুমেন্ট "
+	},
+	"question": "Webpase.FIP ইত্যাদি কে কী বলা হয়? ",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": ".ac",
+		"option2": ".gov",
+		"option3": ".com",
+		"option4": ".edu"
+	},
+	"question": "ডোমেইন নেম এর সাথে নিচের কোনটি থাকলে শিক্ষা প্রতিষ্টান বোঝায়?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "ডাইনামিক ওয়েব পেইজের সাথে সম্পর্কযুক্ত হলো-\ni. PHP\nii. ASP\niii. JSP\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "ওয়েব সাইটের কাঠামো- \ni. Home Page\nii. Main Sections\niii. Sub Sections\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "মূল পেইজ যুক্ত থাকে-\ni. মূল প্রোগ্রাম\nii. ব্যানার\niii. অ্যানিমেশন\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "ওয়েব সাইটের কাঠামোর সেকশন হলো-\ni. মূল পেইজ\nii. মূল সেকশন\niii. উপ সেকশন\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "HTML এর ক্ষেএে-\ni. ইন্টারনেটের সাথে সংযুক্ত এরূপ কোন তথ্য রাখার পেইজকে ওয়েব পেইজ বলে\nii. মূল সেকশন\niii. উপ সেকশন\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "HTML এ -\ni. প্রতিটি ডকুমেন্ট ফ্রেম বলে।\nii. লিংকের সিনটেক্স url এর স্থলে পূর্ণ ঠিকানা দিতে হয়। \niii. <hr> ট্যাগটি দ্বারা এক লাইন ফাকা করা হয়। \nনিচের কোনটি সঠিক?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "HTML ব্যবহৃত হয়-\ni. ইন্টারনেট তৈরিতে \nii. ইন্টারনেট পেইজ তৈরিতে\niii. ওয়েব সাইট তৈরিতে\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "HTML এর ক্ষেএে -\ni. HTML এ নিরাপত্তা ব্যবস্থা খুব শক্তিশালী।\nii. সাধারন ওয়েব পেইজ তৈরির জন্য প্রচুর কোড লিখতে হয।\niii. বড় কোড লেখাযুক্ত ওয়েব পেইজ চালানো বেশীরভাগ ক্ষেএে জটিলতার সৃষ্টি করে।\nনিচের কোনটি সঠিক?",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "ট্যাগ-\ni.  আরম্ভ, ট্যাগ <h1>\nii. সমাপ্তি ট্যাগ <h1>\niii. জটিল প্রক্রিয়া\nনিচের কোনটি সঠিক?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": " কিছু কিছু ট্যাগ-\ni. বৈশিষ্ট্য প্রকাশ করে।\nii. Empty ট্যাগ ব্যবহার করে।\niii. প্রতিটি ট্যাগ শুরু হয় < > চিহ্ন দ্বারা\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": "HTML লে আউট এর গুরুত্বপূর্ণ -\ni. Header\nii. Footer\niii. Page Nunber\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+	},
+	"question": " হেডিং এর ট্যাগ-\ni. <h1> Biggest heading </h1>\nii. <h2> Smallest heading </h2>\niii. <h1> </h6>\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i, ii ও iii"
+		
+		},
+	"question": "টেবিল তৈরির সাথে সংশ্লিষ্ট কয়েকটি ট্যাগ হল-\ni. <th>\nii. <tr>\niii. <thead>\nনিচের কোনটি সঠিক?",
+	"answer": "4"
+}]
