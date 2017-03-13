@@ -171,7 +171,7 @@
 		"option3": "কুয়েরি",
 		"option4": "ইনকুয়েরি"
 	},
-	"question": "সংরক্ষিত ডেটাবেজ টেবিলে ডেটার বিভিন্ন উপাত্তকে সংক্ষিপ্ত আকারে উপস্থাপনের জন্য যে পদ্ধতি ব্যবহার করা হয় তাকে কী বলে?",
+	"question": "সংরক্ষিত ডেটাবেজ টেবিলে ডেটাকে সংক্ষিপ্ত আকারে উপস্থাপনের জন্য যে পদ্ধতি ব্যবহার করা হয় তাকে কী বলে?",
 	"answer": "3"
 },
 {
@@ -612,7 +612,7 @@
 		"option3": "৪ ভাগ",
 		"option4": "৫ ভাগ"
 	},
-	"question": "ডেটাবেজ অন্তরভুক্ত টেবিল গুলোর মধ্যে কীভাবে রেকর্ড গুলো সস্পর্ক যুক্ত হবে তার উপর ভিত্তি করে ডেটাবেজ রিলেশনকে কয় ভাগে ভাগ করা যায়?",
+	"question": "ডেটাবেজে কীভাবে তথ্যগুলো সস্পর্কযুক্ত হবে তার উপর ভিত্তি করে ডেটাবেজ রিলেশনকে কয় ভাগে ভাগ করা যায়?",
 	"answer": "2"
 },
 {
@@ -711,19 +711,19 @@
 		"option3": "ii ও iii",
 		"option4": "i , ii ও iii"
 	},
-	"question": "ডেটাবেজ ম্যানেজমেন্ট সফটওয়্যার-\ni. Oracle\nii. foxpro\niii. Microsoft\nনিচের কোনটি সঠিক?",
+	"question": "ডেটাবেজ ম্যানেজমেন্ট সফটওয়্যার-\ni. Oracle\nii. foxpro\niii. Microsoft\nকোনটি সঠিক?",
 	"answer": "4"
 },
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
+		"option1": "এম এস এক্সেস",
+		"option2": "ওরাকল",
+		"option3": "ডেলফি",
+		"option4": "এম এস এক্সেল"
 	},
-	"question": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেমের কাজ -\ni. অপ্রয়োজনীয় ডেটা ও রেকর্ড মুছেফেলা যায়\nii. তথ্য নিয়ে অনুসন্দান করা যায়।\niii. তথ্যের ডুপ্লিকেশন কমনো যায়। \nনিচের কোনটি সঠিক?",
-	"answer": "4"
+	"question": "নিচের কোনটি ডেটাবেজ প্রোগ্রাম নয়?",
+	"answer": "3"
 },
 {
 	
@@ -750,12 +750,12 @@
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
+		"option1": "ডিক্রিপ্টশন",
+		"option2": "ডিক্রিপ্ট",
+		"option3": "এনক্রিপ্টশন",
+		"option4": "এনক্রিপ্ট"
 	},
-	"question": "SQL এর বিভিন্ন কাজের জন্য ব্যবহার করা হয় –\ni. ডেটা কুয়েরি\nii. ডেটা সন্নিবেশ করা\niii. অবজেক্ট তৈরি করা\nনিচের কোনটি সঠিক?",
+	"question": "ডেটার নিরাপত্তা নিশ্চিত করার জন্য ডেটাকে কী করতে হয়?",
 	"answer": "4"
 },
 {
@@ -766,84 +766,18 @@
 		"option3": "ii ও iii",
 		"option4": "i , ii ও iii"
 	},
-	"question": "SQL QUERY হলো -\ni. Unior QUERY\nii. pass trough QUERY\niii. sub QUERY\nনিচের কোনটি সঠিক?",
-	"answer": "4"
+	"question": "SQL QUERY হলো -\ni. Unior QUERY\nii. QUERY\niii. sub QUERY\nকোনটি সঠিক?",
+	"answer": "2"
 },
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
+		"option1": "Serial Line",
+		"option2": "Syntax Line",
+		"option3": "Serial Number",
+		"option4": "Syntax Number"
 	},
-	"question": "Action QUERY এর অধীনে -\ni. make up QUERY\nii. update QUERY\niii. append QUERY\nনিচের কোনটি সঠিক?",
-	"answer": "4"
-},
-{
-	
-	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
-	},
-	"question": "ডেটাবেজের ম্যানেজমেন্টের কার্যাবলি-\ni. ডেটা স্টোরেজ ম্যানেজমেন্ট\nii. ডেটাবেজে মাল্টি ইউজার একসেস কন্ট্রোল\niii. ডেটাবেজ কমিনিকেশন ইন্টারফেস\nনিচের কোনটি সঠিক?",
-	"answer": "4"
-},
-{
-	
-	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
-	},
-	"question": "DBMS ব্যবহার করা হয় -\ni. আথিক প্রথিষ্ঠানে\nii. শিক্ষা প্রথিষ্ঠানে\niii.  ডেবিট/কেডিট কার্ড\nনিচের কোনটি সঠিক?",
-	"answer": "4"
-},
-{
-	
-	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
-	},
-	"question": "DBMS এর কাজ -\ni. ডেটাবেজ সৃজন\nii. ডেটাবেজ ইন্টারোগেসন\niii. ডেটাবেজ রক্ষনাবেক্ষন \nনিচের কোনটি সঠিক?",
-	"answer": "4"
-},
-{
-	
-	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
-	},
-	"question": "index করা হয় -\ni. ডেটাবেজ ফাইল ওয়েব ডিজাইন থেকে\nii. অরগাইজাইন মেনু ব্যবহার করে\niii. ডস প্রম্পটে কমান্ড লিংকে\nনিচের কোনটি সঠিক?",
-	"answer": "4"
-},
-{
-	
-	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
-	},
-	"question": "রিলেশনাল ডেটাবেজ হলো-\ni. one to one\nii. one to many\niii. many to many\nনিচের কোনটি সঠিক?",
-	"answer": "4"
-},
-{
-	
-	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i , ii ও iii"
-	},
-	"question": "কর্পোরেট ডিজাইনের সময় অবশ্যই-\ni. কর্পোরেট অ্যাকশনসমূহ এবং বিভিন্ন উন্নয়ন লিপিবদ্ধকরণ করতে হবে।\nii. কর্পোরেট SQL ডেটার ইন্টিগ্রিটি ও নিরাপত্তা বিধান করতে হবে।\niii. রতিদিন ডেটাবেজ ব্যাক-আপ ইনডেক্সিং, ডেটাবেজ লগ, ডিস্ক স্পেস ইত্যাদি মনিটর করতে হবে।\nনিচের কোনটি সঠিক?",
+	"question": "SL এর পূর্নরূপ কী?",
 	"answer": "3"
 },
 {
@@ -854,7 +788,73 @@
 		"option3": "ii ও iii",
 		"option4": "i , ii ও iii"
 	},
-	"question": "সরকারি প্রতিষ্ঠানে ডেটাবেজ ব্যবহারের ফলে যা সম্ভব-\ni. সাম্প্রতিক তথ্য পাওয়া যায়।\nii. যোগাযোগ রক্ষা করা সহজ হয়।\niii. অর্থ ও সময়ের অপচয় রোধ হয়।\nনিচের কোনটি সঠিক?",
+	"question": "ডেটা টেবিল সর্টি করে সাজানো যায়-\ni. Ascending\nii. Descending\niii. Search\nকোনটি সঠিক?",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i , ii ও iii"
+	},
+	"question": "DBMS ব্যবহার করা হয়-\ni. আথিক প্রতিষ্ঠানে\nii. শিক্ষা প্রতিষ্ঠানে\niii.  ডেবিট কার্ডে\nকোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "i ও ii",
+		"option2": "i ও iii",
+		"option3": "ii ও iii",
+		"option4": "i , ii ও iii"
+	},
+	"question": "DBMS এর কাজ-\ni. ডেটাবেজ সৃজন\nii. ডেটাবেজ ইন্টারোগেসন\niii. রক্ষনাবেক্ষন\nকোনটি সঠিক?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "5,4,3,2,1",
+		"option2": "1,2,3,4,5",
+		"option3": "1,3,5,2,4",
+		"option4": "5,3,1,4,2"
+	},
+	"question": "1,2,3,4,5 - Roll No. গুলোকে Descending Order এ সাজালে হবে-",
+	"answer": "1"
+},
+{
+	
+	"object": {
+		"option1": "21,14,13,12,31",
+		"option2": "13,12,14,31,21",
+		"option3": "12,13,14,21,31",
+		"option4": "31,21,13,12,14"
+	},
+	"question": "12,14,31,21,13 - সংখ্যা গুলোকে Ascending Order এ সাজালে হবে-",
+	"answer": "3"
+},
+{
+	
+	"object": {
+		"option1": "কিপ্ট্রোলজী ",
+		"option2": "এনক্রিপ্ট্রিলজি",
+		"option3": "ডিকোগ্রাপী",
+		"option4": "ক্রিপ্টোগ্রাফী"
+	},
+	"question": "ডেটাকে এনক্রিপ্টশন ও ডিক্রিপ্টশন করার পদ্ধতিকে কী বলে?",
+	"answer": "4"
+},
+{
+	
+	"object": {
+		"option1": "দুর্বল ল্যাংগুয়েজ",
+		"option2": "শক্তি শালী ল্যাংগুয়েজ",
+		"option3": "Data Language Definition",
+		"option4": "Data Definition Language"
+	},
+	"question": "SQL হলো-",
 	"answer": "4"
 },
 {

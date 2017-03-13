@@ -182,7 +182,7 @@
 		"option3": "৫০টি",
 		"option4": "১৬টি"
 	},
-	"question": "ওয়ার্ল্ড ওয়াইড ওয়েব কনসোর্টিয়াম কতটি রং বা কালারের নামকে HTML ও CSS এর জন্য তালিকাভূক্ত করেছে। ",
+	"question": "ওয়ার্ল্ড ওয়াইড ওয়েব কনসোর্টিয়াম কতটি কালারের নামকে HTML ও CSS এর জন্য তালিকাভূক্ত করেছে। ",
 	"answer": "4"
 },
 {
@@ -743,7 +743,7 @@
 		"option3": "ii ও iii",
 		"option4": "i, ii ও iii"
 	},
-	"question": "ডাইনামিক ওয়েব পেইজের সাথে সম্পর্কযুক্ত হলো-\ni. PHP\nii. ASP\niii. JSP\nনিচের কোনটি সঠিক?",
+	"question": "ডাইনামিক ওয়েব পেইজের সাথে সম্পর্কযুক্ত-\ni. PHP\nii. ASP\niii. JSP\nনিচের কোনটি?",
 	"answer": "4"
 },
 {
@@ -754,8 +754,8 @@
 		"option3": "ii ও iii",
 		"option4": "i, ii ও iii"
 	},
-	"question": "ওয়েব সাইটের কাঠামো- \ni. Home Page\nii. Main Sections\niii. Sub Sections\nনিচের কোনটি সঠিক?",
-	"answer": "4"
+	"question": "ওয়েব পেইজ ডিভাসের জন্য ফাইলের বর্ধিতাংশ\ni. .htm\nii. .html\niii. .doc\nকোনটি সঠিক?",
+	"answer": "1"
 },
 {
 	
@@ -776,29 +776,29 @@
 		"option3": "ii ও iii",
 		"option4": "i, ii ও iii"
 	},
-	"question": "ওয়েব সাইটের কাঠামোর সেকশন হলো-\ni. মূল পেইজ\nii. মূল সেকশন\niii. উপ সেকশন\nনিচের কোনটি সঠিক?",
+	"question": "আইপি অ্যাড্রেস কি দ্বারা লিখা হয়?\ni. নম্বর\nii. টেক্সট \niii. ক্যারেক্টার \nনিচের কোনটি সঠিক?",
 	"answer": "4"
 },
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i, ii ও iii"
+		"option1": "<table>",
+		"option2": "<ol>",
+		"option3": "<p>",
+		"option4": "কোনটিই নয়"
 	},
-	"question": "HTML এর ক্ষেএে-\ni. ইন্টারনেটের সাথে সংযুক্ত এরূপ কোন তথ্য রাখার পেইজকে ওয়েব পেইজ বলে\nii. মূল সেকশন\niii. উপ সেকশন\nনিচের কোনটি সঠিক?",
-	"answer": "4"
+	"question": "প্যারাগ্রাফ লিখতে কি ব্যবহৃত হয়?",
+	"answer": "3"
 },
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i, ii ও iii"
+		"option1": "h1",
+		"option2": "h3",
+		"option3": "h5",
+		"option4": "h6"
 	},
-	"question": "HTML এ -\ni. প্রতিটি ডকুমেন্ট ফ্রেম বলে।\nii. লিংকের সিনটেক্স url এর স্থলে পূর্ণ ঠিকানা দিতে হয়। \niii. <hr> ট্যাগটি দ্বারা এক লাইন ফাকা করা হয়। \nনিচের কোনটি সঠিক?",
+	"question": "নিচের কোন ট্যাগটি বড়?",
 	"answer": "1"
 },
 {
@@ -809,19 +809,19 @@
 		"option3": "ii ও iii",
 		"option4": "i, ii ও iii"
 	},
-	"question": "HTML ব্যবহৃত হয়-\ni. ইন্টারনেট তৈরিতে \nii. ইন্টারনেট পেইজ তৈরিতে\niii. ওয়েব সাইট তৈরিতে\nনিচের কোনটি সঠিক?",
-	"answer": "4"
+	"question": "HTML ব্যবহৃত হয়-\ni. ইন্টারনেট তৈরিতে \nii. পেইজ তৈরিতে\niii. সাইট তৈরিতে\nকোনটি সঠিক?",
+	"answer": "3"
 },
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i, ii ও iii"
+		"option1": "<body>",
+		"option2": "<hi>",
+		"option3": "<spon>",
+		"option4": "<p->"
 	},
-	"question": "HTML এর ক্ষেএে -\ni. HTML এ নিরাপত্তা ব্যবস্থা খুব শক্তিশালী।\nii. সাধারন ওয়েব পেইজ তৈরির জন্য প্রচুর কোড লিখতে হয।\niii. বড় কোড লেখাযুক্ত ওয়েব পেইজ চালানো বেশীরভাগ ক্ষেএে জটিলতার সৃষ্টি করে।\nনিচের কোনটি সঠিক?",
-	"answer": "3"
+	"question": "নিচের কোন ট্যাগটি সঠিক?",
+	"answer": "1"
 },
 {
 	
@@ -837,13 +837,13 @@
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i, ii ও iii"
+		"option1": "<bodi>",
+		"option2": "<hi>",
+		"option3": "<p>",
+		"option4": "<p->"
 	},
-	"question": " কিছু কিছু ট্যাগ-\ni. বৈশিষ্ট্য প্রকাশ করে।\nii. Empty ট্যাগ ব্যবহার করে।\niii. প্রতিটি ট্যাগ শুরু হয় < > চিহ্ন দ্বারা\nনিচের কোনটি সঠিক?",
-	"answer": "4"
+	"question": "নিচের কোন ট্যাগটি সঠিক?",
+	"answer": "3"
 },
 {
 	
@@ -853,18 +853,18 @@
 		"option3": "ii ও iii",
 		"option4": "i, ii ও iii"
 	},
-	"question": "HTML লে আউট এর গুরুত্বপূর্ণ -\ni. Header\nii. Footer\niii. Page Nunber\nনিচের কোনটি সঠিক?",
+	"question": "HTML এর গুরুত্বপূর্ণ -\ni. Header\nii. Footer\niii. Page Nunber\nনিচের কোনটি সঠিক?",
 	"answer": "4"
 },
 {
 	
 	"object": {
-		"option1": "i ও ii",
-		"option2": "i ও iii",
-		"option3": "ii ও iii",
-		"option4": "i, ii ও iii"
+		"option1": "h3",
+		"option2": "h1",
+		"option3": "h2",
+		"option4": "h4"
 	},
-	"question": " হেডিং এর ট্যাগ-\ni. <h1> Biggest heading </h1>\nii. <h2> Smallest heading </h2>\niii. <h1> </h6>\nনিচের কোনটি সঠিক?",
+	"question": "নিচের কোনটি সবচেয়ে ছোট হেডিং?",
 	"answer": "4"
 },
 {
@@ -876,6 +876,6 @@
 		"option4": "i, ii ও iii"
 		
 		},
-	"question": "টেবিল তৈরির সাথে সংশ্লিষ্ট কয়েকটি ট্যাগ হল-\ni. <th>\nii. <tr>\niii. <thead>\nনিচের কোনটি সঠিক?",
+	"question": "টেবিল তৈরির সাথে সংশ্লিষ্ট কয়েকটি ট্যাগ হল-\ni. <th>\nii. <tr>\niii. <td>\nনিচের কোনটি সঠিক?",
 	"answer": "4"
 }]

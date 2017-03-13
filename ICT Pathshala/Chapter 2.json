@@ -12,17 +12,6 @@
 {
 	
 	"object": {
-		"option1": "কম্পিউটার নেটওয়ার্ক ",
-		"option2": "ডেটা কমিউনিকেশন",
-		"option3": "কমিউনিকেশন",
-		"option4": " টপোলজি"
-	},
-	"question": "কম্পিউটার কিংবা অন্য কোনো যন্ত্রের সাহায্যে ডেটাকে এক স্থান থেকে অন্য স্থানে কিংবা এক ডিভাইস থেকে অন্য ডিভাইসে স্থানান্তরের প্রক্রিয়াকে কী বলে?",
-	"answer": "2"
-},
-{
-	
-	"object": {
 		"option1": "২টি",
 		"option2": "৩টি",
 		"option3": "৪টি",
@@ -62,17 +51,6 @@
 		"option4": "বিমান"
 	},
 	"question": "নিচের কোনটি কমিউনিকেশন মাধ্যম নয়?",
-	"answer": "4"
-},
-{
-	
-	"object": {
-		"option1": "Optical Communication System ",
-		"option2": "Radioi Communication System",
-		"option3": "Duplex Communication System ",
-		"option4": "Digital Communication System"
-	},
-	"question": "কোনো ডকুমেন্ট মেইলের মাধ্যমে একস্থানে হতে অন্যস্থানে প্রেরণ কোন ধরনের কমিউনিকেশন সিস্টেম?",
 	"answer": "4"
 },
 {
@@ -118,17 +96,6 @@
 	},
 	"question": "ট্রান্সমিশন সিস্টেম হলো?",
 	"answer": "3"
-},
-{
-	
-	"object": {
-		"option1": "মডুলেটর",
-		"option2": "ডিমডুলেটর",
-		"option3": "ডিকোডার",
-		"option4": "মডেম"
-	},
-	"question": "নিম্নের কোনটি কম্পিউটারের ডিজিটাল সংকেতকে অ্যানালগ সংকেতে পরিণত করে টেলিফোন যোগাযোগ ব্যবস্থার দ্বারা গ্রাহকের নিকট প্রেরণ করে?",
-	"answer": "1"
 },
 {
 	
@@ -283,17 +250,6 @@
 	},
 	"question": "ডেটা কমিউনিকেশনের ক্ষেত্রে ডেটা প্রবাহের দিককে কী বলে?",
 	"answer": "3"
-},
-{
-	
-	"object": {
-		"option1": "সিনক্রোনাম ট্রান্সমিশন",
-		"option2": "এসিনক্রোনাম ট্রান্সমিশন",
-		"option3": "আইসোক্রানাস ট্রান্সমিশন",
-		"option4": "বিসিনক্রোনাস ট্রান্সমিশন"
-	},
-	"question": "যে ডেটা ট্রান্সমিশন সিস্টেমে প্রেরক থেকে ডেটা গ্রাহকের ক্যারেক্টার বাই ক্যারেক্টার ট্রান্সমিট হয় তাকে কী বলে?",
-	"answer": "2"
 },
 {
 	
@@ -778,17 +734,6 @@
 	},
 	"question": "Wi-fi- এর স্ট্যান্ডার্ড হচ্ছে-",
 	"answer": "3"
-},
-{
-	
-	"object": {
-		"option1": "Institute of Electrical and Electronics Engineers",
-		"option2": "Institute of Electrical and Electronics Engineers",
-		"option3": "Impact of Electrical and Electronics Engineers",
-		"option4": "Institute of Electrical and Electronics Engineers"
-	},
-	"question": "IEEE এর পূর্ণরুপ কী?",
-	"answer": "2"
 },
 {
 	
