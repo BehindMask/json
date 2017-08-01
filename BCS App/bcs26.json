@@ -1498,5 +1498,106 @@
       "option3": " দিয়াগো গার্সিয়া",
       "option4": " গ্রেট বেরিয়ার রীফ"
     }
+  },
+  {
+    "question": "151. রূপ লাগি আঁখি ঝুরে গুনে মন ভোর’‍‍‍‍ কার রচনা?",
+    "answer": "1",
+    "options": {
+      "option1": " জ্ঞানদাস ",
+      "option2": " চন্ডীদাস ",
+      "option3": " বিদ্যাপতি",
+      "option4": " লোচন দাস "
+    }
+  },
+
+{
+    "question": "152. কোন গ্রন্থটি মহাকাব্য?",
+    "answer": "3",
+    "options": {
+      "option1": " অবকাশ রঞ্জিনী ",
+      "option2": " বিরহ বিলাপ ",
+      "option3": " বৃত্র সংহার ",
+      "option4": " বীরাঙ্গনা কাব্য "
+    }
+  },
+{
+    "question": "153. উপসর্গ কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": " অতি ",
+      "option2": " থেকে",
+      "option3": " চেয়ে",
+      "option4": " দ্বারা "
+    }
+  },
+{
+    "question": "154. 'যে-ই তার দর্শন পেলাম,সে-ই আমরা প্রস্থান করলাম' -এটি কোন জাতীয় বাক্য?",
+    "answer": "4",
+    "options": {
+      "option1": " সরল বাক্য ",
+      "option2": " যোগিক বাক্য ",
+      "option3": " মৌলিক বাক্য ",
+      "option4": " মিশ্র বাক্য "
+    }
+  },
+{
+    "question": "155. Choose the correct passive form of-- 'Who will do the work?'",
+    "answer": "3",
+    "options": {
+      "option1": " Who will be done the work? ",
+      "option2": " Who will done the work? ",
+      "option3": " By whom will the work be done? ",
+      "option4": " Whom will the work be done? "
+    }
+  },
+{
+    "question": "156. Choose the correct preposition:    The tree has been blown .......... by the storm.",
+    "answer": "4",
+    "options": {
+      "option1": " away",
+      "option2": " out ",
+      "option3": " up ",
+      "option4": " off "
+    }
+  },
+{
+    "question": "157. 'Paediatric' relates to the treatment of ______",
+    "answer": "2",
+    "options": {
+      "option1": " adults ",
+      "option2": " children ",
+      "option3": " women ",
+      "option4": " old people "
+    }
+  },
+{
+    "question": "158. 'Out and out' means –",
+    "answer": "3",
+    "options": {
+      "option1": " Not at all ",
+      "option2": " Brave ",
+      "option3": " Thoroughly ",
+      "option4": " Whole heartedly "
+    }
+  },
+  {
+    "question": "159. স্টক শেয়ারে প্রবর্তিত নতুন পদ্ধতি কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": " ডিভিডেন্ড ",
+      "option2": " ডিসকাউন্ট ",
+      "option3": " ডিভ্যালু ",
+      "option4": " ডিম্যাট "
+    }
+  },
+  {
+    "question": "95. 'কান্তজীর মন্দির' কোন জেলায় অবস্থিত?",
+    "answer": "3",
+    "options": {
+      "option1": " জয়পুরহাট",
+      "option2": " কুমিল্লা",
+      "option3": " দিনাজপুর",
+      "option4": " রাঙ্গামাটি"
+    }
   }
 ]
