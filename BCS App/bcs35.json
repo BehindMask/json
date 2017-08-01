@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "1. 'পুরষ্কার-বিতরণী অনুষ্ঠানে পরিবেশ এত অপরিস্কার '।--বাক্যটির 'পুরষ্কার'এবং 'অপরিস্কার' এই দুইটি পদে ষ/স ব্যবহার-",
+    "answer": "3",
+    "options": {
+      "option1": "প্রথমটি অশুদ্ধ, দ্বিতীয়টি  শুদ্ধ",
+      "option2": "প্রথমটি শুদ্ধ, দ্বিতীয়টি অশুদ্ধ",
+      "option3": "দুটোই অশুদ্ধ",
+      "option4": "দুটোই শুদ্ধ"
+    }
+  },
+  {
+    "question": "2. কোন বানানটি শুদ্ধ?",
+    "answer": "1",
+    "options": {
+      "option1": "মনীষী",
+      "option2": "মনিষি",
+      "option3": "মনীষি",
+      "option4": "মনিষী"
+    }
+  },
+  {
+    "question": "3. কোন বাক্যটি শুদ্ধ?",
+    "answer": "4",
+    "options": {
+      "option1": "দৈন্যতা সর্বদা মহত্তের পরিচায়ক নয় ",
+      "option2": "দৈন্য সর্বদা মহত্তের পরিচায়ক নয়",
+      "option3": "দৈন্যতা সর্বদা মহত্ত্বের পরিচায়ক নয়",
+      "option4": "দৈন্য সর্বদা মহত্ত্বের পরিচায়ক নয়"
+    }
+  },
+  {
+    "question": "4. 'Consumer goods'-এর উপযুক্ত বাংলা পরিভাষা কি?",
+    "answer": "2",
+    "options": {
+      "option1": "ভোক্তার কল্যাণ",
+      "option2": "ভোগ্যপণ্য",
+      "option3": "ক্রয়কৃত পণ্য",
+      "option4": "ক্রেতার গুণাগুণ"
+    }
+  },
+  {
+    "question": "5. 'জল' শব্দের সমার্থক নয় কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "সলিল",
+      "option2": "উদক",
+      "option3": "জলধি",
+      "option4": "নীর"
+    }
+  },
+  {
+    "question": "6.  কোন শব্দজোড় বিপরীতার্থক নয়?",
+    "answer": "4",
+    "options": {
+      "option1": "অনুলোম-প্রতিলোম",
+      "option2": "নশ্বর-শাশ্বত",
+      "option3": "গরিষ্ঠ-লঘিষ্ঠ",
+      "option4": "হৃষ্ট-পুষ্ট"
+    }
+  },
+  {
+    "question": "7. 'পরশ্ব' শব্দটির অর্থ কী? ",
+    "answer": "1",
+    "options": {
+      "option1": "পরশু",
+      "option2": "পরের ধন",
+      "option3": "কোকিল",
+      "option4": "পার্শ্ববর্তী"
+    }
+  },
+  {
+    "question": "8. বাংলা ভাষায় মৌলিক স্বরধ্বনির সংখ্যা কত?",
+    "answer": "1",
+    "options": {
+      "option1": "৭টি",
+      "option2": "৯টি",
+      "option3": "১১টি",
+      "option4": "১৩টি"
+    }
+  },
+  {
+    "question": "9. বাংলা ভাষায় শব্দ সাধন হয় না নিম্নোক্ত কোন উপায়ে?",
+    "answer": "2",
+    "options": {
+      "option1": "সমাস দ্বারা",
+      "option2": "লিঙ্গ পরিবর্তন দ্বারা",
+      "option3": "উপসর্গ যোগে",
+      "option4": "ক, খ ও গ তিন উপায়েই হয়"
+    }
+  },
+  {
+    "question": "10. 'লবণ' শব্দের বিশেষ্য কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "নোনতা",
+      "option2": "লবণাক্ত",
+      "option3": "লাবণ্য",
+      "option4": "ললিত"
+    }
+  },
+  {
+    "question": "11. কোনটি বাক্যের বৈশিষ্ট্য নয়?",
+    "answer": "3",
+    "options": {
+      "option1": "যোগ্যতা",
+      "option2": "আকাঙ্ক্ষা",
+      "option3": "আসক্তি",
+      "option4": "আসত্তি"
+    }
+  },
+  {
+    "question": "12. নিচের কোন শব্দটি প্রত্যয় সাধিত?",
+    "answer": "2",
+    "options": {
+      "option1": "প্রলয়",
+      "option2": "খণ্ডিত",
+      "option3": "নিঃশ্বাস",
+      "option4": "অনুপম"
+    }
+  },
+  {
+    "question": "13. 'দ্বৈপায়ন' শব্দের শুদ্ধ সন্ধিবিচ্ছেদ কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "দ্বীপ+আয়ন",
+      "option2": "দ্বীপ+অয়ন",
+      "option3": "দ্বিপ+অনট",
+      "option4": "দীপ+অনট"
+    }
+  },
+  {
+    "question": "14. 'জজ সাহেব' কোন সমাসের উদাহরণ?' ",
+    "answer": "2",
+    "options": {
+      "option1": "দ্বিগু",
+      "option2": "কর্মধারয়",
+      "option3": "দ্বন্দ্ব",
+      "option4": "বহুব্রীহি"
+    }
+  },
+  {
+    "question": "15. নিচের কোনটি ধ্বনি পরিবর্তনের উদাহরণ নয়?",
+    "answer": "1",
+    "options": {
+      "option1": "প্রাতিপাদিক",
+      "option2": "অভিশ্রুতি",
+      "option3": "অপিনিহিতি",
+      "option4": "ধ্বনি-বিপর্যয়"
+    }
+  },
+  {
+    "question": "16. সবচেয়ে বেশি চর্যাপদ পাওয়া গেছে কোন কবির?",
+    "answer": "4",
+    "options": {
+      "option1": "লুইপা",
+      "option2": "শবরপা",
+      "option3": "ভুসুকুপা",
+      "option4": "কাহ্নপা"
+    }
+  },
+  {
+    "question": "17. বাংলা সাহিত্যের প্রাচীন যুগের নিদর্শন কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": "নিরঞ্জনের রুষ্মা",
+      "option2": "দোহাকোষ",
+      "option3": "গুপিচন্দ্রের সন্ন্যাস",
+      "option4": "ময়নামতির গান"
+    }
+  },
+  {
+    "question": "18. 'তাম্বুল রাতুল হইল অধর পরশে'---অর্থ কী?",
+    "answer": "1",
+    "options": {
+      "option1": "ঠোঁটের পরশে পান লাল হল",
+      "option2": "পানের পরশে ঠোঁট লাল হল",
+      "option3": "অস্তাচলগামী সূর্যের আভায় মুখ রক্তিম দেখা গেল",
+      "option4": "অস্তাচলগামী সূর্য  ও মুখ একই রকম লাল হয়ে গেল"
+    }
+  },
+  {
+    "question": "19. 'হপ্ত পয়কর' কার রচনা?",
+    "answer": "1",
+    "options": {
+      "option1": "সৈয়দ আলাওল",
+      "option2": "জৈনুদ্দিন",
+      "option3": "অমিয় দেব",
+      "option4": "দীনবন্ধু মিত্র"
+    }
+  },
+  {
+    "question": "20. মঙ্গলকাব্যের কবি নন কে?",
+    "answer": "4",
+    "options": {
+      "option1": "কানাহরি দত্ত",
+      "option2": "মানিক দত্ত",
+      "option3": "ভারতচন্দ্র",
+      "option4": "দাশু রায়"
+    }
+  },
+  {
+    "question": "21. 'সমাচার দর্পণ' পত্রিকার সম্পাদক ছিলেন---",
+    "answer": "1",
+    "options": {
+      "option1": "জন ক্লার্ক মার্শম্যান ",
+      "option2": "জর্জ আব্রাহাম গ্রিয়ার্সন",
+      "option3": "উইলিয়াম কেরি",
+      "option4": "ডেভিড হেয়ার"
+    }
+  },
+  {
+    "question": "22.  কোনটি ঈশ্বরচন্দ্র বিদ্যাসাগরের আত্মজীবনী?",
+    "answer": "2",
+    "options": {
+      "option1": "স্মৃতি কথামালা",
+      "option2": "আত্মচরিত",
+      "option3": "আত্মকথা",
+      "option4": "আমার কথা"
+    }
+  },
+  {
+    "question": "23. রবীন্দ্রনাথ ঠাকুরের পূর্বপুরুষের আদিবসতি কোথায় ছিল?",
+    "answer": "1",
+    "options": {
+      "option1": "খুলনার দক্ষিণ ডিহি",
+      "option2": "যশোরের কেশবপুর",
+      "option3": "ছোটনাগপুর মালভূমি",
+      "option4": "কুষ্টিয়ার শিলাইদহ"
+    }
+  },
+  {
+    "question": "24. 'তেল নুন লকড়ি' কার রচিত গ্রন্থ?",
+    "answer": "3",
+    "options": {
+      "option1": "প্রবোধ চন্দ্র সেন",
+      "option2": "প্রমথনাথ বিশি",
+      "option3": "প্রমথ চৌধুরী",
+      "option4": "প্রদ্যুম্ন মিত্র"
+    }
+  },
+  {
+    "question": "25. বাংলা সাহিত্যের প্রথম সার্থক ট্রাজেডি নাটক কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "কৃষ্ণকুমারী",
+      "option2": "শর্মিষ্ঠা",
+      "option3": "সধবার একাদশী",
+      "option4": "নীলদর্পণ"
+    }
+  },
+  {
+    "question": "26. 'কপাল কুন্ডলা' কোন প্রকৃতির রচনা?",
+    "answer": "1",
+    "options": {
+      "option1": "রোমান্সমূলক উপন্যাস",
+      "option2": "বিয়োগান্তক নাটক",
+      "option3": "ঐতিহাসিক উপন্যাস",
+      "option4": "সামাজিক উপন্যাস"
+    }
+  },
+  {
+    "question": "27. কোনটি রবীন্দ্র রচনার অন্তর্গত নয়?",
+    "answer": "2",
+    "options": {
+      "option1": "'কালের যাত্রার ধ্বনি শুনিতে কি পাও'?",
+      "option2": " 'অগ্নিগ্রাসী বিশ্বত্রাসি জাগুক আবার আত্মদান'।",
+      "option3": "'প্রাণের মানুষ আছে প্রাণে তাই হেরি তায় সকল খানে'? ",
+      "option4": "'কি আঁচল বিছায়েছ বটের মূলে নদীর কূলে'।"
+    }
+  },
+  {
+    "question": "28. দ্রোপদী কে?",
+    "answer": "4",
+    "options": {
+      "option1": "রামায়ণে সীতার সহচরী",
+      "option2": "মহাভারতে দুর্যোধনের স্ত্রী",
+      "option3": "রামায়ণে লক্ষণের প্রণয়প্রার্থী নারী",
+      "option4": "মহাভারতে পাঁচ ভাইয়ের একক স্ত্রী"
+    }
+  },
+  {
+    "question": "29. 'মিলির হাতে স্টেনগান'--গল্পটি কার লেখা?",
+    "answer": "1",
+    "options": {
+      "option1": "আখতারুজ্জামান ইলিয়াস",
+      "option2": "শওকত ওসমান",
+      "option3": "শহীদুল জহির",
+      "option4": "শওকত আলী"
+    }
+  },
+  {
+    "question": "30. 'অসমাপ্ত আত্মজীবনী' কার রচিত গ্রন্থ?",
+    "answer": "1",
+    "options": {
+      "option1": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+      "option2": "শেখ হাসিনা",
+      "option3": "মওলানা আবদুল হামিদ খান ভাসানী",
+      "option4": "এ, কে, ফজলুল হক"
+    }
+  },
+  {
+    "question": "31. 'প্রাণের বান্ধব রে বুড়ি হইলাম তোর কারণে।'---গানটির গীতিকার কে? ",
+    "answer": "3",
+    "options": {
+      "option1": "শাহ আবদুল করিম",
+      "option2": "রাধারমন",
+      "option3": "শেখ  ওয়াহিদ",
+      "option4": "কুদ্দুস বয়াতি"
+    }
+  },
+  {
+    "question": "32. 'মাটির ময়না 'চলচ্চিত্রের নির্মাতা কে? ",
+    "answer": "3",
+    "options": {
+      "option1": "আলমগীর কবির",
+      "option2": "হুমায়ুন আহমেদ",
+      "option3": "তারেক মাসুদ",
+      "option4": "শেখ নিয়ামত আলী"
+    }
+  },
+  {
+    "question": "33. 'হুলিয়া' কবিতা কার রচনা? ",
+    "answer": "4",
+    "options": {
+      "option1": "আবুল হাসান",
+      "option2": "আবুল হোসেন",
+      "option3": "মহাদেব সাহা",
+      "option4": "নির্মলেন্দু গুণ"
+    }
+  },
+  {
+    "question": "34. নিচের কোন সাহিত্যিক আততায়ীর হাতে ঢাকায় মৃত্যুবরণ করেন?",
+    "answer": "3",
+    "options": {
+      "option1": "আবুল হাসান",
+      "option2": "হুমায়ুন কবির",
+      "option3": "সোমেন চন্দ",
+      "option4": "কল্যাণ মিত্র"
+    }
+  },
+  {
+    "question": "35.  নিম্নোক্ত কোন উপন্যাসে বাংলাদেশের মুক্তিযুদ্ধোত্তর সময়ের চিত্র অঙ্কিত হয়েছে?",
+    "answer": "4",
+    "options": {
+      "option1": "দেবেশ রায়ের 'তিস্তা পাড়ের বৃত্তান্ত' ",
+      "option2": "অভিজিৎ সেনের 'বহুচন্ডালের হাড়' ",
+      "option3": "সুনীল গঙ্গোপাধ্যায়ের 'পূর্ব-পশ্চিম' ",
+      "option4": "শীর্ষেন্দু মুখোপাধ্যায়ের 'যাও পাখি' "
+    }
+  },
+  {
+    "question": "36. Cricket enjoys a huge__ in Bangladesh.",
+    "answer": "4",
+    "options": {
+      "option1": "follow on",
+      "option2": "fall out",
+      "option3": "follow",
+      "option4": "following"
+    }
+  },
+  {
+    "question": "37. Who wrote the following lines: 'all at once I saw/a crowd, a host of golden daffodils'?",
+    "answer": "1",
+    "options": {
+      "option1": "Wordsworth",
+      "option2": "Herrick",
+      "option3": "Shelly",
+      "option4": "Keats"
+    }
+  },
+  {
+    "question": "38. What would be the right synonym for 'Initiative'?",
+    "answer": "3",
+    "options": {
+      "option1": "Apathy",
+      "option2": "Andolence",
+      "option3": "Enterprise",
+      "option4": "Activity"
+    }
+  },
+  {
+    "question": "39.Which of the following words can be used as a verb?",
+    "answer": "2",
+    "options": {
+      "option1": "Mister",
+      "option2": "Master",
+      "option3": "Mistress",
+      "option4": "Mastery"
+    }
+  },
+  {
+    "question": "40. Who among the following writers is nit a Nobel Laureate?",
+    "answer": "3",
+    "options": {
+      "option1": "T.S. Eliot",
+      "option2": "Toni Morrison",
+      "option3": "Grahame Greene",
+      "option4": "William Faulkner"
+    }
+  },
+  {
+    "question": "41. The correct passive form of 'You must shut these doors' is---",
+    "answer": "4",
+    "options": {
+      "option1": "These must be shut doors",
+      "option2": "Shut the doors you must",
+      "option3": "Shut must be the doors",
+      "option4": "These doors must be shut"
+    }
+  },
+  {
+    "question": "42. The film was directed in the director's usual--- style.",
+    "answer": "2",
+    "options": {
+      "option1": "confusion",
+      "option2": "idiosyncratic",
+      "option3": "personifying",
+      "option4": "purifying"
+    }
+  },
+  {
+    "question": "43.Which word is the determiner in the sentence 'Will it take much time?'?",
+    "answer": "3",
+    "options": {
+      "option1": "will",
+      "option2": "take",
+      "option3": "much",
+      "option4": "time"
+    }
+  },
+  {
+    "question": "44. The play 'Arms and Man' is by---",
+    "answer": "4",
+    "options": {
+      "option1": "James Joyce",
+      "option2": "Samuel Beckett",
+      "option3": "Arthur Miller",
+      "option4": "George Bernard Shaw"
+    }
+  },
+  {
+    "question": "45. 'He was a rather disagreeable man.' Here the word 'disagreeable' is a/an-- ",
+    "answer": "2",
+    "options": {
+      "option1": "Noun",
+      "option2": "Adjective",
+      "option3": "Adverb",
+      "option4": "Preposition"
+    }
+  },
+  {
+    "question": "46. This could have worked if I---been more far-sighted.",
+    "answer": "1",
+    "options": {
+      "option1": "had",
+      "option2": "have",
+      "option3": "might",
+      "option4": "would"
+    }
+  },
+  {
+    "question": "47. The 'climax' of a plot is what happens---",
+    "answer": "3",
+    "options": {
+      "option1": "in the begining",
+      "option2": "at the end",
+      "option3": "at the height",
+      "option4": "in the confrontation"
+    }
+  },
+  {
+    "question": "48. Choose the pair of words that expresses a relationship similar to that of 'Harms:Damage' ---",
+    "answer": "2",
+    "options": {
+      "option1": "Sweet:Sour",
+      "option2": "Injure:Incapacitate",
+      "option3": "Stout:Weak",
+      "option4": "Hook:Crook"
+    }
+  },
+  {
+    "question": "49.'Othello' is a Shakespeare's play about--",
+    "answer": "4",
+    "options": {
+      "option1": "A Jew",
+      "option2": "A Roman",
+      "option3": "A Turk",
+      "option4": "A Moor"
+    }
+  },
+  {
+    "question": "50. In the 18th Century the Mughal Empire begun to---",
+    "answer": "2",
+    "options": {
+      "option1": "discriminate",
+      "option2": "disintegrate",
+      "option3": "differentiate",
+      "option4": "dislocate"
+    }
+  },
+  {
+    "question": "51. Being fat does not neccessarily kill you, but it--- the risk that you will suffer from nasty diseases.",
+    "answer": "1",
+    "options": {
+      "option1": "increases",
+      "option2": "emphasizes",
+      "option3": "encourages",
+      "option4": "involves"
+    }
+  },
+  {
+    "question": "52. The poem 'Isle of Innisfree' is written by---",
+    "answer": "4",
+    "options": {
+      "option1": "Dylan Thomas",
+      "option2": "Ezra Pound",
+      "option3": "W.H. Auden",
+      "option4": "W.B. Yeats"
+    }
+  },
+  {
+    "question": "53. Riders to the Sea is---",
+    "answer": "3",
+    "options": {
+      "option1": "an epic poem",
+      "option2": "a novella",
+      "option3": "a one-act play",
+      "option4": "a theatrical adaptation of a poem"
+    }
+  },
+  {
+    "question": "54. 'It is time to review the protocol on testing nuclear weapons'. Here the word 'protocol' means--- ",
+    "answer": "3",
+    "options": {
+      "option1": "Record of rules",
+      "option2": "Summary of rules",
+      "option3": "Procedures",
+      "option4": "Problems"
+    }
+  },
+  {
+    "question": "55.___ amazing song haunted me for a long time.",
+    "answer": "3",
+    "options": {
+      "option1": "These",
+      "option2": "Those",
+      "option3": "That",
+      "option4": "Thus"
+    }
+  },
+  {
+    "question": "56. Let us begin by looking at the minutes of the meeting. Here the word 'minutes' means--",
+    "answer": "3",
+    "options": {
+      "option1": "time record",
+      "option2": "time frame",
+      "option3": "written records",
+      "option4": "written analysis"
+    }
+  },
+  {
+    "question": "57. The noise level in Dhaka city has increased exponentially. Here the word 'exponentially' means--",
+    "answer": "4",
+    "options": {
+      "option1": "amazingly",
+      "option2": "shockingly",
+      "option3": "steadily",
+      "option4": "rapidly"
+    }
+  },
+  {
+    "question": "58. Which of the following writers belong to the Eliabethan period?",
+    "answer": "1",
+    "options": {
+      "option1": "Christopher Marlowe",
+      "option2": "Alexander Pope",
+      "option3": "John Dryden",
+      "option4": "Samuel Beckett"
+    }
+  },
+  {
+    "question": "59. Women are too often___ by family commitments.",
+    "answer": "4",
+    "options": {
+      "option1": "confused",
+      "option2": "controlled",
+      "option3": "contaminated",
+      "option4": "constrained"
+    }
+  },
+  {
+    "question": "60. 'To be, or not to be, that is the question'---is a famous dialouge from-- ",
+    "answer": "3",
+    "options": {
+      "option1": "Othello",
+      "option2": "Romeo and Juliet",
+      "option3": "Hamlet",
+      "option4": "Macbeth"
+    }
+  },
+  {
+    "question": "61. Class relations and societal conflict is the key understanding of---",
+    "answer": "4",
+    "options": {
+      "option1": "Feminism",
+      "option2": "Formalism",
+      "option3": "Structuralism",
+      "option4": "Marxism"
+    }
+  },
+  {
+    "question": "62. Societies living in the periphery are always ignored. Here the word 'periphery' means",
+    "answer": "2",
+    "options": {
+      "option1": "offshore areas",
+      "option2": "marginal areas",
+      "option3": "remote places",
+      "option4": "backward regions"
+    }
+  },
+  {
+    "question": "63. The idioms 'A stitch in time saves nine'---refers the importance of--- ",
+    "answer": "2",
+    "options": {
+      "option1": "saving lives",
+      "option2": "timely action",
+      "option3": "saving time",
+      "option4": "time tailoring"
+    }
+  },
+  {
+    "question": "64. Which is the correct sentence?",
+    "answer": "1",
+    "options": {
+      "option1": "He insisted on seeing her",
+      "option2": "He insisted for seeing her",
+      "option3": "He insisted in seeing her",
+      "option4": "He insisted to be seeing her"
+    }
+  },
+  {
+    "question": "65. The phrase 'nouveau riche' means--",
+    "answer": "4",
+    "options": {
+      "option1": "Riche rich",
+      "option2": "Well off",
+      "option3": "New high class",
+      "option4": "New rich"
+    }
+  },
+  {
+    "question": "66. What would be the best antonym of 'hibernate'?",
+    "answer": "2",
+    "options": {
+      "option1": "dormancy",
+      "option2": "liveliness",
+      "option3": "sluggishness",
+      "option4": "democracy"
+    }
+  },
+  {
+    "question": "67. I am in the process of collecting material for my story.Here the word 'material' is a/an---",
+    "answer": "4",
+    "options": {
+      "option1": "Verb",
+      "option2": "Adjective",
+      "option3": "Adverb",
+      "option4": "Noun"
+    }
+  },
+  {
+    "question": "68. Depression is often hereditary.Here the word 'hereditary' is a/an--",
+    "answer": "2",
+    "options": {
+      "option1": "Adverb",
+      "option2": "Adjective",
+      "option3": "Noun",
+      "option4": "Verb"
+    }
+  },
+  {
+    "question": "69. Find the odd-man-out---",
+    "answer": "1",
+    "options": {
+      "option1": "George Eliot",
+      "option2": "Thomas Hardy",
+      "option3": "Joseph Conrad",
+      "option4": "James Joyce"
+    }
+  },
+  {
+    "question": "70. Find out the odd-man-out--",
+    "answer": "3",
+    "options": {
+      "option1": "The Bluest Eye",
+      "option2": "Sula",
+      "option3": "As I Lay Dying",
+      "option4": "A Mercy"
+    }
+  },
+  {
+    "question": "71. 'সোয়াচ অব নো গ্রাউন্ড' কোথায় অবস্থিত?",
+    "answer": "3",
+    "options": {
+      "option1": "যমুনা নদীতে",
+      "option2": "মেঘনার মোহনায়",
+      "option3": "বঙ্গোপসাগরে",
+      "option4": "সন্দ্বীপ চেনেলে"
+    }
+  },
+  {
+    "question": "72. বাগদা চিংড়ি কোন দশক থেকে রপ্তানী পণ্য হিসেবে স্থান করে নেয়?",
+    "answer": "4",
+    "options": {
+      "option1": "পঞ্চাশ দশক",
+      "option2": "ষাট দশক",
+      "option3": "সত্তর দশক",
+      "option4": "আশির দশক"
+    }
+  },
+  {
+    "question": "73. বাংলাদেশ সংবিধানে প্রশাসনিক ট্রাইব্যুনাল বিষয়টি কোন অনুচ্ছেদে সন্নিবেশিত হয়েছে? ",
+    "answer": "2",
+    "options": {
+      "option1": "১১০",
+      "option2": "১১৭",
+      "option3": "১১৫",
+      "option4": "১২০"
+    }
+  },
+  {
+    "question": "74. বাংলাদেশে বেসরকারি টিভি চ্যানেলের সংখ্যা-",
+    "answer": "3",
+    "options": {
+      "option1": "২৫",
+      "option2": "২৬",
+      "option3": "২৭",
+      "option4": "২৮"
+    }
+  },
+  {
+    "question": "75. 'অলিভ টারটল কোন বাংলাদেশের কোন দ্বীপে  পাওয়া যায়?'",
+    "answer": "1",
+    "options": {
+      "option1": "সেন্টমার্টিন",
+      "option2": "রাঙ্গাবালি",
+      "option3": "চর আলেকজান্ডার",
+      "option4": "ছেড়াদ্বীপ"
+    }
+  },
+  {
+    "question": "76. চীনা পরিব্রাজক হিউয়েন সাঙ্গ- এর দীক্ষাগুরু কে ছিলেন?",
+    "answer": "2",
+    "options": {
+      "option1": "অতীশ দীপঙ্কর",
+      "option2": "শিলভদ্র",
+      "option3": "মাহুয়ান",
+      "option4": "মেগাস্তিনিস"
+    }
+  },
+  {
+    "question": "77. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+    "answer": "3",
+    "options": {
+      "option1": "রাঙামাটি",
+      "option2": "খাগড়াছড়ি",
+      "option3": "বান্দরবান",
+      "option4": "সিলেট"
+    }
+  },
+  {
+    "question": "78. বাংলাদেশে ইউনিয়ন পরিষদের সংখ্যা কত?",
+    "answer": "2",
+    "options": {
+      "option1": "৪৫০০",
+      "option2": "৪৫৫০",
+      "option3": "৫৬০০",
+      "option4": "৪৬০০"
+    }
+  },
+  {
+    "question": "79. মহাস্থবীর শিলভদ্র কোন মহাবিহারের আচার্য ছিলেন?",
+    "answer": "2",
+    "options": {
+      "option1": "আনন্দ বিহার",
+      "option2": "নালন্দা বিহার",
+      "option3": "গোসিপো বিহার",
+      "option4": "সোমপুর বিহার"
+    }
+  },
+  {
+    "question": "80.খাসিয়া গ্রামগুলো  কি নামে পরিচিত?",
+    "answer": "3",
+    "options": {
+      "option1": "বারাং",
+      "option2": "পাড়া",
+      "option3": "পুঞ্জি",
+      "option4": "মৌজা"
+    }
+  },
+  {
+    "question": "81. লর্ড ক্যানিং ভারত উপমহাদেশে প্রথম কোন ব্যবস্থা চালু করেন?",
+    "answer": "4",
+    "options": {
+      "option1": "চিরস্থায়ী বন্দোবস্ত ব্যবস্থা",
+      "option2": "দ্বৈত শাসন ব্যবস্থা",
+      "option3": "সতিদাহ নিবারণ ব্যবস্থা",
+      "option4": "পুলিশ ব্যবস্থা"
+    }
+  },
+  {
+    "question": "82. ১৯ মে ২০১২ তারিখে কোন বাংলাদেশী এভারেষ্ট জয় করেন?",
+    "answer": "3",
+    "options": {
+      "option1": "মুসা ইব্রাহীম",
+      "option2": "এম.এ. মুহিত",
+      "option3": "নিশাত মজুমদার",
+      "option4": "অয়াসফিয়া নাজনীন"
+    }
+  },
+  {
+    "question": "83. পাকিস্তানের গণপরিষদের অধিবেশনে বাংলাকে রাষ্ট্রভাষা করার প্রথম দাবী কে উত্থাপন করেন?",
+    "answer": "2",
+    "options": {
+      "option1": "আবদুল মতিন",
+      "option2": "ধীরেন্দ্রনাথ দত্ত",
+      "option3": "শেরে বাংলা এ কে ফজলুল হক",
+      "option4": "হোসেন শহীদ সোহরাওয়ার্দী"
+    }
+  },
+  {
+    "question": "84. বিখ্যাত চিত্রকর্ম 'তিন কন্যা' এর চিত্রকর কে?",
+    "answer": "2",
+    "options": {
+      "option1": " জয়নুল আবেদীন",
+      "option2": " কামরুল হাসান",
+      "option3": " এস এম সুলতান",
+      "option4": " রফিকুন্নবী"
+    }
+  },
+  {
+    "question": "85. যশোর জেলায় অবস্থিত বিল--- ",
+    "answer": "3",
+    "options": {
+      "option1": " হাইল",
+      "option2": " পাথরচাওলি",
+      "option3": " ভবদহ",
+      "option4": " আড়িয়াল"
+    }
+  },
+  {
+    "question": "86. বিশ্ব জনসংখ্যা প্রতিবেদন ২০০৯ অনুযায়ী জনসংখ্যার দিক থেকে বিশ্বে বাংলাদেশের অবস্থান কততম?",
+    "answer": "1",
+    "options": {
+      "option1": " ৭ম",
+      "option2": " ৮ম",
+      "option3": " ৯ম",
+      "option4": " কোনটিই নয়"
+    }
+  },
+  {
+    "question": "87. বাংলাদেশ অর্থনৈতিক সমীক্ষা ২০১৪ অনুযায়ী গড় স্বাক্ষরতার হার---",
+    "answer": "2",
+    "options": {
+      "option1": " ৬১.১%",
+      "option2": " ৫৭.৯%",
+      "option3": " ৫৬.৮%",
+      "option4": " ৬৫.৫%"
+    }
+  },
+  {
+    "question": "88. বাংলাদেশের মুক্তিযুদ্ধের সর্বাধিনায়ক কে ছিলেন?",
+    "answer": "1",
+    "options": {
+      "option1": " বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+      "option2": " জেনারেল এম এ জি ওসমানী",
+      "option3": " কর্নেল সফিউল্লাহ",
+      "option4": " মেজর জিয়াউর রহমান"
+    }
+  },
+  {
+    "question": "89. বর্ণালী এবং শুভ্র কী?",
+    "answer": "1",
+    "options": {
+      "option1": " উন্নত জাতের ভুট্টা",
+      "option2": " উন্নত জাতের আম",
+      "option3": " উন্নত জাতের গম",
+      "option4": " উন্নত৫ জাতের চাল"
+    }
+  },
+  {
+    "question": "90. গভীর সমুদ্রবন্দর নির্মাণের জন্য প্রস্তাবিত সোনাদিয়া দ্বীপের আয়তন কত?",
+    "answer": "2",
+    "options": {
+      "option1": " ৯১ বর্গ কিলোমিটার",
+      "option2": " ৯ বর্গ কিলোমিটার",
+      "option3": " ৮ বর্গ কিলোমিটার",
+      "option4": " ৭ বর্গ কিলোমিটার"
+    }
+  },
+  {
+    "question": "91. 'Making of a nation Bangladesh' গ্রন্থটির রচয়িতা কে?",
+    "answer": "3",
+    "options": {
+      "option1": " কামাল হোসেন",
+      "option2": " এস এ করিম",
+      "option3": " নুরুল ইসলাম",
+      "option4": " আনিসুর রহমান"
+    }
+  },
+  {
+    "question": "92. জীবনঢুলী কি?",
+    "answer": "4",
+    "options": {
+      "option1": " একটি উপন্যাসের নাম",
+      "option2": " একটি কাব্যগ্রন্থের নাম",
+      "option3": " একটি আত্মজীবনীর নাম",
+      "option4": " একটি চলচ্চিত্রের নাম"
+    }
+  },
+  {
+    "question": "93. বাংলাদেশের পক্ষে ওয়ানডে অভিষেকে কোন ক্রিকেটার পাঁচ উইকেট পেয়েছেন?",
+    "answer": "4",
+    "options": {
+      "option1": " সোহাগ গাজী",
+      "option2": " রুবেল হোসেন",
+      "option3": " তাইজুল ইসলাম",
+      "option4": " তাসকিন আহমেদ"
+    }
+  },
+  {
+    "question": "94. পরিকল্পনা কমিশনের গৃহীত পদক্ষেপ অনুযায়ী সপ্তম পঞ্চবার্ষিক পরিকল্পনা কোন মেয়াদে হবে?",
+    "answer": "2",
+    "options": {
+      "option1": " ২০১৫-২০১৯",
+      "option2": " ২০১৬-২০২০",
+      "option3": " ২০১৭-২০২১",
+      "option4": " ২০১৮-২০২২"
+    }
+  },
+  {
+    "question": "95. দ্য ব্লাড টেলিগ্রাম  ( The Blood Telegram) গ্রন্থটির লেখক---",
+    "answer": "3",
+    "options": {
+      "option1": " রিচার্ড সেশন",
+      "option2": " মার্কাস ফ্রান্ডা",
+      "option3": " গ্যারি যে ব্যাস",
+      "option4": "পল ওয়ালেচ"
+    }
+  },
+  {
+    "question": "96. বিশ্ব বাজারে বাংলাদেশের ব্ল্যাক বেঙ্গল ছাগলের চামড়া কি নামে পরিচিত?",
+    "answer": "1",
+    "options": {
+      "option1": " কুষ্টিয়া গ্রেড",
+      "option2": " চুয়াডাঙ্গা গ্রেড",
+      "option3": " ঝিনাইদহ গ্রেড",
+      "option4": " মেহেরপুর গ্রেড"
+    }
+  },
+  {
+    "question": "97. কোন বিখ্যাত ম্যাগাজিন বঙ্গবন্ধু শেখ মুজিবুর রহমানকে রাজনীতির কবি (  Poet of Politics) আখ্যা দিয়েছিল?",
+    "answer": "3",
+    "options": {
+      "option1": " টাইম",
+      "option2": " ইকোনোমিষ্ট",
+      "option3": " নিউজ উইকস",
+      "option4": " ইকোনোমিক এন্ড পলিটিক্যাল উইকলি"
+    }
+  },
+  {
+    "question": "98. বাংলাদেশের কোন অঞ্চলকে ৩৬০ আউলিয়ার দেশ বলা হয়?",
+    "answer": "4",
+    "options": {
+      "option1": " রাজশাহী",
+      "option2": " ঢাকা",
+      "option3": " চট্টগ্রাম",
+      "option4": " সিলেট"
+    }
+  },
+  {
+    "question": "99. ন্যাচারাল গ্যাস ফার্টিলাইজার ফ্যাক্টরি লিঃ এর উৎপাদিত সারের নাম কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": " ইউরিয়া এবং এএসপি",
+      "option2": " ইউরিয়া",
+      "option3": " টিএসপি এবং এএসপি",
+      "option4": " ডিএপি"
+    }
+  },
+  {
+    "question": "100. ম্যানগ্রোভ কি?",
+    "answer": "3",
+    "options": {
+      "option1": " কেওড়া বন",
+      "option2": " শালবন",
+      "option3": " উপকূলীয় বন",
+      "option4": " চিরহরিৎ বন"
+    }
+  },
+  {
+    "question": "101. নেপালের সর্বশেষ রাজা ছিলেন?",
+    "answer": "2",
+    "options": {
+      "option1": " রাজা ধীরেন্দ্র",
+      "option2": " রাজা জ্ঞানেন্দ্র",
+      "option3": " রাজা বীরেন্দ্র",
+      "option4": "রাজা মহেন্দ্র"
+    }
+  },
+  {
+    "question": "102. প্রথম বিশ্বযুদ্ধ চলাকালীন বেলফোর ঘোষণা ১৯১৭ এর মূল প্রতিপাদ্য ছিল---",
+    "answer": "3",
+    "options": {
+      "option1": " জাতিপুঞ্জ সৃষ্টি করা",
+      "option2": " অটোমানদের জায়গা দখল করা",
+      "option3": " ইহুদীদের জন্য একটি জাতি রাষ্ট্র গঠন",
+      "option4": "জার্মানির বিরুদ্ধে মিত্র শক্তির নতুন কৌশল অবলম্বন"
+    }
+  },
+  {
+    "question": "103. প্রশান্ত মহাসাগরে যুক্তরাষ্ট্রের সপ্তম নৌবহরের সদর দপ্তর হচ্ছে---",
+    "answer": "1",
+    "options": {
+      "option1": " ইউকোসুক",
+      "option2": " হাওয়াই",
+      "option3": " গোয়াম",
+      "option4": " সুবিক বে"
+    }
+  },
+  {
+    "question": "104.'ডমিনো' তত্ত্বটি কোন অঞ্চলের জন্য প্রযোজ্য ছিল? ",
+    "answer": "2",
+    "options": {
+      "option1": " নিকট প্রাচ্য",
+      "option2": " পূর্ব আফ্রিকা",
+      "option3": " দক্ষিণ-পূর্ব এশিয়া",
+      "option4": " পূর্ব ইউরোপ"
+    }
+  },
+  {
+    "question": "105. 'গ্লাসনস্তনীতি' কোন দেশে চালু হয়েছিল? ",
+    "answer": "2",
+    "options": {
+      "option1": " চীন",
+      "option2": " সাবেক সোভিয়েত ইউনিয়ন",
+      "option3": " হাঙ্গেরি",
+      "option4": " পোল্যান্ড"
+    }
+  },
+  {
+    "question": "106. ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদির শপথগ্রহণ অনুষ্ঠানে সার্ক অঞ্চলের বাহিরে আমন্ত্রিত রাষ্ট্রের সংখ্যা----",
+    "answer": "4",
+    "options": {
+      "option1": " ২",
+      "option2": " ৩",
+      "option3": " ৪",
+      "option4": " ১"
+    }
+  },
+  {
+    "question": "107. বর্তমান বিশ্বের কোন দেশটির সংবিধানকে 'শান্তি সংবিধান' বলা হয়? ",
+    "answer": "1",
+    "options": {
+      "option1": " জাপান",
+      "option2": " পেরু",
+      "option3": " কোস্টারিকা",
+      "option4": " সুইজারল্যান্ড"
+    }
+  },
+  {
+    "question": "108. 'Global Terrorism Index' ২০১৪ অনুযায়ী বিশ্বে সর্বাপেক্ষা ঝুঁকিপূর্ণ রাষ্ট্র--- ",
+    "answer": "3",
+    "options": {
+      "option1": " সিরিয়া",
+      "option2": " সুদান",
+      "option3": " ইরাক",
+      "option4": " সোমালিয়া"
+    }
+  },
+  {
+    "question": "109. জলবায়ু পরিবর্তনের হুমকির ব্যাপকতা তুলে ধরার জন্য কোন দেশটি সমুদ্রের গভীরে মন্ত্রীসভার বৈঠক করেছে?",
+    "answer": "4",
+    "options": {
+      "option1": " ফিজি",
+      "option2": " পাপুয়া নিউগিনি",
+      "option3": " গোয়াম",
+      "option4": " মালদ্বীপ"
+    }
+  },
+  {
+    "question": "110. দ্বিতীয় বিশ্বযুদ্ধের পর পূর্ব-পশ্চিম দ্বন্দ্বের ফলে সৃষ্ট পূর্বের অর্থনৈতিক জোটটির নাম ছিল---",
+    "answer": "3",
+    "options": {
+      "option1": " কমিন্টার্ন",
+      "option2": " কমিনফর্ম",
+      "option3": " কমেকন",
+      "option4": " কোনটিই নয়"
+    }
+  },
+  {
+    "question": "111. ব্রিকসের সর্বশেষ বৈঠক অনুষ্ঠিত হয়---",
+    "answer": "2",
+    "options": {
+      "option1": " রাশিয়া",
+      "option2": " ব্রাজিল",
+      "option3": " ভারত",
+      "option4": " দক্ষিণ আফ্রিকা"
+    }
+  },
+  {
+    "question": "112. উইঘুর হল---",
+    "answer": "4",
+    "options": {
+      "option1": " চীনের একটি খাবারের নাম",
+      "option2": " চীনের একটি ধর্মীয় স্থানের নাম",
+      "option3": " চীনের একটি শহরের নাম",
+      "option4": " চীনের একটি সম্প্রদায়ের নাম"
+    }
+  },
+  {
+    "question": "113. ১৯৮২ সালের সমুদ্র আইন সংক্রান্ত কনভেনশন অনুযায়ী একটি উপকূলীয় রাষ্ট্রের মহীসোপানের  ( Continental Shelf) সীমা হবে ভিত্তি রেখা হতে---",
+    "answer": "1",
+    "options": {
+      "option1": " ২০০ নটিকেল মাইল",
+      "option2": " ৩০০ নটিকেল মাইল",
+      "option3": " ৩৫০ নটিকেল মাইল",
+      "option4": " ৪০০ নটিকেল মাইল"
+    }
+  },
+  {
+    "question": "114. মংডু কোন দুটি দেশের সীমান্ত এলাকা? ",
+    "answer": "1",
+    "options": {
+      "option1": " বাংলাদেশ-মায়ানমার",
+      "option2": " মায়ানমার-চীন",
+      "option3": " মায়ানমার-ভারত",
+      "option4": " বাংলাদেশ-ভারত"
+    }
+  },
+  {
+    "question": "115. কার্টাগেনা প্রটোকল হচ্ছে---",
+    "answer": "4",
+    "options": {
+      "option1": " জাতিসংঘের যুদ্ধ মোকাবেলা সংক্রান্ত চুক্তি",
+      "option2": " জাতিসংঘের শিশু অধিকার বিষয়ক চুক্তি",
+      "option3": " জাতিসংঘের নারী অধিকার বিষয়ক প্রটোকল",
+      "option4": " জাতিসংঘের জৈব নিরাপত্তা বিষয়ক চুক্তি"
+    }
+  },
+  {
+    "question": "116. ১৯৮৯ সাল থেকে ওজোনস্তর বিষয়ক মন্ট্রিল প্রটোকল কতবার সংশোধন করা হয়?",
+    "answer": "2",
+    "options": {
+      "option1": " ৫",
+      "option2": " ৮",
+      "option3": " ৪",
+      "option4": " ৭"
+    }
+  },
+  {
+    "question": "117. 'The Art of War' গ্রন্থের রচয়িতা---",
+    "answer": "3",
+    "options": {
+      "option1": " ক্লজউইজ",
+      "option2": " আলফ্রেড মাহান",
+      "option3": " সুন জু",
+      "option4": " কৌটিল্য"
+    }
+  },
+  {
+    "question": "118. বর্তমান বিশ্বে 'নিউ সিল্ক রোড' এর প্রবক্তা---",
+    "answer": "3",
+    "options": {
+      "option1": " জাপান",
+      "option2": " ভারত",
+      "option3": " চীন",
+      "option4": " আফগানিস্তান"
+    }
+  },
+  {
+    "question": "119. বিশ্ব প্রাণী দিবস হচ্ছে---",
+    "answer": "1",
+    "options": {
+      "option1": " ৪ অক্টোবর",
+      "option2": " ২৩ অক্টোবর",
+      "option3": " ২৯ জুন",
+      "option4": " ১১ ফেব্রুয়ারি"
+    }
+  },
+  {
+    "question": "120. 'WIPO' এর সদর দপ্তর---",
+    "answer": "3",
+    "options": {
+      "option1": " ব্রাসেলস",
+      "option2": " লন্ডন",
+      "option3": " জেনেভা",
+      "option4": " প্যারিস"
+    }
+  },
+  {
+    "question": "121. বাংলাদেশে কালবৈশাখীর ঝড় কখন হয়?",
+    "answer": "4",
+    "options": {
+      "option1": "মৌসুমী বায়ু ঋতুতে",
+      "option2": "মৌসুমী বায়ু ঋতুর পরবর্তী সময়ে",
+      "option3": "শীতকালে",
+      "option4": "প্রাক-মৌসুমী বায়ু ঋতুতে"
+    }
+  },
+  {
+    "question": "122. পূর্ব সতর্কতা ছাড়াই কোন দুর্যোগ সংঘটিত হয়?",
+    "answer": "3",
+    "options": {
+      "option1": " বন্যা",
+      "option2": " খরা",
+      "option3": " ভূমিকম্প",
+      "option4": " ঘূর্ণিঝড়"
+    }
+  },
+  {
+    "question": "123. ভারতীয় কোন রাজ্যের সাথে বাংলাদেশের কোন সীমান্ত নাই?",
+    "answer": "4",
+    "options": {
+      "option1": " আসাম",
+      "option2": " মিজোরাম",
+      "option3": " ত্রিপুরা",
+      "option4": " নাগাল্যান্ড"
+    }
+  },
+  {
+    "question": "124. 'জুম' চাষ পদ্ধতি বাংলাদেশের কোন জেলাসমূহে দেখা যায়? ",
+    "answer": "4",
+    "options": {
+      "option1": " সাতক্ষীরা,যশোহর,কুষ্টিয়া",
+      "option2": " নাটোর,পাবনা,সিরাজগঞ্জ",
+      "option3": " বগুড়া,গাইবান্ধা,কুড়িগ্রাম",
+      "option4": " চট্টগ্রাম ও পার্বত্য চট্টগ্রামের জেলাসমূহ"
+    }
+  },
+  {
+    "question": "125. বায়ুমণ্ডলে নাইট্রোজেনের পরিমাণ কত শতাংশ?",
+    "answer": "2",
+    "options": {
+      "option1": " ৭৫.৮%",
+      "option2": " ৭৮.১%",
+      "option3": " ৭৯.২%",
+      "option4": " প্রায় ৮০%"
+    }
+  },
+  {
+    "question": "126. নিম্নে উল্লেখিত ভূমিরূপসমূহের মধ্যে কোনটি হিমবাহের ক্ষয় কার্যের দ্বারা গঠিত?",
+    "answer": "4",
+    "options": {
+      "option1": " পার্শ্ব গ্রাবরেখা",
+      "option2": " শৈলশিরা",
+      "option3": " ভি-আকৃতির উপত্যকা",
+      "option4": " ইউ-আকৃতির উপত্যকা"
+    }
+  },
+  {
+    "question": "127. বাংলাদেশের কৃষি কোন প্রকার?",
+    "answer": "1",
+    "options": {
+      "option1": " ধান-প্রধান নিবিড় স্বয়ংভোগী",
+      "option2": " ধান-প্রধান বাণিজ্যিক",
+      "option3": " স্বয়ংভোগী মিশ্র",
+      "option4": " স্বয়ংভোগী শষ্য চাষ ও পশুপালন"
+    }
+  },
+  {
+    "question": "128. নিচের কোনটি আপদ   ( Hazard) এর প্রত্যক্ষ প্রভাব?",
+    "answer": "4",
+    "options": {
+      "option1": " অর্থনৈতিক",
+      "option2": " সামাজিক",
+      "option3": " পরিবেশগত",
+      "option4": " অবকাঠামোগত"
+    }
+  },
+  {
+    "question": "129. দুর্যোগ ব্যবস্থাপনার বিভিন্ন কাজকে পর্যায়ক্রম অনুযায়ী সাজাতে হলে কোন কাজটি সর্বপ্রথমে হবে?",
+    "answer": "2",
+    "options": {
+      "option1": " পুনর্বাসন",
+      "option2": " ঝুঁকি ( Risk) চিহ্নিতকরণ",
+      "option3": " দুর্যোগ প্রস্তুতি",
+      "option4": " দুর্যোগ প্রশমণ কর্মকান্ড"
+    }
+  },
+  {
+    "question": "130. প্রাকৃতিক দুর্যোগ ব্যবস্থাপনার ক্ষেত্রে নিম্নের কোন পর্যায়ে ব্যবস্থা গ্রহণ সবচেয়ে ফলপ্রসূ হবে? ",
+    "answer": "1",
+    "options": {
+      "option1": " কমিউনিটি পর্যায়ে",
+      "option2": " জাতীয় পর্যায়ে",
+      "option3": " উপজেলা পর্যায়ে",
+      "option4": " আঞ্চলিক পর্যায়ে"
+    }
+  },
+  {
+    "question": "131. ডি এন এ অণুর দ্বি-হেলিক্স কাঠামোর জনক কে?",
+    "answer": "2",
+    "options": {
+      "option1": " স্যাংগার ও পলিং",
+      "option2": " ওয়াটসন ও ক্রিক",
+      "option3": " লুই পাস্তুর ও ওয়াটসন",
+      "option4": " পলিং ও ক্রিক"
+    }
+  },
+  {
+    "question": "132. হিমোগ্লোবিন কোন জাতীয় পদার্থ?",
+    "answer": "1",
+    "options": {
+      "option1": " আমিষ",
+      "option2": " স্নেহ",
+      "option3": " আয়োডিন",
+      "option4": " লৌহ"
+    }
+  },
+  {
+    "question": "133. কোন প্রানীকে মরুভূমির জাহাজ বলা হয়?",
+    "answer": "3",
+    "options": {
+      "option1": " ঘোড়া",
+      "option2": " বলগা হরিণ",
+      "option3": " উট",
+      "option4": " খেচর"
+    }
+  },
+  {
+    "question": "134. pH হল---",
+    "answer": "4",
+    "options": {
+      "option1": " এসিড নির্দেশক",
+      "option2": " ক্ষার নির্দেশক",
+      "option3": "এসিড ও ক্ষার নির্দেশক",
+      "option4": " এসিড, ক্ষার ও নিরপেক্ষতা নির্দেশক"
+    }
+  },
+  {
+    "question": "135. গোয়েন্দা বিভাগে নিম্নের কোন রশ্মি ব্যবহৃত হয়?",
+    "answer": "3",
+    "options": {
+      "option1": "বেকেরেল রশ্মি",
+      "option2": "গামা রশ্মি",
+      "option3": "X-রশ্মি",
+      "option4": "বিটা-রশ্মি"
+    }
+  },
+  {
+    "question": "136. বিচ্ছিন্ন  অবস্থায় একটি পরমাণুর শক্তি---",
+    "answer": "1",
+    "options": {
+      "option1": " যুক্ত অবস্থার চাইতে কম",
+      "option2": " যুক্ত অবস্থার সমান",
+      "option3": " যুক্ত অবস্থার চাইতে অধিক",
+      "option4": " কোনটিই সঠিক নয়"
+    }
+  },
+  {
+    "question": "137. ঘর্মাক্ত অবস্থায় পাখার বাতাস আরাম দেয় কেন? ",
+    "answer": "2",
+    "options": {
+      "option1": " গায়ের ঘাম বের হতে দেয় না",
+      "option2": " বাষ্পায়ন শীতলতার সৃষ্টি করে",
+      "option3": " পাখার বাতাস শীতল জলীয়বাষ্প ধারণ করে",
+      "option4": " পাখার বাতাস সরাসরি লোমকূপ দিয়ে শরীরে ঢুকে যায়"
+    }
+  },
+  {
+    "question": "138. নিচের কোন বাক্যটি সত্য নয়?",
+    "answer": "4",
+    "options": {
+      "option1": " পদার্থের নিউক্লিয়াসে প্রোটন ও নিউট্রন থাকে",
+      "option2": " প্রোটন ধনাত্মক আধানযুক্ত",
+      "option3": " ইলেকট্রন ঋণাত্মক আধানযুক্ত",
+      "option4": " ইলেকট্রন পরমাণুর নিউক্লিয়াসের ভিতরে অবস্থান করে"
+    }
+  },
+  {
+    "question": "139. কোন বস্তুতে আধানের অস্তিত্ব নির্ণয়ের যন্ত্র হলো---",
+    "answer": "4",
+    "options": {
+      "option1": " এ্যামিটার",
+      "option2": " ভোল্টামিটার",
+      "option3": " অণুবীক্ষণ যন্ত্র",
+      "option4": " তড়িৎবীক্ষণ যন্ত্র"
+    }
+  },
+  {
+    "question": "140. নিম্নের কোনটি বেকিং পাউডারের মূল উপাদানের সংকেত?",
+    "answer": "2",
+    "options": {
+      "option1": " CaCO3",
+      "option2": " NaHCO3",
+      "option3": " NH4HCO3",
+      "option4": " (NH4)2CO3"
+    }
+  },
+  {
+    "question": "141. আকৃতি, অবস্থান ও কাজের প্রকারভেদে আবরণী টিস্যু কত ধরণের?",
+    "answer": "2",
+    "options": {
+      "option1": " ২",
+      "option2": " ৩",
+      "option3": " ৪",
+      "option4": " ৫"
+    }
+  },
+  {
+    "question": "142. হৃৎপিণ্ড কোন ধরনের পেশি দ্বারা গঠিত?",
+    "answer": "4",
+    "options": {
+      "option1": " ঐচ্ছিক",
+      "option2": " অনৈচ্ছিক",
+      "option3": " বিশেষ ধরনের ঐচ্ছিক",
+      "option4": " বিশেষ ধরনের অনৈচ্ছিক"
+    }
+  },
+  {
+    "question": "143. কোন গ্রহের তাপমাত্রা তুলনামূলকভাবে অধিক?",
+    "answer": "1",
+    "options": {
+      "option1": "শুক্র",
+      "option2": "পৃথিবী",
+      "option3": "মঙ্গল",
+      "option4": "বুধ"
+    }
+  },
+  {
+    "question": "144. কীসের স্রোতে নদীখাত গভীর হয়?",
+    "answer": "4",
+    "options": {
+      "option1": " সমুদ্রস্রোত",
+      "option2": " নদীস্রোত",
+      "option3": " বানের স্রোত",
+      "option4": " জোয়ার-ভাটার স্রোত"
+    }
+  },
+  {
+    "question": "145. বর্তমানে সুন্দরবনে কত প্রজাতির হরিণ দেখা যায়?",
+    "answer": "2",
+    "options": {
+      "option1": " ১",
+      "option2": " ২",
+      "option3": " ৩",
+      "option4": " ৪"
+    }
+  },
+  {
+    "question": "146. কম্পিউটার সিস্টেম এ Scanner একটি কোন ধরনের যন্ত্র?",
+    "answer": "1",
+    "options": {
+      "option1": " Input",
+      "option2": " Output",
+      "option3": " উভয়েই",
+      "option4": " কোনটিই নয়"
+    }
+  },
+  {
+    "question": "147. কম্পিউটারের মূল মেমোরী তৈরি হয় কি দিয়ে?",
+    "answer": "3",
+    "options": {
+      "option1": " এলুমিনিয়াম ",
+      "option2": " প্লাসটিক",
+      "option3": " সিলিকন",
+      "option4": " কোনটিই নয়"
+    }
+  },
+  {
+    "question": "148. Back up প্রোগ্রাম বলতে কি বোঝানো হয়?",
+    "answer": "1",
+    "options": {
+      "option1": " নির্ধারিত ফাইল কপি করা",
+      "option2": " সর্বশেষ পরিবর্তন  Undo করা",
+      "option3": " আগের প্রোগ্রামে ফিরে যাওয়া",
+      "option4": " কোনটিই নয়"
+    }
+  },
+  {
+    "question": "149. একটি প্রতিষ্ঠানে ডিভাইস ভাগাভাগি করে নেয়ার সুবিধা হলো---",
+    "answer": "4",
+    "options": {
+      "option1": " অর্থ সাশ্রয়",
+      "option2": " সময় সাশ্রয়",
+      "option3": " স্থানের সাশ্রয়",
+      "option4": " উপরের সবকটি"
+    }
+  },
+  {
+    "question": "150. নিচের কোন সাইটটি কেনা-বেচার জন্য নয়?",
+    "answer": "3",
+    "options": {
+      "option1": " ekhanei.com",
+      "option2": " Olx.com",
+      "option3": " google.com",
+      "option4": " amazon.com"
+    }
+  },
+  {
+    "question": "151. নিচের কোনটি ছাড়া  Internet এ প্রবেশ করা সহজ নয়?",
+    "answer": "4",
+    "options": {
+      "option1": " Task bar",
+      "option2": " Natification area",
+      "option3": " Menu bar",
+      "option4": " Web Browser"
+    }
+  },
+  {
+    "question": "152. কম্পিউটার মেমোরী থেকে সংরক্ষিত ডাটা উত্তোলনের পদ্ধতিকে কি বলে?",
+    "answer": "3",
+    "options": {
+      "option1": " Read-out",
+      "option2": " Read from",
+      "option3": " Read",
+      "option4": " উপরের সবগুলোই"
+    }
+  },
+  {
+    "question": "153. MICR-এর পূর্ণরূপ কি?",
+    "answer": "1",
+    "options": {
+      "option1": " Magnetic Ink Character Reader",
+      "option2": " Magnetic Ink Chase Reader",
+      "option3": " Magnetic Ink Code Reader",
+      "option4": " কোনটিই নয়"
+    }
+  },
+  {
+    "question": "154. নিচের কোনটি ডাটাবেজ ল্যাংগুয়েজ?",
+    "answer": "4",
+    "options": {
+      "option1": " Data Definition Language",
+      "option2": " Query Language",
+      "option3": " Data Manipulation Language",
+      "option4": " উপরের সবগুলোই"
+    }
+  },
+  {
+    "question": "155. সোশ্যাল নেটওয়ার্কিং টুইটার কত সালে তৈরি হয়?",
+    "answer": "2",
+    "options": {
+      "option1": " ২০০৪",
+      "option2": " ২০০৬",
+      "option3": " ২০০৩",
+      "option4": " ২০০৮"
+    }
+  },
+  {
+    "question": "156. নিচের কোন স্মার্টফোন অপারেটিং সিস্টেমটি ওপেন সোর্স প্লাটফর্ম?",
+    "answer": "3",
+    "options": {
+      "option1": " IOS",
+      "option2": " Windows phone",
+      "option3": " Android",
+      "option4": " Symbian"
+    }
+  },
+  {
+    "question": "157. মোবাইল কমিউনিকেশনে 4G এর ক্ষেত্রে  3G এর তুলনায় অতিরিক্ত বৈশিষ্ট্য কি?",
+    "answer": "4",
+    "options": {
+      "option1": " ভয়েস টেলিফোনি",
+      "option2": " ভিডিও কল",
+      "option3": " মোবাইল টিভি",
+      "option4": " ব্রডবেন্ড ইন্টারনেট সেবা"
+    }
+  },
+  {
+    "question": "158. Oracle Corporation এর প্রতিষ্ঠাতা কে?",
+    "answer": "4",
+    "options": {
+      "option1": " Bill Gates",
+      "option2": " Tim Cook",
+      "option3": " Andrew S Grove",
+      "option4": " Lawrence J.Ellision"
+    }
+  },
+  {
+    "question": "159. প্রোগ্রাম থেকে কপি করা ডাটা কোথায় থাকে?",
+    "answer": "4",
+    "options": {
+      "option1": " RAM",
+      "option2": " Clipboard",
+      "option3": " Terminal",
+      "option4": " Hard Disk"
+    }
+  },
+  {
+    "question": "160. পারসোনাল কম্পিউটার যুক্ত করে নিচের কোনটি তৈরি করা যায়?",
+    "answer": "3",
+    "options": {
+      "option1": " Super Computer",
+      "option2": " Server",
+      "option3": " Network",
+      "option4": " Enterprise"
+    }
+  },
+  {
+    "question": "161. কলার দাম 20% কমে যাওয়ায় 12 টাকায় পূর্ব অপেক্ষা 2টি কলা বেশি পাওয়া গেলে বর্তমানে একটি কলার দাম কত টাকা? ",
+    "answer": "1",
+    "options": {
+      "option1": " 1.20",
+      "option2": " 2.50",
+      "option3": " 3.00",
+      "option4": " 4.00"
+    }
+  },
+  {
+    "question": "162. 60 লিটার ফলের রসে আম ও কমলার অনুপাত 2 : 1 । কমলার রসের পরিমাণ কত লিটার বৃদ্ধি করলে অনুপাতটি  1 : 2 হবে?",
+    "answer": "3",
+    "options": {
+      "option1": " 40",
+      "option2": " 50",
+      "option3": " 60",
+      "option4": " 70"
+    }
+  },
+  {
+    "question": "163. দুইটি সংখ্যার গ.সা.গু 11 এবং ল.সা.গু 7700। একটি সংখ্যা 275 হলে, অপর সংখ্যাটি --- ",
+    "answer": "2",
+    "options": {
+      "option1": " 318",
+      "option2": " 308",
+      "option3": " 283",
+      "option4": " 279"
+    }
+  },
+  {
+    "question": "164. x-y=2 এবং xy=24 হলে, x-এর ধনাত্মক মানটি---",
+    "answer": "4",
+    "options": {
+      "option1": " 3",
+      "option2": " 4",
+      "option3": " 5",
+      "option4": " 6"
+    }
+  },
+  {
+    "question": "165. 3/x + 4/(x+1)=2 হলে, x-এর মান---",
+    "answer": "3",
+    "options": {
+      "option1": " 1",
+      "option2": " 2",
+      "option3": " 3",
+      "option4": " 4"
+    }
+  },
+  {
+    "question": "166. ।x-3। less than 5 হলে---",
+    "answer": "2",
+    "options": {
+      "option1": " 2 greater x smaller 8",
+      "option2": " -2 greater x smaller 8",
+      "option3": " -8 greater x smaller -2",
+      "option4": " -4 greater x smaller -2"
+    }
+  },
+  {
+    "question": "167. x^-3 -0.001=0 হলে, x^2-এর মান---",
+    "answer": "1",
+    "options": {
+      "option1": " 100",
+      "option2": " 1/10",
+      "option3": " 10",
+      "option4": " 1/100"
+    }
+  },
+  {
+    "question": "168. log3(1/9) এর মান---",
+    "answer": "2",
+    "options": {
+      "option1": " 2",
+      "option2": "-2",
+      "option3": " 3",
+      "option4": "-3"
+    }
+  },
+  {
+    "question": "169. একটি গুণোত্তর অনুক্রমের দ্বিতীয় পদটি - 48 এবং পঞ্চম পদটি 3/4 হলে, সাধারণ অনুপাত কত?",
+    "answer": "4",
+    "options": {
+      "option1": " 1/2",
+      "option2": "-1/2",
+      "option3": " 1/4",
+      "option4": "-1/4"
+    }
+  },
+  {
+    "question": "170. logaX=1, logaY=2 এবং logaZ=3 হলে, loga(X^2*Y^2/Z) এর মান কত?",
+    "answer": "3",
+    "options": {
+      "option1": " 1",
+      "option2": " 2",
+      "option3": " 4",
+      "option4": " 5"
+    }
+  },
+  {
+    "question": "171. 2 সে.মি. ব্যাসার্ধবিশিষ্ট একটি বৃত্তের অন্তঃস্থ একটি বর্গক্ষেত্রের চারটি বাহু এবং বৃত্তটি দ্বারা আবদ্ধ অঞ্চলের ক্ষেত্রফল কত বর্গ সে.মি.?",
+    "answer": "1",
+    "options": {
+      "option1": " 4π -8",
+      "option2": " 4π +8",
+      "option3": " 2π -4",
+      "option4": " 2π -4"
+    }
+  },
+  {
+    "question": "172. 14 জন খেলোয়াড়ের মধ্য থেকে নির্দিষ্ট একজন অধিনায়কসহ  11 জনের একটি ক্রিকেট দল কতভাবে বাছাই করা যাবে?",
+    "answer": "2",
+    "options": {
+      "option1": " 728",
+      "option2": " 286",
+      "option3": " 364",
+      "option4": " 1001"
+    }
+  },
+  {
+    "question": "173. 100 জন শিক্ষার্থীর পরিসংখ্যানে গড় নম্বর 70। এদের মধ্যে 60 জন ছাত্রীর গড় নম্বর 75 হলে, ছাত্রদের গড় নম্বর কত?",
+    "answer": "4",
+    "options": {
+      "option1": " 55.5",
+      "option2": " 65.5",
+      "option3": " 60.5",
+      "option4": " 62.5"
+    }
+  },
+  {
+    "question": "174. 50 জন লোকের মধ্যে 35 জন ইংরেজি , 25 জন ইংরেজি ও বাংলা উভয়ই এবং প্রত্যেকেই দুইটি ভাষার অন্তত একটি ভাষায় কথা বলতে পারেন। বাংলায় কতজন কথা বলতে পারেন?",
+    "answer": "3",
+    "options": {
+      "option1": " 10",
+      "option2": " 15",
+      "option3": " 40",
+      "option4": " 30"
+    }
+  },
+  {
+    "question": "175. CALCUTTA শব্দটির বর্ণগুলোকে একত্রে নিয়ে বিন্যাস সংখ্যা AMERICA শব্দটির বর্ণগুলো একত্রে নিয়ে বিন্যাস সংখ্যার কত গুণ?",
+    "answer": "1",
+    "options": {
+      "option1": " 2",
+      "option2": " 3",
+      "option3": " 4",
+      "option4": " 5"
+    }
+  },
+  {
+    "question": "176. সঠিক উত্তর কোনটি?   ___ ছাড়া রোগ প্রতিরোধ করা অসম্ভব।",
+    "answer": "2",
+    "options": {
+      "option1": " টীকাদান কর্মসূচি",
+      "option2": " সচেতনতা",
+      "option3": " পুষ্টিকর খাদ্য",
+      "option4": " অর্থ"
+    }
+  },
+  {
+    "question": "177. শব্দঃ কর্ণ ; আলোঃ ?",
+    "answer": "3",
+    "options": {
+      "option1": " শোনা",
+      "option2": " বুদ্ধি",
+      "option3": " চক্ষু",
+      "option4": " অন্ধকার"
+    }
+  },
+  {
+    "question": "178. প্রশ্নবোধক স্থানের সংখ্যাটি কত হবে?  ২ √৯ ৪ √২৫  ?",
+    "answer": "1",
+    "options": {
+      "option1": " ৬",
+      "option2": " ৮",
+      "option3": " ৩",
+      "option4": " ৫"
+    }
+  },
+  {
+    "question": "179. কোন বিয়ে অনুষ্ঠানে হঠাৎ করে আপনার পোশাকটি বিশ্রীভাবে ছিড়ে নষ্ট হয়ে গেল। এ অবস্থায় কি করবেন?",
+    "answer": "4",
+    "options": {
+      "option1": " ছেঁড়া অংশটুকু ধরে রাখার চেষ্টা করবেন",
+      "option2": " বিয়ে বাড়ি ছেড়ে চলে যাবেন",
+      "option3": " পোশাকের ছেঁড়া অংশটুকু যেভাবে আছে সেভাবে রাখবেন",
+      "option4": " আপনার কাছাকাছি যারা আছেন তাদের পরামর্শ নেবেন"
+    }
+  },
+  {
+    "question": "180. কোন বানানটি শুদ্ধ?",
+    "answer": "1",
+    "options": {
+      "option1": " প্রতিযোগিতা",
+      "option2": " সহযোগীতা ",
+      "option3": " শ্রদ্ধাঞ্জলী",
+      "option4": " প্রতিযোগি"
+    }
+  },
+  {
+    "question": "181. কোন বানানটি শুদ্ধ",
+    "answer": "4",
+    "options": {
+      "option1": " স্বশুর",
+      "option2": " শ্বসুর",
+      "option3": " শশুর",
+      "option4": " শ্বশুর"
+    }
+  },
+  {
+    "question": "182. .০৩* .০০৬ * .০০৭=?",
+    "answer": "2",
+    "options": {
+      "option1": " .০০০১২৬",
+      "option2": " .০০০০১২৬",
+      "option3": " .০০০১২৬০",
+      "option4": " .১২৬০০০"
+    }
+  },
+  {
+    "question": "183. নিচের দুইটি প্রশ্নবোধক চিহ্নের জায়গায় কোন সংখ্যাটি বসবে?   ৭/? = ?/৩৪৩",
+    "answer": "4",
+    "options": {
+      "option1": " ৭",
+      "option2": " ৩৪৩",
+      "option3": " ৭৭",
+      "option4": " ৪৯"
+    }
+  },
+  {
+    "question": "184. নিচের নম্বর সিরিজে কোনটি বসবে?   ১,২,৮,৩৮৪,____",
+    "answer": "3",
+    "options": {
+      "option1": " ১৯৮০",
+      "option2": " ২৮৪০",
+      "option3": " ৩৮৪০",
+      "option4": " ৪৬২০"
+    }
+  },
+  {
+    "question": "185. আপনার কাছে পাঁচটি আধুলি, ৮টি সিকি আছে। আর কয়টা ১০ পয়সার মুদ্রা দিলে মোট ৫ টাকা হবে?",
+    "answer": "3",
+    "options": {
+      "option1": " ১০",
+      "option2": " ১৫",
+      "option3": " ০৫",
+      "option4": " ০৩"
+    }
+  },
+  {
+    "question": "186. ১২ এর কত শতাংশ ১৮ হবে?",
+    "answer": "2",
+    "options": {
+      "option1": " ১১০",
+      "option2": " ১৫০",
+      "option3": " ১২৫",
+      "option4": " ১৬০"
+    }
+  },
+  {
+    "question": "187. নীতিবিদ্যার আলোচ্য বিষয় কি?",
+    "answer": "4",
+    "options": {
+      "option1": " মানুষের আচরণের মনস্তাত্ত্বিক ব্যাখ্যা প্রদান",
+      "option2": " মানুষের জীবনের সফলতার দিকগুলো আলোচনা",
+      "option3": " সমাজে বসবাসকারী মানুষের আচরণ ব্যাখ্যা",
+      "option4": " সমাজে বসবাসকারী মানুষের আচরণের আলোচনা ও মূল্যায়ন"
+    }
+  },
+  {
+    "question": "188. মানুষের কোন ক্রিয়া নীতিবিদ্যার আলোচ্য বিষয়?",
+    "answer": "1",
+    "options": {
+      "option1": " ঐচ্ছিক ক্রিয়া",
+      "option2": " অনৈচ্ছিক ক্রিয়া",
+      "option3": " ইচ্ছা নিরপেক্ষ ক্রিয়া",
+      "option4": " ক ও গ নামক ক্রিয়া"
+    }
+  },
+  {
+    "question": "189. মূল্যবোধ (  Vaules) কী?",
+    "answer": "1",
+    "options": {
+      "option1": " মানুষের আচরণ পরিচালনাকারী নীতি ও মানদণ্ড",
+      "option2": " শুধুমাত্র মানুষের প্রাতিষ্ঠানিক কার্যাদি নির্ধারণের দিক নির্দেশনা",
+      "option3": " সমাজ জীবনে মানুষের সুখী হওয়ার প্রয়োজনীয় মনোভাব",
+      "option4": " মানুষের সঙ্গে মানুষের পারস্পরিক সম্পর্ক নির্ধারণ"
+    }
+  },
+  {
+    "question": "190. সামাজিক মূল্যবোধের ভিত্তি কী?",
+    "answer": "2",
+    "options": {
+      "option1": " আইনের শাসন ",
+      "option2": " নৈতিকতা",
+      "option3": " সাম্য",
+      "option4": " উপরের সবগুলো"
+    }
+  },
+  {
+    "question": "191. সুশাসনের পূর্বশর্ত হচ্ছে---",
+    "answer": "1",
+    "options": {
+      "option1": " মত প্রকাশের স্বাধীনতা",
+      "option2": " প্রশাসনের নিরপেক্ষতা",
+      "option3": " নিরপেক্ষ বিচার ব্যবস্থা",
+      "option4": " নিরপেক্ষ আইন ব্যবস্থা"
+    }
+  },
+  {
+    "question": "192. সহস্রাব্দ উন্নয়ন লক্ষ্য (  Millennium Development Goals) অর্জন সুশাসনের কোন দিকটির উপর গুরুত্ব দেয়া হয়েছে?",
+    "answer": "3",
+    "options": {
+      "option1": " সুশাসনের সামাজিক দিক",
+      "option2": "সুশাসনের অর্থনৈতিক দিক",
+      "option3": " সুশাসনের মূল্যবোধের দিক",
+      "option4": " সুশাসনের গনতান্ত্রিক দিক"
+    }
+  },
+  {
+    "question": "193. 'আইনের চোখে সব নাগরিক সমান।'---বাংলাদেশের সংবিধানের কত নম্বর ধারায় এ নিশ্চয়তা প্রধান করা হয়েছে?",
+    "answer": "2",
+    "options": {
+      "option1": " ধারা ০৭",
+      "option2": " ধারা ২৭",
+      "option3": " ধারা ৩৭",
+      "option4": " ধারা ৪৭"
+    }
+  },
+  {
+    "question": "194. Johannesburg Plan of Implementation সুশাসনের সঙ্গে নিচের কোন বিষয়টিকে অধিকতর গুরুত্ব দেয়?",
+    "answer": "1",
+    "options": {
+      "option1": " টেকসই উন্নয়ন",
+      "option2": " সাংস্কৃতিক উন্নয়ন",
+      "option3": " ধর্মীয় প্রতিষ্ঠানের উন্নয়ন",
+      "option4": " উপরের কোনটিই  নয়"
+    }
+  },
+  {
+    "question": "195. 'সুশাসন' শব্দটি সর্বপ্রথম কোন সংস্থা সুস্পষ্টভাবে ব্যাখ্যা করে?",
+    "answer": "2",
+    "options": {
+      "option1": " জাতিসংঘ",
+      "option2": " ইউ এন ডি পি",
+      "option3": " বিশ্বব্যাংক",
+      "option4": " আই এম এফ"
+    }
+  },
+  {
+    "question": "196. নিরপেক্ষ ও শক্তিশালী গণমাধ্যমের অনুপস্থিতি কিসের অন্তরায়?",
+    "answer": "3",
+    "options": {
+      "option1": " সামাজিক অবক্ষয়ের",
+      "option2": " মূল্যবোধ অবক্ষয়ের",
+      "option3": " সুশাসনের",
+      "option4": " শিক্ষার গুনগতমানের"
+    }
+  },
+  {
+    "question": "197. নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে ?",
+    "answer": "2",
+    "options": {
+      "option1": " 17",
+      "option2": " 20",
+      "option3": " 18",
+      "option4": " 21"
+    }
+  },
+  {
+    "question": "198. প্রশ্নবোধক স্থানে কোন সংখ্যা বসবে ?",
+    "answer": "2",
+    "options": {
+      "option1": " ৪",
+      "option2": " ২",
+      "option3": " ৭",
+      "option4": " ৯"
+    }
+  },
+  {
+    "question": "199. নিচের কোন শব্দটির প্রতিফলন ИOITA⅃ƎЯ ?",
+    "answer": "3",
+    "options": {
+      "option1": " TENSION",
+      "option2": " NATIONAL",
+      "option3": " RELATION",
+      "option4": " RELATIVE"
+    }
+  },
+  {
+    "question": "200. নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে ?",
+    "answer": "3",
+    "options": {
+      "option1": " 6",
+      "option2": " 7",
+      "option3": " 8",
+      "option4": " 10"
+    }
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "1. চর্যাপদ কোন ছন্দে লেখা?",
+    "answer": "2",
+    "options": {
+      "option1": " অক্ষরবৃত্ত",
+      "option2": " মাত্রাবৃত্ত",
+      "option3": " স্বরবৃত্ত",
+      "option4": " অমিত্রাক্ষর"
+    }
+  },
+  {
+    "question": "2. কবিওয়ালা ও শায়েরের উদ্ভব ঘটে কখন?",
+    "answer": "1",
+    "options": {
+      "option1": "আঠারো শতকের শেষার্ধে ও ঊনিশ শতকের প্রথমার্ধে",
+      "option2": "ষোড়শ শতকের শেষার্ধে ও সপ্তদশ শতকের প্রথমার্ধে",
+      "option3": "সপ্তদশ শতকের শেষার্ধে ও আঠারো শতকের প্রথমার্ধে",
+      "option4": "ঊনিশ শতকের শেষার্ধে ও বিশ শতকের প্রথমার্ধে"
+    }
+  },
+  {
+    "question": "3. কবি গানের প্রথম কবি –",
+    "answer": "1",
+    "options": {
+      "option1": "গোঁজলা  পুট",
+      "option2": "হরু ঠাকুর",
+      "option3": "ভবানী ঘোষ",
+      "option4": "নিতাই বৈরাগী"
+    }
+  },
+  {
+    "question": "4. 'কেন পান্থ হও ক্ষান্ত হেরি দীর্ঘ পথ?' কার লেখা?",
+    "answer": "1",
+    "options": {
+      "option1": "কৃষ্ণ চন্দ্র মজুমদার",
+      "option2": "ঈশ্বরচন্দ্র গুপ্ত",
+      "option3": "কামিনী রায়",
+      "option4": "যতীন্দ্র মোহন বাগচী"
+    }
+  },
+  {
+    "question": "5. কোন গ্রন্থটি সুকান্ত ভট্টাচার্য কর্তৃক রচিত?",
+    "answer": "1",
+    "options": {
+      "option1": "হরতাল",
+      "option2": "পালাবদল",
+      "option3": "উত্তীর্ণ পঞ্চাশে",
+      "option4": "অনিষ্ট স্বদেশ"
+    }
+  },
+  {
+    "question": "6. বঙ্কিমচন্দ্রের বিষবৃক্ষ উপন্যাস এর চরিত্র কোনটি ?",
+    "answer": "1",
+    "options": {
+      "option1": "কুন্দনন্দিনী",
+      "option2": "শ্যামাসুন্দরী",
+      "option3": "বিমলা",
+      "option4": "রোহিনী"
+    }
+  },
+  {
+    "question": "7. গীতাঞ্জলির ইংরেজী অনুবাদ সম্পাদনা করেন",
+    "answer": "3",
+    "options": {
+      "option1": " এজরা পাউন্ড",
+      "option2": " টি এস এলিয়ট",
+      "option3": " ডবলিউ বি ইয়েটস",
+      "option4": " কীটস"
+    }
+  },
+  {
+    "question": "8. The Origin and Development of Bengali Language গ্রন্থটি রচনা করেন?",
+    "answer": "2",
+    "options": {
+      "option1": "ডঃ মুহম্মদ শহীদুল্লাহ ",
+      "option2": "ড. সুনীতি কুমার চট্টোপাধ্যায়",
+      "option3": "হরপ্রসাদ শাস্ত্রী",
+      "option4": "স্যার জর্জ গ্রিয়ার্সন"
+    }
+  },
+  {
+    "question": "9. কল্লোল প্রকাশিত হয় –",
+    "answer": "1",
+    "options": {
+      "option1": "১৯২৩",
+      "option2": "১৯২৪",
+      "option3": "১৯২৫",
+      "option4": "১৯২৭"
+    }
+  },
+  {
+    "question": "10. কোনটি এ্যান্টিবায়োটিক---",
+    "answer": "3",
+    "options": {
+      "option1": "ইনসুলিন",
+      "option2": "পেপসিন",
+      "option3": "পেনিসিলিন",
+      "option4": "ইথিলিন"
+    }
+  },
+  {
+    "question": "11. জন্ডিসে আক্রান্ত হয় –",
+    "answer": "1",
+    "options": {
+      "option1": "যকৃত",
+      "option2": "কিডনি",
+      "option3": "পাকস্থলী",
+      "option4": "হৃৎপিণ্ড"
+    }
+  },
+  {
+    "question": "12. ১,১,২,৩,৫,৮,১৩,২১,........ ধারার ১০ম পদটি কত ?",
+    "answer": "2",
+    "options": {
+      "option1": "৩৪",
+      "option2": "৫৫",
+      "option3": "৪৮",
+      "option4": "৬৪"
+    }
+  },
+  {
+    "question": "13. ৫ জন তাঁত শ্রমিক ৫ দিনে ৫টি কাপড় বুনতে পারে । একই ধরনের ৭টি কাপড় বুনতে ৭ জন শ্রমিকের কত দিন লাগবে ?",
+    "answer": "1",
+    "options": {
+      "option1": "৫ দিন",
+      "option2": "২৫/৪৯",
+      "option3": "৪৯/২৫",
+      "option4": "৭ দিন"
+    }
+  },
+  {
+    "question": "14. একটি আয়তকার ঘরের প্রস্থ তার দৈর্ঘ্যর ২/৩ অংশ । ঘরটির পরিসীমা ৪০ মিটার হলে তার ক্ষেত্রফল কত ?",
+    "answer": "2",
+    "options": {
+      "option1": "৬০ বর্গমিটার",
+      "option2": "৯৬ বর্গমিটার",
+      "option3": "৭২ বর্গমিটার",
+      "option4": "৬৪ বর্গমিটার"
+    }
+  },
+  {
+    "question": "15. ৩ সে:মি:, ৪ সে:মি: ও ৫ সে:মি: বাহুবিশিষ্ট তিনটি ঘনক গলিয়ে নতুন একটি ঘনক তৈরি করা হল । নতুন ঘনকের বাহুর দৈর্ঘ্য কত হবে ?",
+    "answer": "3",
+    "options": {
+      "option1": "৭.৫ সে:মি:",
+      "option2": "৬.৫ সে:মি:",
+      "option3": "৬ সে:মি:",
+      "option4": "৭ সে:মি:"
+    }
+  },
+  {
+    "question": "16. তিন সদস্যের একটি বিতর্ক দলের সদস্যদের গড় বয়স ২৪ বছর। যদি কোন সদস্যের বয়স ২১ বছর এর নিচে না হয় তবে তাদের কোন একজনের সর্বোচ্চ বয়স কত হবে?",
+    "answer": "2",
+    "options": {
+      "option1": "২৫",
+      "option2": "৩০",
+      "option3": "২৮",
+      "option4": "৩২"
+    }
+  },
+  {
+    "question": "17. বিদ্যুৎ পরিবাহী নয় –",
+    "answer": "4",
+    "options": {
+      "option1": "তামা",
+      "option2": "লোহা",
+      "option3": "রূপা",
+      "option4": "রাবার"
+    }
+  },
+  {
+    "question": "18. চুম্বকে পরিণত করা যায় –",
+    "answer": "3",
+    "options": {
+      "option1": "তামা",
+      "option2": "পিতল",
+      "option3": "ইস্পাত",
+      "option4": "স্বর্ণ"
+    }
+  },
+  {
+    "question": "19. মৌলিক পদার্থ –",
+    "answer": "1",
+    "options": {
+      "option1": "লোহা",
+      "option2": "ব্রোঞ্জ",
+      "option3": "পানি",
+      "option4": "ইস্পাত"
+    }
+  },
+  {
+    "question": "20. স্বাভাবিক তাপমাত্রায় তরল ধাতু –",
+    "answer": "1",
+    "options": {
+      "option1": " পারদ",
+      "option2": " লিথিয়াম",
+      "option3": " জার্মেনিয়াম",
+      "option4": " ইউরেনিয়াম"
+    }
+  },
+  {
+    "question": "21. স্টেইনলেস স্টিলের অন্যতম উপাদান –",
+    "answer": "3",
+    "options": {
+      "option1": "তামা",
+      "option2": "দস্তা",
+      "option3": "ক্রোমিয়াম",
+      "option4": "এলুমিনিয়াম"
+    }
+  },
+  {
+    "question": "22. সর্বাপেক্ষা হালকা গ্যাস –",
+    "answer": "2",
+    "options": {
+      "option1": "অক্সিজেন",
+      "option2": "হাইড্রোজেন",
+      "option3": " রেডন",
+      "option4": "নাইট্রোজেন"
+    }
+  },
+  {
+    "question": "23. সঙ্কর ধাতু পিতলের উপাদান",
+    "answer": "2",
+    "options": {
+      "option1": "তামা ও টিন",
+      "option2": "তামা ও দস্তা",
+      "option3": "তামা ও সীসা",
+      "option4": "তামা ও নিকেল"
+    }
+  },
+  {
+    "question": "24. সিমেন্ট তৈরির অন্যতম কাঁচামাল –",
+    "answer": "1",
+    "options": {
+      "option1": "জিপসাম",
+      "option2": "সালফার",
+      "option3": "সোডিয়াম",
+      "option4": "খনিজ লবণ"
+    }
+  },
+  {
+    "question": "25. নবায়নযোগ্য শক্তির উৎস –",
+    "answer": "1",
+    "options": {
+      "option1": "সূর্যরশ্মি",
+      "option2": "পীট কয়লা",
+      "option3": "পেট্রোল",
+      "option4": "প্রাকৃতিক গ্যাস"
+    }
+  },
+  {
+    "question": "26. ইন্টারনেট চালু হয় –",
+    "answer": "3",
+    "options": {
+      "option1": "১৯৫৯",
+      "option2": "১৯৬৫",
+      "option3": "১৯৬৯",
+      "option4": "১৯৮১"
+    }
+  },
+  {
+    "question": "27. MKS পদ্ধতিতে ভরের একক –",
+    "answer": "1",
+    "options": {
+      "option1": "কিলোগ্রাম",
+      "option2": "পাউন্ড",
+      "option3": "গ্রাম",
+      "option4": "আউন্স"
+    }
+  },
+  {
+    "question": "28. ALTIMETER কি?",
+    "answer": "4",
+    "options": {
+      "option1": "তাপ পরিমাপক যন্ত্র",
+      "option2": "উষ্ণতা পরিমাপক যন্ত্র",
+      "option3": "গ্যাসের চাপ পরিমাপক যন্ত্র",
+      "option4": "উচ্চতা পরিমাপক যন্ত্র"
+    }
+  },
+  {
+    "question": "29. বিগব্যাঙ তত্ত্বের প্রবর্তক –",
+    "answer": "2",
+    "options": {
+      "option1": "আইনস্টাইন",
+      "option2": "জি. ল্যামেটার",
+      "option3": "স্টিফেন হকিং",
+      "option4": "গ্যালিলিও"
+    }
+  },
+  {
+    "question": "30. মহাজাগতিক রশ্মির আবিষ্কারক –",
+    "answer": "1",
+    "options": {
+      "option1": "হেস",
+      "option2": "আইনস্টাইন",
+      "option3": "টলেমী",
+      "option4": "হাবল"
+    }
+  },
+  {
+    "question": "31. ইউরি গ্যাগারিন মহাশুন্যে যান –",
+    "answer": "2",
+    "options": {
+      "option1": "১৯৫৬",
+      "option2": "১৯৬১",
+      "option3": "১৯৬৪",
+      "option4": "১৯৬৯"
+    }
+  },
+  {
+    "question": "32. গীনিচ মানমন্দির অবস্থিত",
+    "answer": "1",
+    "options": {
+      "option1": "যুক্তরাজ্যে",
+      "option2": "যুক্তরাষ্ট্র",
+      "option3": "ফ্রান্স",
+      "option4": "জার্মানি"
+    }
+  },
+  {
+    "question": "33. ভারী পানির সংকেত –",
+    "answer": "3",
+    "options": {
+      "option1": "2H2O2",
+      "option2": "H2O",
+      "option3": "D2O",
+      "option4": "HD2O2"
+    }
+  },
+  {
+    "question": "34. লোহাকে গ্যালভানাইজিং করতে ব্যবহৃত হয় –",
+    "answer": "2",
+    "options": {
+      "option1": "তামা",
+      "option2": "দস্তা",
+      "option3": "রূপা",
+      "option4": "এলুমিনিয়াম"
+    }
+  },
+  {
+    "question": "35. Pick appropriate preposition for the following sentence:--   Noureen will discuss the issue with nasir ___ phone.",
+    "answer": "2",
+    "options": {
+      "option1": "in",
+      "option2": "over",
+      "option3": "by",
+      "option4": "on"
+    }
+  },
+  {
+    "question": "36. Pick appropriate preposition for the following sentence:--   Some writers sink __ obilion in course of time.",
+    "answer": "4",
+    "options": {
+      "option1": "on",
+      "option2": "from",
+      "option3": "under",
+      "option4": "into"
+    }
+  },
+  {
+    "question": "37. 'Call to mind' Means",
+    "answer": "3",
+    "options": {
+      "option1": "fantasize",
+      "option2": "attend",
+      "option3": "remember",
+      "option4": "request"
+    }
+  },
+  {
+    "question": "38. 'Pass away' Means",
+    "answer": "2",
+    "options": {
+      "option1": "disappear",
+      "option2": "die",
+      "option3": "erase",
+      "option4": "fall"
+    }
+  },
+  {
+    "question": "39. Pick the word that is synonymous with 'authoritarian'",
+    "answer": "1",
+    "options": {
+      "option1": "autocratic",
+      "option2": "senior",
+      "option3": "elderly",
+      "option4": "potential"
+    }
+  },
+  {
+    "question": "40. The word 'permissive' implies---",
+    "answer": "3",
+    "options": {
+      "option1": "humble",
+      "option2": "law-abiding",
+      "option3": "liberal",
+      "option4": "submissive"
+    }
+  },
+  {
+    "question": "41. Each of the sons followed __ father's trade.",
+    "answer": "3",
+    "options": {
+      "option1": "their",
+      "option2": "her",
+      "option3": "his",
+      "option4": "whose"
+    }
+  },
+  {
+    "question": "42. Subject – verb agreement refers to –",
+    "answer": "3",
+    "options": {
+      "option1": "person only",
+      "option2": "number, person and gender",
+      "option3": "number and person",
+      "option4": "number only"
+    }
+  },
+  {
+    "question": "43. The error in the sentence, ‘One of the recommendation made by the committee was accepted by the authorities’ is –",
+    "answer": "1",
+    "options": {
+      "option1": "recommendation",
+      "option2": "was",
+      "option3": "accepted by",
+      "option4": "committee"
+    }
+  },
+  {
+    "question": "44. ‘The French’ refers to –",
+    "answer": "1",
+    "options": {
+      "option1": "the french people",
+      "option2": "the french language",
+      "option3": "the french manners",
+      "option4": "the french society"
+    }
+  },
+  {
+    "question": "45. If a person cannot stop taking drugs, he is –",
+    "answer": "3",
+    "options": {
+      "option1": "attached to them",
+      "option2": "committed to them",
+      "option3": "addicted to them",
+      "option4": "devoted to them"
+    }
+  },
+  {
+    "question": "46. The word ‘officialese’ means –",
+    "answer": "2",
+    "options": {
+      "option1": "plural number of official",
+      "option2": "language used in offices",
+      "option3": "plural number of offices",
+      "option4": "vague expressions"
+    }
+  },
+  {
+    "question": "47. ‘Succumb’ means –",
+    "answer": "2",
+    "options": {
+      "option1": "achieve",
+      "option2": "submit",
+      "option3": "win",
+      "option4": "conquer"
+    }
+  },
+  {
+    "question": "48.Fill in the blanks with the appropriate part:--   We look forward ____ a response from you.",
+    "answer": "1",
+    "options": {
+      "option1": "to receiving",
+      "option2": "to receive",
+      "option3": "in receiving",
+      "option4": "for receiving"
+    }
+  },
+  {
+    "question": "49. If a part of a speech or writing breaks the theme, it is called –",
+    "answer": "2",
+    "options": {
+      "option1": "pomposity",
+      "option2": "digression",
+      "option3": "exaggeration",
+      "option4": "anti-climax"
+    }
+  },
+  {
+    "question": "50. The expression ‘take into account’ means",
+    "answer": "2",
+    "options": {
+      "option1": "count numbers",
+      "option2": "consider",
+      "option3": "think seriously",
+      "option4": "assess"
+    }
+  },
+  {
+    "question": "51. Choose the best translation of 'কর্তৃপক্ষ তাকে তিরস্কার করল' from the alternative below---",
+    "answer": "3",
+    "options": {
+      "option1": "The authorities criticised him",
+      "option2": "The authorities took him to book",
+      "option3": "The authorities took him to task",
+      "option4": "The authorities gave reins to him"
+    }
+  },
+  {
+    "question": "52. ‘Such claim needs to be tested empirically’ means –",
+    "answer": "1",
+    "options": {
+      "option1": "The test should be based on experience",
+      "option2": "The test should be based on idea",
+      "option3": "The test should be based on assumption",
+      "option4": "The test should be based on calculation"
+    }
+  },
+  {
+    "question": "53. The idiom ‘put up with’ means –",
+    "answer": "2",
+    "options": {
+      "option1": "Stay together",
+      "option2": "Tolerate",
+      "option3": "Keep trust",
+      "option4": "Protect"
+    }
+  },
+  {
+    "question": "54. In many ways, riding a bicycle is similar to –",
+    "answer": "1",
+    "options": {
+      "option1": "driving a car",
+      "option2": "when one drives a car",
+      "option3": "the driving of a car",
+      "option4": "when we drive a car"
+    }
+  },
+  {
+    "question": "55. অগ্নি এর সমার্থক নয় –",
+    "answer": "4",
+    "options": {
+      "option1": "পাবক",
+      "option2": " বৈশ্বানর",
+      "option3": "সর্বশুচি",
+      "option4": "প্রজ্জলিত"
+    }
+  },
+  {
+    "question": "56. কোন চরনটি সঠিক?",
+    "answer": "1",
+    "options": {
+      "option1": "ধন ধান্যে পুষ্পে ভরা",
+      "option2": "ধন্য ধান্যে পুষ্পে ভরা",
+      "option3": "ধন্যে ধান্যে পুষ্প ভরা",
+      "option4": "ধন্যে ধান্যে পুষ্পে ভরা"
+    }
+  },
+  {
+    "question": "57. শুদ্ধ নয় বানান –",
+    "answer": "1",
+    "options": {
+      "option1": "উর্দ্ধ",
+      "option2": "দরিদ্রতা",
+      "option3": "উপযোগিতা",
+      "option4": "শ্রদ্ধাঞ্জলি"
+    }
+  },
+  {
+    "question": "58. গৃহী এর বিপরীত শব্দ---",
+    "answer": "4",
+    "options": {
+      "option1": "সংসারী",
+      "option2": "সঞ্চয়ী",
+      "option3": "সংস্তিতি",
+      "option4": "সন্ন্যাসী"
+    }
+  },
+  {
+    "question": "59. Excise Duty এর পরিভাষা কোনটি",
+    "answer": "2",
+    "options": {
+      "option1": "অতিরিক্ত কর",
+      "option2": "আবগারি শুল্ক",
+      "option3": "অর্পিত দায়িত্ব",
+      "option4": "অতিরিক্ত কর্তব্য"
+    }
+  },
+  {
+    "question": "60. কোন বাক্যটি শুদ্ধ?",
+    "answer": "1",
+    "options": {
+      "option1": "তোমার গোপন কথা শোনা আমার পক্ষে সম্ভব নয়",
+      "option2": "দরিদ্রতা আমাদের প্রধান সমস্যা",
+      "option3": "সলজ্জিত হাসি হেসে মেয়েটি উত্তর দিল",
+      "option4": "সর্ব বিষয়ে বাহুল্যতা বর্জন করা উচিত"
+    }
+  },
+  {
+    "question": "61. তুমি আসবে বলে হে স্বাধীনতা, সখিনা বিবির কপাল ভাঙল - এটি কোন বাক্য?",
+    "answer": "2",
+    "options": {
+      "option1": "সরল",
+      "option2": "মিশ্র বা জটিল",
+      "option3": "যৌগিক",
+      "option4": "সংযুক্ত"
+    }
+  },
+  {
+    "question": "62. সঠিক বানান",
+    "answer": "3",
+    "options": {
+      "option1": "নিশিথিনী",
+      "option2": "নীশিথিনী",
+      "option3": "নিশীথিনী",
+      "option4": "নিশিথিনি"
+    }
+  },
+  {
+    "question": "63. কোনটি 'কোলন'",
+    "answer": "2",
+    "options": {
+      "option1": ";",
+      "option2": ":",
+      "option3": "=",
+      "option4": " । "
+    }
+  },
+  {
+    "question": "64. ঢাকের কাঠি অর্থ---",
+    "answer": "4",
+    "options": {
+      "option1": "কপট ব্যাক্তি",
+      "option2": "ঘনিষ্ঠ সম্পর্ক",
+      "option3": "হতভাগ্য",
+      "option4": "মোসাহেব"
+    }
+  },
+  {
+    "question": "65. শুদ্ধ বানান –",
+    "answer": "2",
+    "options": {
+      "option1": "পিপিলিকা",
+      "option2": "পিপীলিকা",
+      "option3": "পীপিলিকা",
+      "option4": "পিপিলীকা"
+    }
+  },
+  {
+    "question": "66. পূর্বাশা দ্বীপের অপর নাম –",
+    "answer": "3",
+    "options": {
+      "option1": "নিঝুম দ্বীপ",
+      "option2": "সন্দ্বীপ",
+      "option3": " দক্ষিণ তালপট্টি",
+      "option4": "কুতুবদিয়া"
+    }
+  },
+  {
+    "question": "67. মুজিবনগর অবস্থিত –",
+    "answer": "3",
+    "options": {
+      "option1": "যশোর",
+      "option2": "কুষ্টিয়া",
+      "option3": "মেহেরপুর",
+      "option4": "চুয়াডাঙ্গা"
+    }
+  },
+  {
+    "question": "68. সেন্টমার্টিন অবস্থিত কোন জেলায়",
+    "answer": "4",
+    "options": {
+      "option1": "ভোলা",
+      "option2": "নোয়াখালী",
+      "option3": "চট্টগ্রাম",
+      "option4": "কক্সবাজার"
+    }
+  },
+  {
+    "question": "69. বাংলাদেশের সর্বাধিক বৈদেশিক মুদ্রা অর্জনকারী –",
+    "answer": "3",
+    "options": {
+      "option1": "প্রবাসী শ্রমিক",
+      "option2": "পাট",
+      "option3": "রেডিমেড গার্মেন্টস",
+      "option4": "চামড়া"
+    }
+  },
+  {
+    "question": "70. শালবন বিহার অবস্থিত –",
+    "answer": "4",
+    "options": {
+      "option1": "গাজীপুর",
+      "option2": "মধুপুর",
+      "option3": "রাজবাড়ী",
+      "option4": "কুমিল্লার ময়নামতি পাহাড়ের পাশে"
+    }
+  },
+  {
+    "question": "71. সাবাস বাংলাদেশ ভাস্কর্যটি অবস্থিত –",
+    "answer": "4",
+    "options": {
+      "option1": "টি এস সি মোড়",
+      "option2": "ঢাকা বিশ্ববিদ্যালয়",
+      "option3": "রেসকোর্স ময়দান",
+      "option4": "রাজশাহী বিশ্ববিদ্যালয়ে"
+    }
+  },
+  {
+    "question": "72 এশিয়া কাপ ক্রিকেট, ২০১২ অনুষ্ঠিত হয় –.",
+    "answer": "2",
+    "options": {
+      "option1": "বঙ্গবন্ধু জাতীয় স্টেডিয়াম",
+      "option2": "শেরে বাংলা জাতীয় স্টেডিয়াম",
+      "option3": "বাংলাদেশ আর্মি স্টেডিয়াম",
+      "option4": "রাজশাহী স্টেডিয়াম"
+    }
+  },
+  {
+    "question": "73. বাংলাদেশের জাতীয় দিবস –",
+    "answer": "3",
+    "options": {
+      "option1": "১৬ই ডিসেম্বর",
+      "option2": "৭ই মার্চ",
+      "option3": "২৬শে মার্চ",
+      "option4": "১৭ই এপ্রিল"
+    }
+  },
+  {
+    "question": "74. বাংলাদেশের প্রথম প্রধান সেনাপতি ",
+    "answer": "4",
+    "options": {
+      "option1": "মেঃ জেঃ জিয়াউর রহমান",
+      "option2": "মেঃ জেঃ সফিউল্লা",
+      "option3": "লেঃ জেঃ এইচঃ এমঃ এরশাদ",
+      "option4": "জেনারেল আতাউল গণি ওসমানী"
+    }
+  },
+  {
+    "question": "75. বাংলাদেশের রাজধানী –",
+    "answer": "3",
+    "options": {
+      "option1": "ঢাকা উত্তর",
+      "option2": "ঢাকা দক্ষিণ",
+      "option3": "ঢাকা",
+      "option4": "শেরে বাংলা নগর"
+    }
+  },
+  {
+    "question": "76. শিল্পী জয়নুল আবেদীনের সংগ্রহশালা কোথায়?",
+    "answer": "2",
+    "options": {
+      "option1": "ঢাকা",
+      "option2": "ময়মনসিংহ",
+      "option3": "চট্টগ্রাম",
+      "option4": "নড়াইল"
+    }
+  },
+  {
+    "question": "77. সম্প্রতি কোলকাতা ফিল্ম ফেস্টিভ্যালে পুরস্কারপ্রাপ্ত বাংলাদেশী ছবি –",
+    "answer": "2",
+    "options": {
+      "option1": "ওরা এগার জন",
+      "option2": "গেরিলা",
+      "option3": "আবার তোরা মানুষ হ",
+      "option4": "স্টপ জেনোসাইড"
+    }
+  },
+  {
+    "question": "78. বাংলাদেশের আপিল বিভাগে মোট বিচারক –",
+    "answer": "1",
+    "options": {
+      "option1": "১১",
+      "option2": "২১",
+      "option3": "৯",
+      "option4": "১৫"
+    }
+  },
+  {
+    "question": "79. শ্রীলংকার মুদ্রার নাম –",
+    "answer": "4",
+    "options": {
+      "option1": "ডলার",
+      "option2": "পাউন্ড",
+      "option3": "টাকা",
+      "option4": "রুপী"
+    }
+  },
+  {
+    "question": "80. সার্ক এর সদস্য দেশ –",
+    "answer": "3",
+    "options": {
+      "option1": "৬",
+      "option2": "৭",
+      "option3": "৮",
+      "option4": "৯"
+    }
+  },
+  {
+    "question": "81. পৃথিবীর বৃহত্তম বিমান বন্দরটি কোথায় অবস্থিত –",
+    "answer": "4",
+    "options": {
+      "option1": "নিউইয়র্ক",
+      "option2": "লন্ডন",
+      "option3": "বার্লিন",
+      "option4": "জেদ্দা"
+    }
+  },
+  {
+    "question": "82. পৃথিবীর গভীরতম স্থান –",
+    "answer": "3",
+    "options": {
+      "option1": "ভারত মহাসাগর",
+      "option2": "আটলান্টিক মহাসাগর",
+      "option3": "প্রশান্ত মহাসাগর",
+      "option4": "উত্তর মহাসাগর"
+    }
+  },
+  {
+    "question": "83. পৃথিবীর গভীরতম হ্রদ –",
+    "answer": "2",
+    "options": {
+      "option1": "কাসপিয়ান",
+      "option2": "বৈকাল",
+      "option3": "মানস সরোবর",
+      "option4": "ডেড সী"
+    }
+  },
+  {
+    "question": "84. ২০১৪ সালের বিশ্বকাপ ফুটবল অনুষ্ঠিত হবে –",
+    "answer": "2",
+    "options": {
+      "option1": "লন্ডন",
+      "option2": "ব্রাজিল",
+      "option3": "জার্মানি",
+      "option4": "আর্জেন্টিনা"
+    }
+  },
+  {
+    "question": "85. যদি সেট A = {5,15,20,30} এবং B = {3,5,15,18,20} হয় তবে নীচের কোনটি A ∩ B নির্দেশ করবে ?",
+    "answer": "3",
+    "options": {
+      "option1": "{3, 18, 30}",
+      "option2": "{3, 5, 15, 18, 20, 30}",
+      "option3": "{5, 15, 20}",
+      "option4": "কোনটিই নয়"
+    }
+  },
+  {
+    "question": "86. (X-Y, 3) = ( 0, X+2Y) হলে (X,Y) = কত ?",
+    "answer": "1",
+    "options": {
+      "option1": "(1,1)",
+      "option2": "(1, 3)",
+      "option3": "(-1,-1)",
+      "option4": "(-3, 1)"
+    }
+  },
+  {
+    "question": "87. একটি সমকোণী ত্রিভুজের লম্ব ভূমি অপেক্ষা ২ সে:মি:ছোট;কিন্তু অতিভুজ ২ সে:মি: বড় ।অতিভুজের দৈর্ঘ্য কত ?",
+    "answer": "1",
+    "options": {
+      "option1": "১০ সে:মি:",
+      "option2": "৮ সে:মি:",
+      "option3": "৪ সে:মি:",
+      "option4": "৬ সে:মি:"
+    }
+  },
+  {
+    "question": "88. একটি সাবানের আকার ৫ সে:মি:× ৪সে:মি:× ১.৫ সে:মি: হলে ৫৫ সে:মি: দৈর্ঘ্য, ৪৮ সে:মি:প্রস্থ এবং ৩০ সে:মি: উচ্চতাবিশিষ্ট একটি বাক্সের মধ্যে কতটি সাবান রাখা যাবে ?",
+    "answer": "1",
+    "options": {
+      "option1": "২৬৪০ টি",
+      "option2": "১৩২০ টি",
+      "option3": "৩৬০০ টি",
+      "option4": "৫২৪০ টি"
+    }
+  },
+  {
+    "question": "89. বাংলাদেশের সংবিধান এ পর্যন্ত সংশোধিত হয়েছে –",
+    "answer": "2",
+    "options": {
+      "option1": "১৭",
+      "option2": "১৫",
+      "option3": "২০",
+      "option4": "১৯"
+    }
+  },
+  {
+    "question": "90. একটি  রম্বসের কর্ণ দ্বয়ের  দৈর্ঘ্য ৮ সেমি ও ৯ সেমি । এই  রম্বসের  ক্ষেত্রফলের সমান  ক্ষেত্রফলবিশিষ্ট বর্গক্ষেত্র এর পরিসীমা কত?  ",
+    "answer": "1",
+    "options": {
+      "option1": " ২৪ সেমি",
+      "option2": " ১৮ সেমি",
+      "option3": " ৩৬ সেমি ",
+      "option4": " ১২ সেমি "
+    }
+  },
+  {
+    "question": "91. x/y এর সাথে কত যোগ করলে যোগফল y/x হবে?",
+    "answer": "3",
+    "options": {
+      "option1": " x^2-y^2/xy",
+      "option2": " 2x^2-y^2/xy",
+      "option3": " y^2-x^2/xy",
+      "option4": " x^2-2y^2/xy"
+    }
+  },
+  {
+    "question": "92. একটি ত্রিভুজের দুইটি কোণের পরিমান ৩৫ ও ৫৫ ডিগ্রী । ত্রিভুজটি কোন ধরনের?",
+    "answer": "1",
+    "options": {
+      "option1": " সমকোণী",
+      "option2": " সম্বাবাহু",
+      "option3": " শ্তুলকোণী",
+      "option4": " সমদ্বিবাহু "
+    }
+  },
+  {
+    "question": "93. 36.2^3x-8 = 3^2 হলে x এর মান কত?",
+    "answer": "3",
+    "options": {
+      "option1": " 7/8",
+      "option2": " 3",
+      "option3": "2",
+      "option4": " 8/3"
+    }
+  },
+  {
+    "question": "94.  নিচের কোনটি  (√5-√3) এর সমান? ",
+    "answer": "4",
+    "options": {
+      "option1": " √2",
+      "option2": " 1/2(√5-√3)",
+      "option3": "1/√5+1/√3",
+      "option4": "2/√3+√5"
+    }
+  },
+  {
+    "question": "95. m সংখ্যক সংখ্যার গড় x এবং  n সংখ্যক সংখ্যার গড়  y হলে সব সংখ্যার গড় কত?",
+    "answer": "3",
+    "options": {
+      "option1": " (x+y)/mn",
+      "option2": "(x+y)/(m+n)",
+      "option3": "(mx+ny)/(m+n)",
+      "option4": "(mx+ny)/mn"
+    }
+  },
+  {
+    "question": "96. যদি (a/b)^x-3 =(b/a)^x-5 হয় তবে  x এর মান কত?",
+    "answer": "4",
+    "options": {
+      "option1": " 8",
+      "option2": " 5",
+      "option3": " 3",
+      "option4": " 4"
+    }
+  },
+  {
+    "question": "97. 4^x+4^x+4^x+4^x এর মান নিচের কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": " 16^x",
+      "option2": " 4^4x",
+      "option3": " 2^2x+2",
+      "option4": "2^8x"
+    }
+  },
+  {
+    "question": "98. রকীব সাহেব ৩,৭৩,৮৯৯ টাকা ব্যাংকে রাখলেন। ৭.৫ বছর পর তিনি আসল টাকার ৫/৪ অংশ সুদ পেলেন। ব্যাংকের সুদের হার কত?",
+    "answer": "2",
+    "options": {
+      "option1": " ১২.৫%",
+      "option2": " ৫০/৩%",
+      "option3": " ২৫/৩%",
+      "option4": " ১০০/৯%"
+    }
+  },
+  {
+    "question": "99. সঠিক উত্তর কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": " 12",
+      "option2": " 48",
+      "option3": " 36 ",
+      "option4": " 144"
+    }
+  },
+  {
+    "question": "100. সঠিক উত্তর কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": " a",
+      "option2": " 1",
+      "option3": " a^1/3",
+      "option4": " a^3"
+    }
+  }
+]

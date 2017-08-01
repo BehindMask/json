@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "1.  বাংলা ভাষার আদি নিদর্শন চর্যাপদ আবিষ্কৃত হয় কত সালে ?",
+    "answer": "2",
+    "options": {
+      "option1": "২০০৭",
+      "option2": "১৯০৭",
+      "option3": "১৯০৯",
+      "option4": "১৯১৬"
+    }
+  },
+  {
+    "question": "2. 'আমার ভাইয়ের রক্তে রাঙানো একুশে ফেব্রুয়ারি' গানটির প্রথম সুরকার কে?",
+    "answer": "2",
+    "options": {
+      "option1": "মাহমুদুন্নবী",
+      "option2": "আব্দুল লতিফ",
+      "option3": "ফয়সাল মাহদি",
+      "option4": "আলতাফ মাহমুদ"
+    }
+  },
+  {
+    "question": "3. ভানুসিংহ ঠাকুর- কার ছদ্মনাম?",
+    "answer": "1",
+    "options": {
+      "option1": "রবীন্দ্রনাথ ঠাকুরের",
+      "option2": "সত্যেন্দ্রনাথ দত্তের",
+      "option3": "প্রমথ চৌধুরীর",
+      "option4": "টেকচাঁদ ঠাকুরের"
+    }
+  },
+  {
+    "question": "4.  বাংলা সাহিত্যের অন্ধকার যুগের মেয়াদকাল—",
+    "answer": "1",
+    "options": {
+      "option1": "১২০১-১৩৫০",
+      "option2": "১২০১-১৪৫০",
+      "option3": "১৩০১-১৪৫০",
+      "option4": "১২০০-১৩০০"
+    }
+  },
+  {
+    "question": "5. মধ্যযুগের কবি নন কে?",
+    "answer": "1",
+    "options": {
+      "option1": "জয়নন্দী",
+      "option2": "বড়ু চণ্ডীদাস",
+      "option3": "গোবিন্দ দাস",
+      "option4": "জ্ঞান দাস"
+    }
+  },
+  {
+    "question": "6. ফোর্ট উইলিয়াম কলেজের অধ্যক্ষ কে ছিলেন?",
+    "answer": "1",
+    "options": {
+      "option1": "উইলিয়াম কেরি",
+      "option2": "লর্ড ওয়েলেসলি",
+      "option3": "মৃত্যুঞ্জয় বিদ্যালঙ্কার",
+      "option4": "রামরাম বসু"
+    }
+  },
+  {
+    "question": "7. বাংলা সাহিত্যের জনক হিসেবে কার নাম চিরস্মরণীয়?",
+    "answer": "4",
+    "options": {
+      "option1": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "option2": "মাইকেল মধুসূদন দত্ত",
+      "option3": "রাজা রামমোহন রায়",
+      "option4": "ঈশ্বরচন্দ্র বিদ্যাসাগর"
+    }
+  },
+  {
+    "question": "8. মাইকেল মধুসূদন দত্তের রচনা নয় কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "তিলোত্তমা কাব্য",
+      "option2": "মেঘনাদ বধ কাব্য",
+      "option3": "বেতাল পঞ্চবিংশতি",
+      "option4": "বীরাঙ্গনা কাব্য"
+    }
+  },
+  {
+    "question": "9. কুলীন কুল সর্বস্ব নাটকটি কার রচনা?",
+    "answer": "3",
+    "options": {
+      "option1": "মাইকেল মধুসূদন দত্ত",
+      "option2": "দীনবন্ধু মিত্র",
+      "option3": "রামনারায়ণ তর্করত্ন",
+      "option4": "রবীন্দ্রনাথ ঠাকুর"
+    }
+  },
+  {
+    "question": "10. নীলদর্পণ নাটকটির বিষয়বস্তু কি?",
+    "answer": "1",
+    "options": {
+      "option1": "নীলকরদের অত্যাচার",
+      "option2": "ভাষা আন্দোলন",
+      "option3": "অসহযোগ আন্দোলন",
+      "option4": "তে-ভাগা আন্দোলন"
+    }
+  },
+  {
+    "question": "11. ঘরে বাইরে- উপন্যাসটি কার লেখা?",
+    "answer": "4",
+    "options": {
+      "option1": "আলাওল",
+      "option2": "কাজী দীন মহম্মদ",
+      "option3": "কাজী মোতাহের হোসেন",
+      "option4": "রবীন্দ্রনাথ ঠাকুর"
+    }
+  },
+  {
+    "question": "12. সৈয়দ মুজতবা আলীর প্রবন্ধ গ্রন্থ কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "পঞ্চতন্ত্র",
+      "option2": "কালান্তর",
+      "option3": "প্রবন্ধ সংগ্রহ",
+      "option4": "শাশ্বত বঙ্গ"
+    }
+  },
+  {
+    "question": "13. তত্ত্ববোধিনী- পত্রিকার সম্পাদক কে ছিলেন?",
+    "answer": "1",
+    "options": {
+      "option1": "অক্ষয়কুমার দত্ত",
+      "option2": "প্যারীচাঁদ মিত্র",
+      "option3": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "option4": "সৈয়দ মুজতবা আলী"
+    }
+  },
+  {
+    "question": "14. ভাষা আন্দোলনভিত্তিক নাটক কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "কবর",
+      "option2": "পায়ের আওয়াজ পাওয়া যায়",
+      "option3": "জন্ডিস ও বিবিধ বেলুন",
+      "option4": "ওরা কদম আলী"
+    }
+  },
+  {
+    "question": "15.  কোন কাব্যটি পল্লী কবি জসীম উদ্দীন রচিত?",
+    "answer": "2",
+    "options": {
+      "option1": "চৈতালী",
+      "option2": "রাখালী",
+      "option3": "ফনিমনসা",
+      "option4": "আলো পৃথিবী"
+    }
+  },
+  {
+    "question": "16. তুমি আসবে বলে হে স্বাধীনতা- কার কবিতা?",
+    "answer": "1",
+    "options": {
+      "option1": "শামসুর রাহমান",
+      "option2": "শওকত ওসমান",
+      "option3": "সিকান্দার আবু জাফর",
+      "option4": "সুফিয়া কামাল"
+    }
+  },
+  {
+    "question": "17. দেয়াল- রচনাটি কার?",
+    "answer": "1",
+    "options": {
+      "option1": "হুমায়ূন আহমেদ",
+      "option2": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+      "option3": "বুদ্ধদেব বসু",
+      "option4": "সেলিনা হোসেন"
+    }
+  },
+  {
+    "question": "18. মুক্তিযুদ্ধভিত্তিক উপন্যাস কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "ক্রীতদাসের হাসি",
+      "option2": "মাটি আর অশ্রু",
+      "option3": "হাঙর নদী গ্রেনেড",
+      "option4": "সারেং বউ"
+    }
+  },
+  {
+    "question": "19. ১৯৮৫ সালে নাসির উদ্দীন স্বর্ণ পদক কে পান?",
+    "answer": "1",
+    "options": {
+      "option1": "সৈয়দ আলী আহসান",
+      "option2": "সৈয়দ ওয়ালীউল্লাহ",
+      "option3": "সৈয়দ শামসুল হক",
+      "option4": "সিকান্দার আবু জাফর"
+    }
+  },
+  {
+    "question": "20. বাংলা সাহিত্যের পঠন-পাঠনের সুবিধার জন্য বাংলা সাহিত্যের ইতিহাসকে তিনটি যুগে ভাগ করা হয়েছে-- বাংলা সাহিত্যের প্রাচীন যুগ",
+    "answer": "3",
+    "options": {
+      "option1": "৪৫০-৬৫০",
+      "option2": "৬৫০-৮৫০",
+      "option3": "৬৫০-১২০০",
+      "option4": "৬৫০-১২৫০"
+    }
+  },
+  {
+    "question": "21. রক্তে হিমোগ্লোবিনের কাজ -",
+    "answer": "1",
+    "options": {
+      "option1": "অক্সিজেন পরিবহন করা",
+      "option2": "রোগ প্রতিরোধ করা",
+      "option3": "রক্ত জমাট বাধতে সাহায্য করা",
+      "option4": "উল্লেখিত সবকয়টিই "
+    }
+  },
+  {
+    "question": "22. মানবদেহে শক্তি উৎপাদনের প্রধান উৎস -",
+    "answer": "3",
+    "options": {
+      "option1": "পরিপাক",
+      "option2": "খাদ্য গ্রহণ",
+      "option3": "শ্বসন",
+      "option4": "রক্ত সংবহন"
+    }
+  },
+  {
+    "question": "23. কোন সংখ্যার ০.১পৌনোপৌনিক ভাগ এবং ০.১ ভাগের মধ্যে পার্থক্য ১.০ হলে, সংখ্যাটি কত?",
+    "answer": "3",
+    "options": {
+      "option1": "১০",
+      "option2": "৯",
+      "option3": "৯০",
+      "option4": "১০০"
+    }
+  },
+  {
+    "question": "24. একটি আয়তাকার কক্ষের ক্ষেত্রফল ১৯২ বর্গমিটার। এর দৈর্ঘ্য ৪ মিটার কমালে এবং প্রস্থ ৪ মিটার বাড়ালে ক্ষেত্রফল অপরিবর্তিত থাকে। আয়তাকার কক্ষের সমান পরিসীমাবিশিষ্ট বর্গাকার কক্ষের ক্ষেত্রফল কত হবে?",
+    "answer": "4",
+    "options": {
+      "option1": "২২৫ বর্গমিটার",
+      "option2": "১৪৪ বর্গমিটার",
+      "option3": "১৬৯ বর্গমিটার",
+      "option4": "১৯৬ বর্গমিটার"
+    }
+  },
+  {
+    "question": "25. Which of the following ecosystems covers the largest area  of the earth's surface ?",
+    "answer": "1",
+    "options": {
+      "option1": "Marine Ecosystem",
+      "option2": "Desert Ecosystem",
+      "option3": "Mountain Ecosystem",
+      "option4": "Fresh water Ecosystem"
+    }
+  },
+  {
+    "question": "26. √169 is equal to -",
+    "answer": "3",
+    "options": {
+      "option1": "17",
+      "option2": "11",
+      "option3": "13",
+      "option4": "15"
+    }
+  },
+  {
+    "question": "27. তিনটি ক্রমিক সংখ্যার গুণফল তাদের যোগফলের ৫ গুন; সংখ্যা তিনটির গড় কত?",
+    "answer": "1",
+    "options": {
+      "option1": "৪",
+      "option2": "৫",
+      "option3": "৩",
+      "option4": "৬"
+    }
+  },
+  {
+    "question": "28. একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী আছে প্রত্যেকে তত পয়সার চেয়ে আরও 25 পয়সা বেশি করে চাঁদা দেওয়ায় মোট 75 টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রী সংখ্যা কত?",
+    "answer": "3",
+    "options": {
+      "option1": "70",
+      "option2": "85",
+      "option3": "75",
+      "option4": "100"
+    }
+  },
+  {
+    "question": "29. মামুন 240 টাকায় একই রকম কতগুলি কলম কিনে দেখল যে, যদি সে একটি কলম বেশি পেত তাহলে প্রতিটি কলমের মূল্য 1 টাকা কত পড়ত। সে কতগুলি কলম কিনেছিল?",
+    "answer": "3",
+    "options": {
+      "option1": "13 টি",
+      "option2": "14 টি",
+      "option3": "15 টি",
+      "option4": "16 টি"
+    }
+  },
+  {
+    "question": "30. ১৭ দিন আগে আবদুর রহিম বলেছিল যে তার জন্মদিন “আগামীকাল”। আজ ২৩ তারিখ হলে তার জন্মদিন কোন তারিখে?",
+    "answer": "1",
+    "options": {
+      "option1": "৭",
+      "option2": "৮",
+      "option3": "৯",
+      "option4": "১০"
+    }
+  },
+  {
+    "question": "31. ০.০৩, ০.১২, ০.৪৮, -- শূন্যস্থানে সংখ্যাটি কত হবে?",
+    "answer": "3",
+    "options": {
+      "option1": "০.৯৬",
+      "option2": "১.৪৮",
+      "option3": "১.৯২",
+      "option4": "১.৫০"
+    }
+  },
+  {
+    "question": "32. ইদানিং আপনার মনে হচ্ছে সংসারে আপনার গুরুত্ব হ্রাস পাচ্ছে। আপনি এমন  অবস্থায়",
+    "answer": "4",
+    "options": {
+      "option1": "ক্ষোভ ও দুঃখ প্রকাশ করে মন খারাপ করবেন",
+      "option2": "খুবই হতাশাবোধ করবেন",
+      "option3": "বন্ধুদের সাথে বিষয়টি আলাপ করবেন",
+      "option4": "সংসার-এর প্রতি গভীর মনোযোগ দেবেন"
+    }
+  },
+  {
+    "question": "33. আমার কক্ষে এক বৃদ্ধ দম্পতি ও তাদের সাথে দুই দম্পতি প্রত্যেকে দুইজন করে সন্তানসহ আমার কক্ষে প্রবেশ করলেন। আমার কক্ষে মোট কতজন লোক হল?",
+    "answer": "3",
+    "options": {
+      "option1": "৯",
+      "option2": "১০",
+      "option3": "১১",
+      "option4": "১২"
+    }
+  },
+  {
+    "question": "34. ক খ-এর পুত্র। খ এবং গ পরস্পর বোন। ঘ হচ্ছে গ-এর মা, চ, ঘ-এর পুত্র। চ-এর সংগে ক-এর সম্পর্ক কি?",
+    "answer": "1",
+    "options": {
+      "option1": "ক এর মামা চ",
+      "option2": "ক এর খালু চ",
+      "option3": "চ এর নানা ক",
+      "option4": "ক এর চাচা চ"
+    }
+  },
+  {
+    "question": "35. Badminton is the national sport of -",
+    "answer": "1",
+    "options": {
+      "option1": "Malaysia",
+      "option2": "China",
+      "option3": "India",
+      "option4": "Scotland"
+    }
+  },
+  {
+    "question": "36. নিচের কোনটির বিদ্যুৎ পরিবাহিতা সবচেয়ে বেশি ?",
+    "answer": "2",
+    "options": {
+      "option1": "তামা",
+      "option2": "রূপা",
+      "option3": "সোনা",
+      "option4": "কার্বন"
+    }
+  },
+  {
+    "question": "37 বরফ পানিতে ভাসে কারণ বরফের তুলনায় পানির -.",
+    "answer": "2",
+    "options": {
+      "option1": "ঘনত্ব কম",
+      "option2": "ঘনত্ব বেশি",
+      "option3": "তাপমাত্রা বেশি",
+      "option4": "দ্রবণীয়তা বেশি"
+    }
+  },
+  {
+    "question": "38. Photosynthesis takes place in -",
+    "answer": "4",
+    "options": {
+      "option1": "All parts of the plants",
+      "option2": "Roots of the plant",
+      "option3": "Stems of the plants",
+      "option4": "Green parts of the plants"
+    }
+  },
+  {
+    "question": "39. ইউরিয়া থেকে উদ্ভিদ কি খাদ্য উপাদান গ্রহণ করে ?",
+    "answer": "3",
+    "options": {
+      "option1": "সালফার",
+      "option2": "ফসফরাস",
+      "option3": "নাইট্রোজেন",
+      "option4": "পটাশিয়াম"
+    }
+  },
+  {
+    "question": "40. ডায়াবেটিস রোগ সম্পর্কে যে তথ্যটি সত্য নয় তা হলো-",
+    "answer": "2",
+    "options": {
+      "option1": "এ রোগ মানবদেহের কিডনি নষ্ট করে",
+      "option2": "চিনি জাতীয় খাবার বেশী খেলে এ রোগ হয়",
+      "option3": "এ রোগ হলে রক্তে গুকোজের মাত্রা বৃদ্ধি পায়",
+      "option4": "ইনসুলিনের অভাবে এ রোগ হয় "
+    }
+  },
+  {
+    "question": "41. ডেঙ্গু জ্বরের বাহক কোন মশা ?",
+    "answer": "2",
+    "options": {
+      "option1": "কিউলেক্র",
+      "option2": "এডিস",
+      "option3": "সেভিং সোপ",
+      "option4": "সব ধরনের মশা "
+    }
+  },
+  {
+    "question": "42. সুষম খাদ্যের উপাদান কয়টি?",
+    "answer": "3",
+    "options": {
+      "option1": "৪ টি",
+      "option2": "৫ টি",
+      "option3": "৬ টি",
+      "option4": "৮ টি"
+    }
+  },
+  {
+    "question": "43. ইনসুলিন নিঃসৃত হয় কোথা থেকে?",
+    "answer": "4",
+    "options": {
+      "option1": "অগ্ন্যাশয় হতে",
+      "option2": "প্যানক্রিয়াস হতে",
+      "option3": "লিভার হতে",
+      "option4": "A & B"
+    }
+  },
+  {
+    "question": "44. হাড় ও দাঁত কে মজবুত করে-",
+    "answer": "4",
+    "options": {
+      "option1": "আয়োডিন",
+      "option2": "আয়রন",
+      "option3": "ম্যাগনেসিয়াম",
+      "option4": " ক্যালসিয়াম ও ফসফরাস"
+    }
+  },
+  {
+    "question": "45. অতিরিক্ত খাদ্য থেকে লিভারে সঞ্চিত সুগার হল -",
+    "answer": "1",
+    "options": {
+      "option1": "গ্লাইকোজেন",
+      "option2": "গ্লুকোজ",
+      "option3": "ফ্রুক্টোজ",
+      "option4": "সুক্রোজ"
+    }
+  },
+  {
+    "question": "46. প্রানী জগতের উৎপত্তি ও বংশ সম্বন্ধীয় বিদ্যাকে বলে -",
+    "answer": "4",
+    "options": {
+      "option1": "জুওলজী",
+      "option2": "বায়োলজী",
+      "option3": "ইভোলিউশন",
+      "option4": "জেনেটিক্স"
+    }
+  },
+  {
+    "question": "47. কোন খাদ্যে প্রোটিন বেশি ?",
+    "answer": "3",
+    "options": {
+      "option1": "ভাত",
+      "option2": "গরুর মাংস",
+      "option3": "মসুর ডাল",
+      "option4": "ময়দা"
+    }
+  },
+  {
+    "question": "48. কোন ডালের সঙ্গে ল্যাথারাইজম রোগের সর্ম্পক আছে ?",
+    "answer": "3",
+    "options": {
+      "option1": "অড়হর",
+      "option2": "ছোলা",
+      "option3": "খেসারী",
+      "option4": "মটর"
+    }
+  },
+  {
+    "question": "49. সুনামির (Tsumami)কারণ হলো-",
+    "answer": "4",
+    "options": {
+      "option1": "আগ্নেয়গিরির অগ্ন্যুৎপাত",
+      "option2": "ঘূর্ণিঝড়",
+      "option3": "চন্দ্র ও সূর্যের আকর্ষণ",
+      "option4": "সমুদ্র তলদেশের ভূমিকম্প"
+    }
+  },
+  {
+    "question": "50. জমির লবণাক্ততা নিয়ন্ত্রণ করে কোনটি ?",
+    "answer": "2",
+    "options": {
+      "option1": " কৃত্রিম সার প্রয়োগ",
+      "option2": "পানি সেচ",
+      "option3": "জমিতে নাইট্রোজেন ধরে রাখা",
+      "option4": "প্রাকৃতিক সার প্রয়োগ "
+    }
+  },
+  {
+    "question": "51. নবায়নযোগ্য জ্বালানি কোনটি ?",
+    "answer": "1",
+    "options": {
+      "option1": "পরামাণু শক্তি",
+      "option2": "কয়লা",
+      "option3": "পেট্রোল",
+      "option4": "প্রাকৃতিক গ্যাস "
+    }
+  },
+  {
+    "question": "52. কোন জলজ জীবটি বাতাসে নিঃশ্বাস নেয়?",
+    "answer": "1",
+    "options": {
+      "option1": "শুশুক",
+      "option2": "তিমি",
+      "option3": "ইলিশ",
+      "option4": "হাঙ্গর"
+    }
+  },
+  {
+    "question": "53. প্রাকৃতিক কোন উৎস হতে সবচেয়ে বেশী মৃদু পানি পাওয়া যায়?",
+    "answer": "4",
+    "options": {
+      "option1": "সাগর",
+      "option2": "হ্রদ",
+      "option3": "নদী",
+      "option4": "বৃষ্টি"
+    }
+  },
+  {
+    "question": "54. Lunar eclipse occurs on -",
+    "answer": "3",
+    "options": {
+      "option1": "A moonless day",
+      "option2": "A new moon day",
+      "option3": "A full moon day",
+      "option4": "A half moon day"
+    }
+  },
+  {
+    "question": "55. The term PC means -",
+    "answer": "4",
+    "options": {
+      "option1": "Professional computer",
+      "option2": "Private computer",
+      "option3": "Prime computer",
+      "option4": "Personal computer"
+    }
+  },
+  {
+    "question": "56. পরমাণুর নিউক্লিয়াসে কী কী থাকে?",
+    "answer": "1",
+    "options": {
+      "option1": "নিউট্রন ও প্রোট্রন",
+      "option2": "ইলেকট্রন ও প্রোটন",
+      "option3": "নিউট্রন ও পজিট্রন",
+      "option4": "ইলেকট্রন ও পজিট্রন"
+    }
+  },
+  {
+    "question": "57. গাড়ীর ব্যাটারীতে কোন এসিড ব্যবহার করা হয় ?",
+    "answer": "2",
+    "options": {
+      "option1": "নাইট্রিক",
+      "option2": "সালফিউরিক",
+      "option3": "হাইড্রোক্লোরিক",
+      "option4": "পারক্লোরিক"
+    }
+  },
+  {
+    "question": "58. 'Botany' is to 'plants' as 'Zoology is to__.",
+    "answer": "4",
+    "options": {
+      "option1": "flowers",
+      "option2": "trees",
+      "option3": "dear",
+      "option4": "animals"
+    }
+  },
+  {
+    "question": "59. Tiger: Zoology :: Mars :",
+    "answer": "2",
+    "options": {
+      "option1": "Astrology",
+      "option2": "Astronomy",
+      "option3": "Cryptology",
+      "option4": "Telescopy"
+    }
+  },
+  {
+    "question": "60. 'Maiden speech' means .",
+    "answer": "4",
+    "options": {
+      "option1": "Late speech",
+      "option2": "Early speech",
+      "option3": "Final speech",
+      "option4": "First speech"
+    }
+  },
+  {
+    "question": "61. What is the masculine gender of 'mare' ?",
+    "answer": "4",
+    "options": {
+      "option1": "Dog",
+      "option2": "Mermaid",
+      "option3": "Bear",
+      "option4": "Stallion"
+    }
+  },
+  {
+    "question": "62. প্রাণদ : জল : মহীজ : ?",
+    "answer": "2",
+    "options": {
+      "option1": "সম্বর",
+      "option2": "গ্রহ",
+      "option3": "নিঃসর্গ",
+      "option4": "অশ্ব"
+    }
+  },
+  {
+    "question": "63. বাংলাদেশের প্রথম জাতীয় সংসদ নির্বাচন কবে হয় ?",
+    "answer": "1",
+    "options": {
+      "option1": "৭ মার্চ,১৯৭৩",
+      "option2": "৫ মার্চ,১৯৭৩",
+      "option3": "৬ এপ্রিল,১৯৭৩",
+      "option4": "১১ এপ্রিল,১৯৭৩ "
+    }
+  },
+  {
+    "question": "64. বাংলাদেশ উন্নয়ন ফোরামের সমন্বয়কারী কোন সংস্থা?",
+    "answer": "3",
+    "options": {
+      "option1": "জিকা",
+      "option2": "ইউএনডিপি",
+      "option3": "বিশ্বব্যাংক",
+      "option4": "আইএমএফ"
+    }
+  },
+  {
+    "question": "65. বাংলায় চিরস্থায়ী বন্দোবস্ত প্রবর্তন করা হয় কোন সালে ?",
+    "answer": "3",
+    "options": {
+      "option1": "১৭০০ সালে",
+      "option2": "১৭৬২ সালে",
+      "option3": "১৭৯৩ সালে",
+      "option4": "১৯৬৫ সালে"
+    }
+  },
+  {
+    "question": "66. বঙ্গবন্ধু শেখ মুজিবুর রহমান কত তারিখে জন্মগ্রহণ করেন?",
+    "answer": "3",
+    "options": {
+      "option1": "২১ জুন ১৯৪১ খৃঃ",
+      "option2": "১ মার্চ ১৯১৯ খৃঃ",
+      "option3": "১৭ মার্চ ১৯২০ খৃঃ",
+      "option4": "১৪ আগস্ট ১৯৪৭ খৃঃ"
+    }
+  },
+  {
+    "question": "67. বহুল আলোচিত মুহুরীর চর কোন জেলায় অবস্থিত?",
+    "answer": "3",
+    "options": {
+      "option1": "সাতক্ষীরা",
+      "option2": "নোয়াখালী",
+      "option3": "ফেনী ",
+      "option4": "লালমনিরহাট"
+    }
+  },
+  {
+    "question": "68. বাংলাদেশ টেলিভিশনের যাত্রা শুরু হয় কত সনে?",
+    "answer": "3",
+    "options": {
+      "option1": "১৯৪৭ খৃঃ",
+      "option2": "১৯৫৮ খৃঃ",
+      "option3": "১৯৬৪ খৃঃ",
+      "option4": "১৯৬৫ খৃঃ"
+    }
+  },
+  {
+    "question": "69. বাংলাদেশ শেয়ারবাজার কার্যক্রম কোন সংস্থা নিয়ন্ত্রণ করে?",
+    "answer": "1",
+    "options": {
+      "option1": "সিকিউরিটিজ এক্সচেঞ্জ কমিশন",
+      "option2": "অর্থ মন্ত্রণালয়",
+      "option3": "প্রধানমন্ত্রীর কার্যালয়",
+      "option4": "বাংলাদেশ ব্যাংক"
+    }
+  },
+  {
+    "question": "70. বাংলাদেশ ও মায়ানমার কে বিভক্তকারী নদী কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "কর্ণফুলী",
+      "option2": "হালদা",
+      "option3": "সাংগু",
+      "option4": "নাফ"
+    }
+  },
+  {
+    "question": "71. Who is known as the 'Lady of the Lamp'?",
+    "answer": "3",
+    "options": {
+      "option1": "Sorojini Naidu",
+      "option2": "Hellen Killer",
+      "option3": "Florence Nightingale",
+      "option4": "Madame Teresa"
+    }
+  },
+  {
+    "question": "72. For which of the following disciplines Nobel Prize is awarded ?",
+    "answer": "4",
+    "options": {
+      "option1": "Literature, peace and Economices",
+      "option2": "Physiology or Medicine",
+      "option3": "Physices and Chemistry",
+      "option4": "All of the above"
+    }
+  },
+  {
+    "question": "73. EURO is the currency of -",
+    "answer": "3",
+    "options": {
+      "option1": "Africa",
+      "option2": "Asia",
+      "option3": "Europe",
+      "option4": "America"
+    }
+  },
+  {
+    "question": "74. জামাল নজরুল ইসলাম কে?",
+    "answer": "1",
+    "options": {
+      "option1": "বৈজ্ঞানিক",
+      "option2": "ফুটবল খেলোয়াড়",
+      "option3": "অর্থনীতিবিদ",
+      "option4": "কবি"
+    }
+  },
+  {
+    "question": "75. তাহরির স্কয়ার- কোথায় অবস্থিত?",
+    "answer": "4",
+    "options": {
+      "option1": "তেহরান",
+      "option2": "সিউল",
+      "option3": "আম্মান",
+      "option4": "কায়রো"
+    }
+  },
+  {
+    "question": "76. আরব বসন্ত- বলতে কি বুঝায়?",
+    "answer": "2",
+    "options": {
+      "option1": "আরবীয় মহিলাদের ক্ষমতায়ন",
+      "option2": "আরবের বিভিন্ন দেশে গণজাগরণ",
+      "option3": "আরব অঞ্চলে বসন্তকাল",
+      "option4": "আরব রাজতন্ত্র"
+    }
+  },
+  {
+    "question": "77. আয়তনে পৃথিবীর সবচেয়ে ছোট দেশ?",
+    "answer": "3",
+    "options": {
+      "option1": "মালদ্বীপ",
+      "option2": "ফিজি",
+      "option3": "ভ্যাটিকান",
+      "option4": "কুয়েত"
+    }
+  },
+  {
+    "question": "78. এশিয়ার হিন্দু রাষ্ট্র কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": "মালদ্বীপ",
+      "option2": "নেপাল",
+      "option3": "ভারত",
+      "option4": "ভূটান"
+    }
+  },
+  {
+    "question": "79. লয়াজিরগা- কোন দেশের আইন সভা?",
+    "answer": "1",
+    "options": {
+      "option1": "আফগানিস্তান",
+      "option2": "ফিজি",
+      "option3": "সিরিয়া",
+      "option4": "লেবানন"
+    }
+  },
+  {
+    "question": "80. শ্যামদেশ কোন দেশের পুরাতন নাম?",
+    "answer": "1",
+    "options": {
+      "option1": "থাইল্যান্ড",
+      "option2": "মিসর",
+      "option3": "ইরাক",
+      "option4": "ইরান"
+    }
+  },
+  {
+    "question": "81. International Court of Justice-এর সদর দপ্তর কোথায় অবস্থিত?",
+    "answer": "2",
+    "options": {
+      "option1": "যুক্তরাষ্ট্রের নিউ ইয়র্কে",
+      "option2": "নেদারল্যান্ডসের দ্য হেগে",
+      "option3": "সুইজারল্যান্ডের বার্নে",
+      "option4": "কানাডার অটোয়ায়"
+    }
+  },
+  {
+    "question": "82. অ্যামনেস্টি ইন্টার‌ন্যাশনাল-এর সদর দপ্তর কোথায়?",
+    "answer": "4",
+    "options": {
+      "option1": "প্যারিস",
+      "option2": "জেনেভা",
+      "option3": "রোম",
+      "option4": "লন্ডন"
+    }
+  },
+  {
+    "question": "83. IMF is the result of",
+    "answer": "4",
+    "options": {
+      "option1": "Hawana Conference",
+      "option2": "Rome Conference",
+      "option3": "Geneva Conference",
+      "option4": "Brettonwood Conference"
+    }
+  },
+  {
+    "question": "84. নিম্নের কোন সংস্থাটি ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসাবে স্বীকৃতি দিয়েছে?",
+    "answer": "3",
+    "options": {
+      "option1": "UNCTAD",
+      "option2": "UNDP",
+      "option3": "UNESCO",
+      "option4": "UNICEF"
+    }
+  },
+  {
+    "question": "85. কোনটি D-৮ ভুক্ত দেশ নয়?",
+    "answer": "3",
+    "options": {
+      "option1": "তুরস্ক",
+      "option2": "নাইজেরিয়া",
+      "option3": "ভারত",
+      "option4": "মালয়েশিয়া"
+    }
+  },
+  {
+    "question": "86. ‘বিশ্ব তামাকমুক্ত দিবস’ প্রতিপালিত হয় প্রতি বছরের-",
+    "answer": "4",
+    "options": {
+      "option1": "৩১ জানুয়ারি",
+      "option2": "৩০ মার্চ",
+      "option3": "৩০ এপ্রিল",
+      "option4": "৩১ মে"
+    }
+  },
+  {
+    "question": "87. কোপেন হেগেন কোন দেশের রাজধানী?",
+    "answer": "2",
+    "options": {
+      "option1": "আর্মেনিয়া",
+      "option2": "ডেনমার্ক",
+      "option3": "বেলজিয়াম",
+      "option4": "ভিয়েতনাম"
+    }
+  },
+  {
+    "question": "88. মুজিবনগরে কোন তারিখে স্বাধীন বাংলাদেশের অস্থায়ী সরকার গঠিত হয় ঘোষণা করা ? ",
+    "answer": "2",
+    "options": {
+      "option1": "২৬ মার্চ,১৯৭১",
+      "option2": "১০ এপ্রিল,১৯৭১",
+      "option3": "৬ সেপ্টেম্বর,১৯৭১",
+      "option4": "১০ নভেম্বর,১৯৭১"
+    }
+  },
+  {
+    "question": "89. ( 5^(n 2) 35*(5^(n-1)) )/4*5^n এর মান কত?",
+    "answer": "2",
+    "options": {
+      "option1": "4",
+      "option2": "8",
+      "option3": "5",
+      "option4": "7"
+    }
+  },
+  {
+    "question": "90. A = {1, 2, 3} B = ∅ হলে A ∪ B = কত?",
+    "answer": "1",
+    "options": {
+      "option1": "{1, 2, 3}",
+      "option2": "{2, 3, ∅}",
+      "option3": "{1, 2, ∅}",
+      "option4": "∅"
+    }
+  },
+  {
+    "question": "91. x + y = 2, x^2 + y^2 = 4 হলে x^3 + y^3 = কত?",
+    "answer": "1",
+    "options": {
+      "option1": "8",
+      "option2": "9",
+      "option3": "16",
+      "option4": "25"
+    }
+  },
+  {
+    "question": "92. N.B stands for -",
+    "answer": "4",
+    "options": {
+      "option1": "Non bearing",
+      "option2": "Note before",
+      "option3": "No bar",
+      "option4": "Nota bene"
+    }
+  },
+  {
+    "question": "93. বিষমবাহু ΔABC-এর বাহুগুলির মান এমনভাবে নির্ধারিত যে, AD মধ্যমা দ্বারা গঠিত ΔABD-এর ক্ষেত্রফল x বর্গমিটার। ΔABC-এর ক্ষেত্রফল কত?",
+    "answer": "2",
+    "options": {
+      "option1": "x^2 বর্গমিটার",
+      "option2": "2x বর্গমিটার",
+      "option3": "(x/2)^2 বর্গমিটার",
+      "option4": "(√x/3)^3 বর্গমিটার"
+    }
+  },
+  {
+    "question": "94. একটি বৃত্তের পরিধি ও ক্ষেত্রফল যথাক্রমে ১৩২ সেন্টিমিটার ও ১৩৮৬ বর্গসেন্টিমিটার। বৃত্তটির বৃহত্তম জ্যা-এর দৈর্ঘ্য কত?",
+    "answer": "2",
+    "options": {
+      "option1": "৬৬ সেন্টিমিটার",
+      "option2": "৪২ সেন্টিমিটার",
+      "option3": "২১ সেন্টিমিটার",
+      "option4": "২২ সেন্টিমিটার"
+    }
+  },
+  {
+    "question": "95. একটি পঞ্চভুজের সমষ্টি",
+    "answer": "2",
+    "options": {
+      "option1": "৪ সমকোণ",
+      "option2": "৬ সমকোণ",
+      "option3": "৮ সমকোণ",
+      "option4": "১০ সমকোণ"
+    }
+  },
+  {
+    "question": "96. ঘড়িতে এখন ৮টা বাজে। ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যকার কোণটি হলো",
+    "answer": "2",
+    "options": {
+      "option1": "৯০°",
+      "option2": "১২০°",
+      "option3": "৬০°",
+      "option4": "১৫০°"
+    }
+  },
+  {
+    "question": "97. ২০ ফুট লম্বা একটি বাঁশ এমনভাবে কেটে দু’ভাগ করা হলো যেন ছোট অংশ বড় অংশের দুই তৃতীয়াংশ হয়, ছোট অংশের দৈর্ঘ্য কত ফুট?",
+    "answer": "1",
+    "options": {
+      "option1": "৮",
+      "option2": "১০",
+      "option3": "৭",
+      "option4": "৬"
+    }
+  },
+  {
+    "question": "98. Fill in the blank of the following sentence with the right form of verb. if  I _____  a king!",
+    "answer": "4",
+    "options": {
+      "option1": "shall be",
+      "option2": "am",
+      "option3": "was",
+      "option4": "were"
+    }
+  },
+  {
+    "question": "99. In Cricket game the length of the pitch between th two wickets is -",
+    "answer": "4",
+    "options": {
+      "option1": "21 yards",
+      "option2": "24 yards",
+      "option3": "23 yards",
+      "option4": "22 yards"
+    }
+  },
+  {
+    "question": "100. শূন্য স্থানে কি হবে ?",
+    "answer": "4",
+    "options": {
+      "option1": " T,X",
+      "option2": " X,T",
+      "option3": " S,T",
+      "option4": " T,B"
+    }
+  }
+]
