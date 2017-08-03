@@ -1,0 +1,2003 @@
+[
+  {
+    "question": "নিচের কোনটি বাগধারা বোঝায়?",
+    "answer": "3",
+    "options": {
+      "option1": "চৈত্র সংক্রান্তি",
+      "option2": "পৌষ সংক্রান্তি",
+      "option3": "শিরে সংক্রান্তি",
+      "option4": "শিব-সংক্রান্তি"
+    }
+  },
+  {
+    "question": "কোনটি মৌলিক শব্দ?",
+    "answer": "2",
+    "options": {
+      "option1": "মানব   ",
+      "option2": "গোলাপ",
+      "option3": "একাঙ্ক",
+      "option4": "ধাতব"
+    }
+  },
+  {
+    "question": "বাংলা সাহিত্যের ইতিহাস বিষয়ক গ্রন্থসমূহের মধ্যে কোনটি ড. মুহম্মদ শহীদুল্লাহর লেখা?",
+    "answer": "4",
+    "options": {
+      "option1": "বঙ্গভাষা ও সাহিত্য",
+      "option2": "বাঙ্গালা সাহিত্যের ইতিহাস",
+      "option3": "বাংলা সাহিত্যের ইতিবৃত্ত",
+      "option4": "বাংলা সাহিত্যের কথা"
+    }
+  },
+  {
+    "question": "ভাষা আন্দোলনভিত্তিক প্রথম প্রত্রিকার সম্পাদকের নাম কি?",
+    "answer": "2",
+    "options": {
+      "option1": "মুনির চৌধুরী",
+      "option2": "হাসান হাফিজুর রহমান",
+      "option3": "শামসুর রহমান",
+      "option4": "গাজিউল হক"
+    }
+  },
+  {
+    "question": "নিচের কোন বানানগুচ্ছের সবগুলো বানান অশুদ্ধ?",
+    "answer": "1",
+    "options": {
+      "option1": "নিক্বণ, সূচগ্র, অনুর্ধ্ব",
+      "option2": "অনূর্বর, উর্ধ্বগামী, শুদ্ব্যশুদ্বি",
+      "option3": "ভূরিভূরি, ভূরিওয়ালা, মাতৃস্বসা",
+      "option4": "রানী, বিকিরণ, দুরতিক্রম্য"
+    }
+  },
+  {
+    "question": "বাংলাদেশে ‘গ্রাম থিয়েটারে’র প্রর্বতক কে?",
+    "answer": "3",
+    "options": {
+      "option1": "মমতাজ উদদীন আহমদ",
+      "option2": "আব্দুলাহ আল মামুন",
+      "option3": "সেলিম আল দীন",
+      "option4": "রামেন্দু মজুমদার"
+    }
+  },
+  {
+    "question": "‘সমভিব্যাহারে’ শব্দটির অর্থ কি?",
+    "answer": "4",
+    "options": {
+      "option1": "একাগ্রতায়",
+      "option2": "সমান ব্যবহারে",
+      "option3": "সম ভাবনায়",
+      "option4": "একযোগে"
+    }
+  },
+  {
+    "question": "শৃঙ্গার রসকে বৈষ্ণব পদাবলিতে কি রস বলে?",
+    "answer": "2",
+    "options": {
+      "option1": "ভাবরস",
+      "option2": "মধুর রস",
+      "option3": "প্রেম রস",
+      "option4": "লিলারস"
+    }
+  },
+  {
+    "question": "ড. মুহম্মদ শহীদুল্লাহ সম্পাদিত চর্যাপদ বিষয়ক গ্রন্থের নাম কী?",
+    "answer": "1",
+    "options": {
+      "option1": "Buddhist Mystic Songs",
+      "option2": "চর্যাগীতিকা",
+      "option3": "চর্যাগীতিকোষ",
+      "option4": "হাজার বছরের পুরাণ বাংলা ভাষায় বৌদ্ধগান ও দোহা"
+    }
+  },
+  {
+    "question": "‘পূর্উবঙ্গ গীতিকা’র লোকপালাসমূহের সংগ্রাহক কে?",
+    "answer": "3",
+    "options": {
+      "option1": "দক্ষিণারঞ্জন মিত্র মজুমদার",
+      "option2": "হরপ্রসাদ শ্রাস্ত্রী",
+      "option3": "চন্দ্রকুমার দে",
+      "option4": "দীনেশচন্দ্র সেন"
+    }
+  },
+  {
+    "question": "‘চর্যাচর্যবিনিশ্চয়’-এর অর্থ কি?",
+    "answer": "2",
+    "options": {
+      "option1": "কোনটি চর্যাগান, আর কোনটি নয়",
+      "option2": "কোনটি আচরণীয়, আর কোনটি নয়",
+      "option3": "কোনটি চরাচরের, আর কোনটি নয়",
+      "option4": "কোনটি আচার্যের, আর কোনটি নয়"
+    }
+  },
+  {
+    "question": "‘গোরক্ষ বিজয়’ কাব্য কোন ধর্মমতের কাহিনী অবলম্বনে লেখা?",
+    "answer": "3",
+    "options": {
+      "option1": "শৈবধর্ম",
+      "option2": "বৌদ্ধ সহজযান",
+      "option3": "নাথধর্ম",
+      "option4": "কোনটি নয়"
+    }
+  },
+  {
+    "question": "শাক্ত পদাবলির জন্য বিখ্যাত-",
+    "answer": "4",
+    "options": {
+      "option1": "রামনিদি গুপ্ত ",
+      "option2": "দাশরথি রায়",
+      "option3": "এ্যান্টনি ফিরিঙ্গি",
+      "option4": "রামপ্রসাদ সেন"
+    }
+  },
+  {
+    "question": "‘অলৌকিক ইস্টিমাআর’ গ্রন্থের রচয়িতা কে?",
+    "answer": "1",
+    "options": {
+      "option1": "হুমায়ুন আজাদ",
+      "option2": "হেলাল হাফিজ",
+      "option3": "আসাদ চৌধুরি",
+      "option4": "রফিক আজাদ"
+    }
+  },
+  {
+    "question": "‘Custom’ শব্দের পরিভাষা কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": "আইন",
+      "option2": "প্রথা",
+      "option3": "শুল্ক",
+      "option4": "রাজস্বনীতি"
+    }
+  },
+  {
+    "question": "কাজী নজরুল ইসলাম তাঁর কবিতায় ‘কালোপাহার’কে স্মরণ করেছেন কেন?",
+    "answer": "4",
+    "options": {
+      "option1": "ব্রাক্ষণ্যযুগে নব মুসলিম ছিলেন বলে",
+      "option2": "ইসলামের গুণকীর্তন করেছিলেন বলে",
+      "option3": "প্রাচীন বাংলার বিদ্রোহী ছিলেন বলে",
+      "option4": "প্রচলিত ধর্ম ও সংস্কার-বিদ্বেষী ছিলেন বলে"
+    }
+  },
+  {
+    "question": "‘‘প্রদীপ নিবিয়া গেল’’-এ বিখ্যাত বর্ণনা কোন উপন্যাসের?",
+    "answer": "3",
+    "options": {
+      "option1": "বঙ্কিমচন্দ্রের ‘বিষবৃক্ষ’",
+      "option2": "রবীন্দ্রনাথের ‘চোখেরবালি’",
+      "option3": "বঙ্কিমচন্দ্রের ‘কপালকুন্ডলা’",
+      "option4": "রবীন্দ্রনাথের ‘যোগাযোগ’"
+    }
+  },
+  {
+    "question": "‘মাতৃভাষায় যাহার ভক্তি নাই সে মানুষ নহে।’’-উক্তিটি কার?",
+    "answer": "1",
+    "options": {
+      "option1": "মীর মশাররফ হোসেনের",
+      "option2": "ইসমাইল হুসেন সিরাজীর",
+      "option3": "রবীন্দ্রনাথ ঠাকুরের",
+      "option4": "কাজী নজরুল ইসলামের"
+    }
+  },
+  {
+    "question": "বর্গের কোন বর্ণসমূহের ধ্বনি মহাপ্রানধ্বনি?",
+    "answer": "2",
+    "options": {
+      "option1": "তৃতীয় বর্ণ",
+      "option2": "দ্বিতীয় ও চতুর্থ বর্ণ",
+      "option3": "প্রথম ও দ্বিতীয় বর্ণ",
+      "option4": "দ্বিতীয় ও তৃতীয় বর্ণ"
+    }
+  },
+  {
+    "question": "‘কদাকার’ শব্দটি কোন উপসর্গযোগে গঠিত?",
+    "answer": "1",
+    "options": {
+      "option1": "দেশি উপসর্গযোগে",
+      "option2": "বিদেশি উপসর্গযোগে",
+      "option3": "সংস্কৃত উপসর্গযোগে",
+      "option4": "কোনটি নয়"
+    }
+  },
+  {
+    "question": "যুক্তাক্ষর এক মাত্রা এবং বদ্বাক্ষরও এক মাত্রা গণনা করা হয় কোন ছন্দে?",
+    "answer": "4",
+    "options": {
+      "option1": "মাত্রাবৃত্ত",
+      "option2": "অক্ষরবৃত্ত",
+      "option3": "মুক্তক",
+      "option4": "স্বরবৃত্ত"
+    }
+  },
+  {
+    "question": "নিচের কোনটি অশুদ্ধ?",
+    "answer": "3",
+    "options": {
+      "option1": "অহিংস-সহিংস",
+      "option2": "প্রসন্ন-বিষণ্ন",
+      "option3": "দোষী-নির্দোষী",
+      "option4": "নিষ্পাপ-পাপিনী"
+    }
+  },
+  {
+    "question": "‘কল্লোল’ প্রত্রিকার প্রথম সম্পাদকের নাম কি?",
+    "answer": "2",
+    "options": {
+      "option1": "বুদ্ধদেব  বসু",
+      "option2": "দীনেশরঞ্জন দাশ",
+      "option3": "সজনিকান্ত দাশ",
+      "option4": "প্রেমেন্দ মিত্র"
+    }
+  },
+  {
+    "question": "‘‘আমি এ কথা, এ ব্যথা, সুখব্যাকলতা কাহার চরণতলে দিব নিছনি।।’’- রবীন্দ্রনাথের এ গানে ‘‘নিছনি’’ কি অর্থে ব্যাবহার হয়েছে?",
+    "answer": "2",
+    "options": {
+      "option1": "অপনোদন অর্থে",
+      "option2": "পূজা অর্থে",
+      "option3": "বিলানো অর্থে",
+      "option4": "উপহার অর্থে"
+    }
+  },
+  {
+    "question": "‘‘ধর্ম সাধারণ লোকের সংস্কৃতি, আর সংস্কৃতি শিক্ষিত মার্জিত লোকের ধর্ম। কে বলেছে?",
+    "answer": "1",
+    "options": {
+      "option1": "মোতাহের হোসেন চৌধুরী",
+      "option2": "রামেন্দ্রসুন্দর ত্রিদেবী",
+      "option3": "প্রমথ চৌধুরী",
+      "option4": "কাজী আব্দুল ওদুদ"
+    }
+  },
+  {
+    "question": "কোন বাক্যটি শুদ্ধ?",
+    "answer": "2",
+    "options": {
+      "option1": "আপনি স্বপরিবারে আমন্ত্রিত",
+      "option2": "তার কথা শুনে আমি আশ্চর্যান্বিত হলাম",
+      "option3": "তোমার পরশ্রীকাতরতায় আমি মুগ্ধ",
+      "option4": "সেদিন থেকে তিনি সেখানে আর জায় না"
+    }
+  },
+  {
+    "question": "Ode কী?",
+    "answer": "4",
+    "options": {
+      "option1": "শোককবিতা",
+      "option2": "পত্রকাব্য",
+      "option3": "খন্ডকবিতা",
+      "option4": "কোরাসগান"
+    }
+  },
+  {
+    "question": "মহম্মদ আব্দুল হাই রচিত ধ্বনি বিজ্ঞান বিষয়ক গ্রন্থের নাম কী?",
+    "answer": "4",
+    "options": {
+      "option1": "ধ্বনিবিজ্ঞান",
+      "option2": "আধুনিক বাংলা ধ্বনিবিজ্ঞান",
+      "option3": "ধ্বনিবিজ্ঞানের কথা",
+      "option4": "ধ্বনিবিজ্ঞান ও বাংলা ধ্বনিতত্ত্ব"
+    }
+  },
+  {
+    "question": "‘জলে-স্থলে’ কি সমাস?",
+    "answer": "3",
+    "options": {
+      "option1": "সমার্থক দ্বন্দ্ব",
+      "option2": "বিপরিথার্তক দ্বন্দ্ব",
+      "option3": "অলুক দ্বন্দ্ব",
+      "option4": "একশেষ দ্বন্দ্ব"
+    }
+  },
+  {
+    "question": "’ঔ’ কোন ধরনের স্বরধ্বনি?",
+    "answer": "1",
+    "options": {
+      "option1": "যৌগিক স্বরধ্বনি",
+      "option2": "তালব্য স্বরধ্বনি",
+      "option3": "মিলিত স্বরধ্বনি",
+      "option4": "কোনটি নয়"
+    }
+  },
+  {
+    "question": "‘‘বিস্ময়াপন্ন’’ সমস্ত পদটির সঠিক ব্যাসবাক্য কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "বিস্ময় দ্বারা আপন্ন",
+      "option2": "বিস্ময়ে আপন্ন",
+      "option3": "বিস্ময়কে আপন্ন",
+      "option4": "বিস্ময়ে যে আপন্ন"
+    }
+  },
+  {
+    "question": "কবি কায়কুবাদ রচিত ‘মহাশ্মশান’ কাব্যের ঐতিহাসিক পটভূমি ছিল-",
+    "answer": "2",
+    "options": {
+      "option1": "পলাশীর যুদ্ধ",
+      "option2": "তৃতীয় পানিপথের যুদ্ধ",
+      "option3": "১৮৫৭ সালের সিপাহী যুদ্ধ",
+      "option4": "ছিয়াত্তরের মনন্তর"
+    }
+  },
+  {
+    "question": "সৈয়দ মুস্তফা সিরাজের গ্রন্থ কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "রহু চন্ডালের হার",
+      "option2": "কৈবর্ত খণ্ড",
+      "option3": "ফুল বউ",
+      "option4": "অলীক মানুষ"
+    }
+  },
+  {
+    "question": "রবীন্দ্রনাথ ঠাকুরের ‘গীতাঞ্জলী’ কাব্য প্রকাশিত হয় কত সালে?",
+    "answer": "4",
+    "options": {
+      "option1": "১৯১০",
+      "option2": "১৯১১",
+      "option3": "১৯১২",
+      "option4": "১৯১৩"
+    }
+  },
+  {
+    "question": "‘আসাদের শার্ট’ কবিতার লেখক কে?",
+    "answer": "4",
+    "options": {
+      "option1": "আল মাহমুদ",
+      "option2": "আব্দুল মান্নান সৈয়দ",
+      "option3": "অমিয় চক্রবর্তী",
+      "option4": "শামসুর রহমান"
+    }
+  },
+  {
+    "question": "Which of the following words is in singular from?",
+    "answer": "4",
+    "options": {
+      "option1": "formulae",
+      "option2": "agenda",
+      "option3": "oases",
+      "option4": "radius"
+    }
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "answer": "3",
+    "options": {
+      "option1": "All of it depend on you",
+      "option2": "All of it are depending on you",
+      "option3": "All of it depends on you",
+      "option4": "All of it are depended on you"
+    }
+  },
+  {
+    "question": "‘‘A rolling stone gather no moss’’ The complex from of the sentence is-",
+    "answer": "4",
+    "options": {
+      "option1": "Since a stone is rolling, it gather no moss.",
+      "option2": "Though a stone rolls, it gather no moss.",
+      "option3": "A stone what rolls gather no moss.",
+      "option4": "A stone that rolls gather no moss."
+    }
+  },
+  {
+    "question": "A chart was <u>appended</u> to the report. Here appended means-",
+    "answer": "3",
+    "options": {
+      "option1": "changed",
+      "option2": "removed",
+      "option3": "joined",
+      "option4": "shortened"
+    }
+  },
+  {
+    "question": "The mother sat vigilantly beside the sick baby. Here ‘vigilantly’ is-",
+    "answer": "2",
+    "options": {
+      "option1": "a noun",
+      "option2": "an adverb",
+      "option3": "an adjective",
+      "option4": "none of three"
+    }
+  },
+  {
+    "question": "The new offer of job was alluring. Here ‘alluring’ means-",
+    "answer": "2",
+    "options": {
+      "option1": "unexpected",
+      "option2": "tempting",
+      "option3": "disappointing",
+      "option4": "ordinary"
+    }
+  },
+  {
+    "question": "‘‘Who planted this tree here’’? The correct passive voice of this sentence is-",
+    "answer": "1",
+    "options": {
+      "option1": "By home the tree was planted here?",
+      "option2": "Who the tree had been planted hereby?",
+      "option3": "The tree was planted here by whom?",
+      "option4": "By whom had the tree been planted here?"
+    }
+  },
+  {
+    "question": "Fraility the name is women. Here ‘Fraility’ is:",
+    "answer": "1",
+    "options": {
+      "option1": "A noun",
+      "option2": "An adjective",
+      "option3": "An adverb",
+      "option4": "A verb"
+    }
+  },
+  {
+    "question": "Education is enlightening. Here ‘enlightening is:",
+    "answer": "2",
+    "options": {
+      "option1": "A gerund",
+      "option2": "A participle",
+      "option3": "An infinitive",
+      "option4": "A finite verb"
+    }
+  },
+  {
+    "question": "Choose the appropriate preposition in the blank of the following sentence:\nThe family doesn’t feel _______ going outing this season.",
+    "answer": "3",
+    "options": {
+      "option1": "in",
+      "option2": "on",
+      "option3": "like",
+      "option4": "of"
+    }
+  },
+  {
+    "question": "Fill in the blank with appropriate use of tense:\nI couldn’t mend the computer myself, so I _______ at a shop.",
+    "answer": "1",
+    "options": {
+      "option1": "had it mended",
+      "option2": "had it mend",
+      "option3": "did it mend",
+      "option4": "had mended"
+    }
+  },
+  {
+    "question": "Use the appropriate article-\nI saw ____ one-eyed man when I was walking on the road.",
+    "answer": "1",
+    "options": {
+      "option1": "a",
+      "option2": "an",
+      "option3": "the",
+      "option4": "no article is needed"
+    }
+  },
+  {
+    "question": "The word ‘omnivorous’ means:",
+    "answer": "1",
+    "options": {
+      "option1": "eating all types of food",
+      "option2": "eating only fruits",
+      "option3": "eating only meat",
+      "option4": "eating grass and plants only"
+    }
+  },
+  {
+    "question": "Complete the following sentence choosing the appropriate option:\nIt’s raining cats and dogs, so-",
+    "answer": "2",
+    "options": {
+      "option1": "Watch out for falling animals.",
+      "option2": "Make sure take an umbrella.",
+      "option3": "Keep your pets inside.",
+      "option4": "Keep the windows open."
+    }
+  },
+  {
+    "question": "The phrase ‘Achilles’ heel’ means:",
+    "answer": "2",
+    "options": {
+      "option1": "A strong point",
+      "option2": "A week point",
+      "option3": "A permanent solution",
+      "option4": "A serious idea"
+    }
+  },
+  {
+    "question": "He worked with all sincerity.The phrase is-",
+    "answer": "4",
+    "options": {
+      "option1": "A noun phrase",
+      "option2": "An adjective phrase",
+      "option3": "An infinitive phrase",
+      "option4": "An adverbial phrase"
+    }
+  },
+  {
+    "question": "This is the book I lost. Here ‘I lost’ is-",
+    "answer": "3",
+    "options": {
+      "option1": "A noun clause",
+      "option2": "An adverbial clause",
+      "option3": "An adjective clause",
+      "option4": "Noun of the three"
+    }
+  },
+  {
+    "question": "Which do you think is the nearest in meaning to ‘proviso’:",
+    "answer": "4",
+    "options": {
+      "option1": "sanction",
+      "option2": "substitute",
+      "option3": "stipulation",
+      "option4": "directive"
+    }
+  },
+  {
+    "question": "Cassandra is a night owl, so she doesn’t usually get up until about:",
+    "answer": "1",
+    "options": {
+      "option1": "11 a.m",
+      "option2": "11 p.m",
+      "option3": "7 a.m",
+      "option4": "7 p.m"
+    }
+  },
+  {
+    "question": "Select the word that is the most closely opposite in meaning to the capitalized word: DELETERIOUS",
+    "answer": "3",
+    "options": {
+      "option1": "toxic",
+      "option2": "spurious",
+      "option3": "harmless",
+      "option4": "lethal"
+    }
+  },
+  {
+    "question": "‘Gerontion’ is a poem by-",
+    "answer": "1",
+    "options": {
+      "option1": "T.S Eliot",
+      "option2": "W.B Yeats",
+      "option3": "Mathew  Arnold",
+      "option4": "Robert Browning"
+    }
+  },
+  {
+    "question": "Fill in the blank.’___’ is Shakespeare’s last play.",
+    "answer": "3",
+    "options": {
+      "option1": "As you like it",
+      "option2": "Macbeth",
+      "option3": "Tempest",
+      "option4": "Othello"
+    }
+  },
+  {
+    "question": "Who has written the poem ‘Elegy in a country Churchyard’?",
+    "answer": "1",
+    "options": {
+      "option1": "Thomas Gray",
+      "option2": "P.B Shelley",
+      "option3": "Robert Frost",
+      "option4": "Y.B Yeats"
+    }
+  },
+  {
+    "question": "Who has written by play ‘Volpone’?",
+    "answer": "2",
+    "options": {
+      "option1": "John Webster",
+      "option2": "Ben Jonson",
+      "option3": "Christopher Marlowe",
+      "option4": "William Shakespeare"
+    }
+  },
+  {
+    "question": "Shakespeare composed much of his plays in what sort of verse?",
+    "answer": "3",
+    "options": {
+      "option1": "Alliterative verse",
+      "option2": "Sonnet form",
+      "option3": "Iambic pentameter",
+      "option4": "Daetylic Haxameter"
+    }
+  },
+  {
+    "question": "The repetition of beginning consonant sound is know as-",
+    "answer": "3",
+    "options": {
+      "option1": "personification",
+      "option2": "onomatopoeia",
+      "option3": "alliteration",
+      "option4": "rhyme"
+    }
+  },
+  {
+    "question": "Which of the following is not a poetic tradition?",
+    "answer": "2",
+    "options": {
+      "option1": "The Epic",
+      "option2": "The Comic",
+      "option3": "The Occult",
+      "option4": "The Tragic"
+    }
+  },
+  {
+    "question": " What is funny poem of five lines called?",
+    "answer": "2",
+    "options": {
+      "option1": "Quartet",
+      "option2": "Limerick",
+      "option3": "Sixtet",
+      "option4": "haiku"
+    }
+  },
+  {
+    "question": "Who wrote ‘Biographia Literaria’?",
+    "answer": "3",
+    "options": {
+      "option1": "Lord Byron",
+      "option2": "P.B. Shelley",
+      "option3": "S.T. Coleridge",
+      "option4": "Charles Lamb"
+    }
+  },
+  {
+    "question": "Robert Browning was a ___ poet. Fill in the gap with appropriate word.",
+    "answer": "2",
+    "options": {
+      "option1": "Romantic",
+      "option2": "Victorian",
+      "option3": "modern",
+      "option4": "Elizathan"
+    }
+  },
+  {
+    "question": "Othello gave Desdemona a ___ as a token of love:",
+    "answer": "2",
+    "options": {
+      "option1": "Ring",
+      "option2": "Handkerchief",
+      "option3": "Pendent",
+      "option4": "Bangles"
+    }
+  },
+  {
+    "question": "P.B. Shelley’s ‘Adonais’ is an elegy on the death of-",
+    "answer": "3",
+    "options": {
+      "option1": "John Milton",
+      "option2": "S.T. Coleridge",
+      "option3": "John Keats",
+      "option4": "Lord Byron"
+    }
+  },
+  {
+    "question": "The comparison of unlike things using the words like on as is known to be-",
+    "answer": "2",
+    "options": {
+      "option1": "metaphor",
+      "option2": "simile",
+      "option3": "alliteration",
+      "option4": "personification"
+    }
+  },
+  {
+    "question": "‘Restoration period in English literature refers to-",
+    "answer": "2",
+    "options": {
+      "option1": "1560",
+      "option2": "1660",
+      "option3": "1760",
+      "option4": "1866"
+    }
+  },
+  {
+    "question": "‘The Sun Also Rises’ is a novel written by-",
+    "answer": "3",
+    "options": {
+      "option1": "Charles Dickens",
+      "option2": "Hermanne Melville",
+      "option3": "Earnest Hemingway",
+      "option4": "Thomas Hardy"
+    }
+  },
+  {
+    "question": "পূর্ববঙ্গ আসাম প্রদেশে গঠনকালে ব্রিটিশ ভারতের গভর্ণর জেনারেল ও ভাইসরয় চীলেন-",
+    "answer": "2",
+    "options": {
+      "option1": "লর্ড রিপন",
+      "option2": "লর্ড কার্জন",
+      "option3": "লর্ড মিন্টু",
+      "option4": "লর্ড হার্ডিঞ্জ"
+    }
+  },
+  {
+    "question": "১৯৫৪ সালে পূর্ব পাকিস্তানের প্রাদেশিক পরিষদ নির্বাচনে যুক্তফ্রন্টের প্রতীক ছিল-",
+    "answer": "2",
+    "options": {
+      "option1": "ধানের শীষ",
+      "option2": "নৌকা",
+      "option3": "লাঙ্গল",
+      "option4": "বাইসাইকেল"
+    }
+  },
+  {
+    "question": "ঐতিহাসিক ৬-দফাকে কিসের সাথে তুলনা করা হয়?",
+    "answer": "2",
+    "options": {
+      "option1": "বিল অব রাইটস",
+      "option2": "ম্যাগনাকার্টা",
+      "option3": "পিটিশন অব রাইটস",
+      "option4": "মুখ্য আইন"
+    }
+  },
+  {
+    "question": "বাংলাদেশের প্রথম স্বাধীন নবাব কে?",
+    "answer": "2",
+    "options": {
+      "option1": "নবাব সিরাজউদ্দৌলা",
+      "option2": "মর্শিদ কুলি খান",
+      "option3": "ইলিয়াস শাহ",
+      "option4": "আলাউদ্দিন হুসেন শাহ"
+    }
+  },
+  {
+    "question": "আলুর একটি জাত-",
+    "answer": "1",
+    "options": {
+      "option1": "ডায়মন্ড",
+      "option2": "রূপালী",
+      "option3": "ড্রামহেড",
+      "option4": "ব্রিশাইল"
+    }
+  },
+  {
+    "question": "বাংলাদেশে সবচেয়ে বেশী উৎপাদিত হয়-",
+    "answer": "3",
+    "options": {
+      "option1": "আউশ ধান",
+      "option2": "আমন ধান",
+      "option3": "বোরো ধান",
+      "option4": "ইরি ধান"
+    }
+  },
+  {
+    "question": "প্রদান বীজ উৎপাদনকারী সরকারি প্রতিষ্ঠান-",
+    "answer": "3",
+    "options": {
+      "option1": "BARI",
+      "option2": "BRRI",
+      "option3": "BADC",
+      "option4": "BINA"
+    }
+  },
+  {
+    "question": "২০১১ সালের আদমশুমারি অনুযায়ী বাংলাদেশের নারী-পুরুষের অনুপাত-",
+    "answer": "3",
+    "options": {
+      "option1": "১০০:১০৬",
+      "option2": "১০০:১০০.৬",
+      "option3": "১০০:১০০.৩",
+      "option4": "১০০:১০০"
+    }
+  },
+  {
+    "question": "সরকারী হিসেব মতে বাংলাদেশীদের গড় আয়ু-",
+    "answer": "3",
+    "options": {
+      "option1": "৬৫.৪ বছর",
+      "option2": "৬৭.৫ বছর",
+      "option3": "৭০.৭ বছর",
+      "option4": "৭৩.৭ বছর"
+    }
+  },
+  {
+    "question": "যে জেলায় হাজংদের বসবাস নেই-",
+    "answer": "3",
+    "options": {
+      "option1": "শেরপুর",
+      "option2": "ময়মনসিংহ",
+      "option3": "সিলেট",
+      "option4": "নেত্রকোণা"
+    }
+  },
+  {
+    "question": "২০১১ সালের আদমশুমারী অনুযায়ী বাংলাদেশের Household প্রতি জনসংখ্যা-",
+    "answer": "1",
+    "options": {
+      "option1": "৪.৪ জন",
+      "option2": "৫.০ জন",
+      "option3": "৫.৪ জন",
+      "option4": "৫.৫ জন"
+    }
+  },
+  {
+    "question": "যে বিভাগে স্বাক্ষরতার হার সর্বাধিক-",
+    "answer": "3",
+    "options": {
+      "option1": "ঢাকা বিভাগ",
+      "option2": "রাজশাহী বিভাগ",
+      "option3": "বরিশাল বিভাগ",
+      "option4": "খুলনা বিভাগ"
+    }
+  },
+  {
+    "question": "২০১৫-১৬ অর্থ বছরে অর্জিত বাংলাদেশের অর্জিত অর্থনৈতিক প্রবৃদ্ধির হার-",
+    "answer": "4",
+    "options": {
+      "option1": "৬.৮৫%",
+      "option2": "৬.৯৭%",
+      "option3": "৭.০০%",
+      "option4": "৭.০৫%"
+    }
+  },
+  {
+    "question": "বাংলাদেশের তৈরি জাহাজ ‘স্টেলা মেরিস’ রপ্তানি হয়েছে-",
+    "answer": "2",
+    "options": {
+      "option1": "ফিনল্যান্ডে",
+      "option2": "ডেনমার্ক",
+      "option3": "নরওয়েতে",
+      "option4": "সুইডেনে"
+    }
+  },
+  {
+    "question": "বেনাপোল স্থলবন্দর সংলগ্ন ভারতীয় স্থলবন্দর-",
+    "answer": "1",
+    "options": {
+      "option1": "পেট্রাপোল",
+      "option2": "কৃষ্ণনগর",
+      "option3": "ডাউকি",
+      "option4": "মোহাদিপুর"
+    }
+  },
+  {
+    "question": "বাংলাদেশের সরকারী EPZ সংখ্যা-",
+    "answer": "2",
+    "options": {
+      "option1": "৬ টি",
+      "option2": "৮ টি",
+      "option3": "১০ টি",
+      "option4": "১২ টি"
+    }
+  },
+  {
+    "question": "বাংলাদেশে সবচেয়ে বেশী রপ্তানি করে-",
+    "answer": "1",
+    "options": {
+      "option1": "চীন",
+      "option2": "ভারত",
+      "option3": "যুক্তরাষ্ট্র",
+      "option4": "থাইল্যান্ড"
+    }
+  },
+  {
+    "question": "বাংলাদেশে প্রথম মোবাইল ব্যাংকিং শুরু করে-",
+    "answer": "2",
+    "options": {
+      "option1": "ব্র্যাক ব্যাংক",
+      "option2": "ডাচ-বাংলা ব্যাংক",
+      "option3": "এবি ব্যাংক",
+      "option4": "সুনালী ব্যাংক"
+    }
+  },
+  {
+    "question": "ট্যারিফ কমিশন কোন মন্ত্রণালয়ের অধীন-",
+    "answer": "1",
+    "options": {
+      "option1": "বাণিজ্য মন্ত্রণালয়",
+      "option2": "অর্থ মন্ত্রণালয়",
+      "option3": "পরিকল্পনা মন্ত্রণালয়",
+      "option4": "শিল্প  মন্ত্রণালয়"
+    }
+  },
+  {
+    "question": "বাংলাদেশের কোন জাতিয় সংসদে প্রধানমন্ত্রীর প্রশ্নোত্তর পর্ব চালু হয়?",
+    "answer": "3",
+    "options": {
+      "option1": "প্রথম",
+      "option2": "দ্বিতীয়",
+      "option3": "সপ্তম",
+      "option4": "অষ্টম"
+    }
+  },
+  {
+    "question": "মাত্র ১টি সংসদীও আসন-",
+    "answer": "4",
+    "options": {
+      "option1": "লক্ষীপুর জেলায়",
+      "option2": "মেহেরপুর জেলায়",
+      "option3": "ঝালকাঠী জেলায়",
+      "option4": "রাঙ্গামাটি জেলায়"
+    }
+  },
+  {
+    "question": "বাংলাদেশের মুক্তিযুদ্ধের পটভূমিকায় নির্মিত ‘ধীরে বহে মেঘনা’ চলচ্চিত্রের নির্মাতা কে?",
+    "answer": "1",
+    "options": {
+      "option1": "আলমগীর কবির",
+      "option2": "খান আতাউর রহমান",
+      "option3": "হুমায়ুন আহমেদ",
+      "option4": "সুভাষ দত্ত"
+    }
+  },
+  {
+    "question": "জাতীয় সংসদে ‘কাওন্টিং’ ভোট কি?",
+    "answer": "3",
+    "options": {
+      "option1": "সংসদ নেতার ভোট",
+      "option2": "হুইপের ভোট",
+      "option3": "স্পিকারের ভোট",
+      "option4": "রাষ্ট্রপতির ভোট"
+    }
+  },
+  {
+    "question": "NILG এর পুর্ণরুপ-",
+    "answer": "2",
+    "options": {
+      "option1": "National Information Legal Guide",
+      "option2": "National Institute of Local Government",
+      "option3": "National Identity License Guide",
+      "option4": "National Industrial League Group"
+    }
+  },
+  {
+    "question": "বাংলাদেশে সিভিল সার্ভিসের ক্যাডার সংখ্যা-",
+    "answer": "2",
+    "options": {
+      "option1": "২৬",
+      "option2": "২৭",
+      "option3": "২৮",
+      "option4": "৩১"
+    }
+  },
+  {
+    "question": "সংবিধানের কোন অনুচ্ছেদে সরকারি কর্ম কমিশন গঠনের উল্লেখ্য আছে-",
+    "answer": "3",
+    "options": {
+      "option1": "১৩০",
+      "option2": "১৩১",
+      "option3": "১৩৭",
+      "option4": "১৩৮"
+    }
+  },
+  {
+    "question": "অবস্থান অনুসারে বাংলাদেশের টারশীয়ারা পাহাড়কে কত ভাগে ভাগ করা হয়?",
+    "answer": "1",
+    "options": {
+      "option1": "২ ভাগে",
+      "option2": "৩ ভাগে",
+      "option3": "৭ ভাগে",
+      "option4": "৮ ভাগে"
+    }
+  },
+  {
+    "question": "বাংলাদেশকে স্বীকৃতিদানকারী প্রথম অনারব মুসলিম দেশ কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "ইন্দোনেশিয়া",
+      "option2": "মালয়েশিয়া",
+      "option3": "মালদ্বীপ",
+      "option4": "A & B"
+    }
+  },
+  {
+    "question": "বাংলাদেশের মর্যাদা অনুসারে ৩য় বীরত্বসুচক খেতাব-",
+    "answer": "4",
+    "options": {
+      "option1": "বীর প্রতীক",
+      "option2": "বীরশ্রেষ্ঠ",
+      "option3": "বীর উত্তম",
+      "option4": "বীর বিক্রম"
+    }
+  },
+  {
+    "question": "ক্রিকেটে বাংলাদেশ টেস্ট মর্যাদা পায়-",
+    "answer": "4",
+    "options": {
+      "option1": "১৯৯৭ সালে",
+      "option2": "১৯৯৯ সালে",
+      "option3": "২০০১ সালে",
+      "option4": "২০০০ সালে"
+    }
+  },
+  {
+    "question": "‘কালাপানি’ কোন দুই রাষ্ট্রের মধ্যে অমীমাংসিত ভূখণ্ড?",
+    "answer": "1",
+    "options": {
+      "option1": "ভারত ও নেপাল",
+      "option2": "পাকিস্তান ও চীন",
+      "option3": "ভুটান ও ভারত",
+      "option4": "বাংলাদেশ ও ভারত"
+    }
+  },
+  {
+    "question": "সলোমন-দীপপুঞ্জ কোন মহাসাগরে অবস্থিত?",
+    "answer": "2",
+    "options": {
+      "option1": "ভারত মহাসাগর",
+      "option2": "প্রশান্ত মহাসাগর",
+      "option3": "আটলান্টিক মহাসাগর",
+      "option4": "আর্কটিক মহাসাগর"
+    }
+  },
+  {
+    "question": "চিনের জিনজিয়াং প্রদেশে বসবাসকারী প্রধান মুসলিম সম্প্রদায়ের নাম কি?",
+    "answer": "2",
+    "options": {
+      "option1": "তুর্কমেন",
+      "option2": "উইঘুর",
+      "option3": "তাজিক",
+      "option4": "কাজাখ"
+    }
+  },
+  {
+    "question": "সম্প্রতি ভারত Google- কে নিচের কোন প্রোগ্রামের জন্য ছবি তোলা থেকে বিরত করে?",
+    "answer": "2",
+    "options": {
+      "option1": "Google Earth",
+      "option2": "Street View",
+      "option3": "Road Image",
+      "option4": "Google  Map"
+    }
+  },
+  {
+    "question": "সংবিধান অনুযায়ি মিয়ানমারের সংসদে কত শতাংশ আসন অনির্বাচিত সামরিক বাহিনীর সদস্যদের জন্য সংরক্ষিত থাকবে?",
+    "answer": "1",
+    "options": {
+      "option1": "২৫%",
+      "option2": "৩৫%",
+      "option3": "৪৫%",
+      "option4": "৫৫%"
+    }
+  },
+  {
+    "question": "নিম্নের কোনটি গ্রীন হাউজ গ্যাস নয়?",
+    "answer": "3",
+    "options": {
+      "option1": "নাইট্রাস",
+      "option2": "কার্বন ডাই-অক্সাইড",
+      "option3": "অক্সিজেন",
+      "option4": "মিথেন"
+    }
+  },
+  {
+    "question": "জাতিসংঘের পরিবেশ বিষয়ক সংস্থা (UNEP) ও জলবায়ু বিষয়ক সংস্থা (WMO) এর মিলিত উদ্যেগে প্রতিষ্ঠা লাভ করে-",
+    "answer": "1",
+    "options": {
+      "option1": "IPCC",
+      "option2": "COP21",
+      "option3": "Green Peace",
+      "option4": "Sierra Club"
+    }
+  },
+  {
+    "question": "World Development Report নিম্নের কোন সংস্থাটির বার্ষিক প্রকাশনা?",
+    "answer": "2",
+    "options": {
+      "option1": "UNDP",
+      "option2": "World Bank",
+      "option3": "IMF",
+      "option4": "BRICS"
+    }
+  },
+  {
+    "question": "IMF এর সদর দপ্তর অবস্থিত-",
+    "answer": "1",
+    "options": {
+      "option1": "ওয়াশিংটন",
+      "option2": "নিউইয়র্ক",
+      "option3": "জেনেভা",
+      "option4": "রোম"
+    }
+  },
+  {
+    "question": "বিশ্ববাংক সংশ্লিষ্ট কোন সংস্থাটি স্বল্প আয়ের উন্নয়নশীল দেশে বেসরকারি খাতে আর্থিক সহায়তা ও উপদেশ দিয়ে থাকে?",
+    "answer": "1",
+    "options": {
+      "option1": "IFC",
+      "option2": "IBRD",
+      "option3": "MIGA",
+      "option4": "ICSID"
+    }
+  },
+  {
+    "question": "সামন্তবাদ কোন ইউরোপীয় দেশে প্রথম সুত্রপাত হয়?",
+    "answer": "1",
+    "options": {
+      "option1": "ইতালি",
+      "option2": "ইংল্যান্ড",
+      "option3": "ফ্রান্স",
+      "option4": "রাশিয়া"
+    }
+  },
+  {
+    "question": "জাতিসংঘের স্থায়ী সদস্য :",
+    "answer": "2",
+    "options": {
+      "option1": "জাপান, জার্মানী, ফ্রান্স, বৃটেন, কানাডা, যুক্তরাষ্ট্র",
+      "option2": "ফ্রান্স, রাশিয়া, যুক্তরাষ্ট্র, বৃটেন, চীন",
+      "option3": "যুক্তরাষ্ট্র, জার্মানী, বৃটেন, ব্রাজিল, চীন, নাইজেরিয়া",
+      "option4": "উত্তর কোরিয়া, পাকিস্তান, ভারত, চীন"
+    }
+  },
+  {
+    "question": "‘Law of the Sea Convention’ অনুযায়ী উপকূল থেকে কত দূরত্ব পর্যন্ত ‘Exclusive Economic Zone’ হিসেবে গণ্য?",
+    "answer": "3",
+    "options": {
+      "option1": "২২ নটিক্যাল মাইল",
+      "option2": "৪৪ নটিক্যাল মাইল",
+      "option3": "২০০ নটিক্যাল মাইল",
+      "option4": "৩৭০ নটিক্যাল মাইল"
+    }
+  },
+  {
+    "question": "ইরানের সঙ্গে পারমাণবিক চুক্তি যা Joint Comprehensive Plan of Action নামে পরিচিতি তা সই হয়-",
+    "answer": "2",
+    "options": {
+      "option1": "২ এপ্রিল ২০১৫",
+      "option2": "১৪ জুলাই ২০১৫",
+      "option3": "১৪ সেপ্টেম্বর ২০১৪",
+      "option4": "১০ ডিসেম্বর ২০১৩"
+    }
+  },
+  {
+    "question": "গ্রীন পীস’ যাত্রা শুরু করে-",
+    "answer": "4",
+    "options": {
+      "option1": "১৯৪৫",
+      "option2": "২০১১",
+      "option3": "২০১৩",
+      "option4": "১৯৭১"
+    }
+  },
+  {
+    "question": "‘Black Lives Matter’ কি?",
+    "answer": "3",
+    "options": {
+      "option1": "একটি গ্রন্থের নাম",
+      "option2": "একটি পানীয়",
+      "option3": "বর্নবাদ বিরধী আন্দোলন",
+      "option4": "একটি NGO"
+    }
+  },
+  {
+    "question": "মাতাপিছু গ্রীন হাউজ গ্যাস উদগীরনে সবচেয়ে বেশী দায়ী নিচের কোন দেশটি?",
+    "answer": "2",
+    "options": {
+      "option1": "রাশীয়া",
+      "option2": "যুক্তরাষ্ট্র",
+      "option3": "ইরান",
+      "option4": "জার্মানী"
+    }
+  },
+  {
+    "question": "কোনটি নিরস্ত্রীকরণের সঙ্গে সম্পৃক্ত নয়?",
+    "answer": "1",
+    "options": {
+      "option1": "NATO",
+      "option2": "SALT",
+      "option3": "NPT",
+      "option4": "CTBT"
+    }
+  },
+  {
+    "question": "BRICS এর সদর দপ্তর কোথায়?",
+    "answer": "1",
+    "options": {
+      "option1": "সাংহাই",
+      "option2": "মস্কো",
+      "option3": "প্রিটোরিয়া",
+      "option4": "নয়াদিল্লী"
+    }
+  },
+  {
+    "question": "SDR (Special Drawing Rights) সুবিধা প্রবর্তনের জন্য কত সালে IMF এর গঠনতন্ত্র (Articles) সংশোধন করা হয়েছিল?",
+    "answer": "1",
+    "options": {
+      "option1": "১৯৬৯",
+      "option2": "১৯৭১",
+      "option3": "১৯৭৫",
+      "option4": "১৯৭৮"
+    }
+  },
+  {
+    "question": "বাংলাদেশের নিম্নলিখিত জেলাসমুহের মধ্যে কোন জেলায় নিচু ভূমির (Low land) পরিমাণ সবচেয়ে বেশী?",
+    "answer": "3",
+    "options": {
+      "option1": "হবিগঞ্জ",
+      "option2": "গুপালগঞ্জ",
+      "option3": "কিশোরগঞ্জ",
+      "option4": "মুন্সীগঞ্জ"
+    }
+  },
+  {
+    "question": "বাংলাদেশের দীর্ঘতম নদী কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "মেঘনা",
+      "option2": "যমুনা",
+      "option3": "পদ্মা",
+      "option4": "কণর্ফুলী"
+    }
+  },
+  {
+    "question": "বাংলাদেশের কোন অঞ্চলে সবচেয়ে বেশী খরা প্রবন?",
+    "answer": "2",
+    "options": {
+      "option1": "উত্তর-পূর্ব অঞ্চল",
+      "option2": "উত্তর-পশ্চিম অঞ্চল",
+      "option3": "দক্ষিণ-পশ্চিম অঞ্চল",
+      "option4": "দক্ষিণ-পূর্ব অঞ্চল"
+    }
+  },
+  {
+    "question": "বাংলাদেশের কোন অঞ্চলের পরিবেশ বন্যা নিয়ন্ত্রণ, পানি নিষ্কাশন ও সেচের (FCDI) কারনে খুব বেশী ক্ষতিগ্রস্ত হয়েছে?",
+    "answer": "1",
+    "options": {
+      "option1": "বরেন্দ্র অঞ্চল",
+      "option2": "মধুপুর গড় অঞ্ছল",
+      "option3": "উপকূলীয় অঞ্চল",
+      "option4": "চলন বিল অঞ্চল"
+    }
+  },
+  {
+    "question": "বাংলাদেশের বার্ষিক সর্বোচ্চ গড় বৃষ্টিপাত নিম্নের কোন স্টিশনে রেকর্ড করা হয়?",
+    "answer": "1",
+    "options": {
+      "option1": "সিলেট",
+      "option2": "টেকনাফ",
+      "option3": "কক্সবাজার",
+      "option4": "সন্দীপ"
+    }
+  },
+  {
+    "question": "নিম্নের কোন নিয়ামকটি একটি অঞ্চলের বা দেশের জলবায়ু নির্ধারন করেনা?",
+    "answer": "2",
+    "options": {
+      "option1": "অক্ষরেখা",
+      "option2": "দ্রাঘিমারেখা",
+      "option3": "উচ্চতা",
+      "option4": "সমদ্রস্রোত"
+    }
+  },
+  {
+    "question": "নিম্নের কোন আপদটি (Hazard) পৃথিবীতে মানুষের মৃত্যুর কারণ?",
+    "answer": "3",
+    "options": {
+      "option1": "সড়ক দূর্ঘটনা",
+      "option2": "তামাক ও মাদকদ্রব্য গ্রহণ",
+      "option3": "বায়ু দূষণ",
+      "option4": "ক্যান্সার"
+    }
+  },
+  {
+    "question": "সার্ক দুর্যোগ ব্যবস্থাপনা কেন্দ্র কোথায় অবস্থিত?",
+    "answer": "1",
+    "options": {
+      "option1": "নতুন দিল্লী",
+      "option2": "কলম্বু",
+      "option3": "ঢাকা",
+      "option4": "কাঠমন্ডু"
+    }
+  },
+  {
+    "question": "কোন পর্যায়ে দুর্যোগের ক্ষতি মূল্যায়ন করা হয়?",
+    "answer": "4",
+    "options": {
+      "option1": "উদ্ধার পর্যায়ে",
+      "option2": "প্রভাব পর্যায়ে",
+      "option3": "সতর্কতা পর্যায়ে",
+      "option4": "পুনবার্সন পর্যায়ে"
+    }
+  },
+  {
+    "question": "নিম্নের কোন দুর্যোগটি বাংলাদেশর জনগণের জীবিকা পরিবর্তনের ক্ষেত্রে দীর্ঘস্থায়ী প্রভাব ফেলতে পারে?",
+    "answer": "2",
+    "options": {
+      "option1": "ভূমিকম্প",
+      "option2": "সমুদ্রের জলস্ত্ররের বৃদ্ধি",
+      "option3": "ঘূর্ণিঝড় ও জলোচ্ছ্বাস",
+      "option4": "খরা বা বন্যা"
+    }
+  },
+  {
+    "question": "আকাশে রাংধনু সৃষ্টির কারণ-",
+    "answer": "3",
+    "options": {
+      "option1": "ধুলিকণা",
+      "option2": "বায়ুস্তর",
+      "option3": "বৃষ্টির কণা",
+      "option4": "অতি বেগুনী রশ্মি"
+    }
+  },
+  {
+    "question": "ঈস্টের সংশ্লিষ্টতা নেই কোন শিল্পে?",
+    "answer": "3",
+    "options": {
+      "option1": "মদ্য শিল্পে",
+      "option2": "রুটি শিল্পে",
+      "option3": "সাইট্রিক এসিড উৎপাদন",
+      "option4": "এক কোষীয় প্রোটিন"
+    }
+  },
+  {
+    "question": "চন্দ্রে কোন বস্তুর ওজন পৃথিবীর ওজনের?",
+    "answer": "2",
+    "options": {
+      "option1": "দশ ভাগের এক ভাগ",
+      "option2": "ছয় ভাগের এক ভাগ",
+      "option3": "তিন ভাগের এক ভাগ",
+      "option4": "চার ভাগের এক ভাগ"
+    }
+  },
+  {
+    "question": "মানবদেহে রোগ প্রতিরোধে প্রাথমিক প্রতিরক্ষাস্তরের (First line of defence) অন্তর্ভুক্ত নয় কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "লাইসোজাইম (LYSOZYME)",
+      "option2": "গ্যাসটিক জুস (GASTRIC JUICE)",
+      "option3": "সিলিয়া (CILIA)",
+      "option4": "লীম্ফোসাইট (LYMPHOCYTES)"
+    }
+  },
+  {
+    "question": "নিচের কোনটি ভাইরাসের (VIRUS) জন্য সত্য নয়?",
+    "answer": "4",
+    "options": {
+      "option1": "ডি. এন. এ বা আর. এন. এ থাকে",
+      "option2": "শুধু মাত্র জীবদেহের অভ্যান্তরে সংখ্যাবৃদ্ধি করে",
+      "option3": "স্ফটিক দানায় রূপান্তর (CRYSTALIZATION)",
+      "option4": "রাইবোজোম (Ribosome) থাকে"
+    }
+  },
+  {
+    "question": "তাপ ইঞ্জিনের কাজ(Heat Engine) :",
+    "answer": "2",
+    "options": {
+      "option1": "যান্ত্রিক শক্তিকে তাপশক্তিতে রূপান্তর",
+      "option2": "তাপশক্তিকে যান্ত্রিক শক্তিতে রূপান্তর",
+      "option3": "বিদ্যুৎ শক্তিকে যান্ত্রিক শক্তিতে রূপান্তর",
+      "option4": "তাপ শক্তিকে বিদ্যুৎ শক্তিতে রূপান্তর"
+    }
+  },
+  {
+    "question": "শূন্য মাধ্যমে শব্দের বেগ কত?",
+    "answer": "2",
+    "options": {
+      "option1": "২৮০ m/s",
+      "option2": "০",
+      "option3": "৩৩২ m/s",
+      "option4": "১১২০ m/s"
+    }
+  },
+  {
+    "question": "দৈনিক খাদ্য তালিকায় সামুদ্রিক মাছ/শৈবালের অন্তর্ভুক্তি, কোন রোগের পাদুরভার্ব কমাতে সাহায্য করে?",
+    "answer": "1",
+    "options": {
+      "option1": "হাইপো-থায়রডিজম (HYPOTHYROIDISM)",
+      "option2": "রাতকানা",
+      "option3": "এনিমিয়া",
+      "option4": "কোয়াশীয়রকর (KWASHIORKOR)"
+    }
+  },
+  {
+    "question": "গ্রীন হাউস কি?",
+    "answer": "1",
+    "options": {
+      "option1": "কাঁচের তৈরি ঘর",
+      "option2": "সবুজ আলোর আলকিত ঘর",
+      "option3": "সবুজ ভবনের নাম",
+      "option4": "সবুজ গাছপালা"
+    }
+  },
+  {
+    "question": "কোনটি জারক পদার্থ নয়?",
+    "answer": "1",
+    "options": {
+      "option1": "হাইড্রোজেন",
+      "option2": "অক্সিজেন",
+      "option3": "ক্লোরিন",
+      "option4": "ব্রোমিন"
+    }
+  },
+  {
+    "question": "নিউক্লিয়াসের বিভাজনকে কি বলা হয়?",
+    "answer": "1",
+    "options": {
+      "option1": "ফিশন",
+      "option2": "মেসন",
+      "option3": "ফিউশন",
+      "option4": "ফিউশন ও মেসন"
+    }
+  },
+  {
+    "question": "ধরিত্রি সম্মেলন কোথায় অবস্থিত হয়?",
+    "answer": "2",
+    "options": {
+      "option1": "আফ্রিকার জোহানেসবার্গে",
+      "option2": "ব্রাজিলের রিওডিজেনিরোতে",
+      "option3": "ইটালির রোমে",
+      "option4": "যুক্তরাষ্ট্রের ওয়াশিংটন ডিসিতে"
+    }
+  },
+  {
+    "question": "বস্তর ওজন কোথায় সবচেয়ে বেশী?",
+    "answer": "1",
+    "options": {
+      "option1": "মেরু অঞ্চল",
+      "option2": "বিষুব অঞ্চল",
+      "option3": "পাহারের ওপর",
+      "option4": "পৃথিবীর কেন্দ্রে"
+    }
+  },
+  {
+    "question": "প্রাকৃতিক গ্যাসে মিথেন কি পরিমাণ থাকে?",
+    "answer": "3",
+    "options": {
+      "option1": "৪০-৫০ ভাগ",
+      "option2": "৬০-৭০ ভাগ",
+      "option3": "৮০-৯০ ভাগ",
+      "option4": "৩০-২৫ ভাগ"
+    }
+  },
+  {
+    "question": "চা পাতায় কোন ভিটামিন থাকে?",
+    "answer": "3",
+    "options": {
+      "option1": "ভিটামিন ‘ই’",
+      "option2": "ভিটামিন ‘কে’",
+      "option3": "ভিটামিন বি কমপ্লেক্স",
+      "option4": "ভিটামিন ‘এ’"
+    }
+  },
+  {
+    "question": "কম্পিউটার সি, পি, ইউ (CPU)-এর কোন অংশ গাণিতিক সিদ্ধান্ত গ্রহণের কাজ করে?",
+    "answer": "1",
+    "options": {
+      "option1": "এ. এল. ইউ(ALU)",
+      "option2": "কন্ট্রোল ইউনিট (control unite)",
+      "option3": "রেজিস্টার সেট (Register set)",
+      "option4": "কোনটিই নয়"
+    }
+  },
+  {
+    "question": "‘একটি ২(দুই) ইনপুট লজিক সেটের আউটপুট Ø হবে, যদি এর ইনপুটগুলো সমান হয়’-এই উক্তিটি কোন সেটের জন্য সত্য।",
+    "answer": "3",
+    "options": {
+      "option1": "AND",
+      "option2": "NOR",
+      "option3": "EX-OR",
+      "option4": "OR"
+    }
+  },
+  {
+    "question": "কোনটি অপারেটিং সিস্টেম নয়-",
+    "answer": "1",
+    "options": {
+      "option1": "C",
+      "option2": "DOS",
+      "option3": "CP/M",
+      "option4": "XENIX"
+    }
+  },
+  {
+    "question": "ক্লাউড সার্ভার নীচের কোনটিতে সবচেয়ে ভালো বর্ণনা করা সম্ভব-",
+    "answer": "3",
+    "options": {
+      "option1": "নেটয়ার্কের মাধ্যমে যুক্ত একাধিক কম্পিউটার সার্ভার",
+      "option2": "একটি বিশাল ক্ষমতা সম্পন্ন কম্পিউটার সার্ভার",
+      "option3": "ব্যবহারকারীর চাহিদা অনুযায়ী কম্পিউটিং সেবা দেয়া",
+      "option4": "উপরের কোনটিই নয়"
+    }
+  },
+  {
+    "question": "IP-V6 এড্রেস কত বিটের?",
+    "answer": "1",
+    "options": {
+      "option1": "১২৮",
+      "option2": "৩২",
+      "option3": "১২",
+      "option4": "৬"
+    }
+  },
+  {
+    "question": "নীচের কোনটি ইনপুট ডিভাইস?",
+    "answer": "1",
+    "options": {
+      "option1": "OMR",
+      "option2": "COM",
+      "option3": "Plotter",
+      "option4": "Monitor"
+    }
+  },
+  {
+    "question": "ইউনিকুডের মাধ্যমে সম্ভাব্য কতগুলো চিহ্নকে নির্দিষ্ট করা যায়?",
+    "answer": "3",
+    "options": {
+      "option1": "২৫৬ টি",
+      "option2": "৪০৯৬ টি",
+      "option3": "৬৫৫৩৬ টি",
+      "option4": "৪২৯৪৯৬৭২৯৬ টি"
+    }
+  },
+  {
+    "question": "এন্ড্রয়েড অপারেটিং সিস্টেমের ক্ষেত্রে নীচের কোনটি সঠিক?",
+    "answer": "4",
+    "options": {
+      "option1": "এটির নির্মাতা গুগল",
+      "option2": "এটি লিনাক্স (Linux) কার্নেল নির্ভর",
+      "option3": "এটি প্রধান টাচ স্ক্রিন মোবাইল ডিভাইসের জন্য তৈরি",
+      "option4": "উপরের সব গুলো"
+    }
+  },
+  {
+    "question": "আই, ও, এস (IOS) মোবাইল অপারেটিং সিস্টেম কোন প্রতিষ্ঠান বাজারজাত করে?",
+    "answer": "1",
+    "options": {
+      "option1": "অ্যাপেল",
+      "option2": "গুগল",
+      "option3": "মাইক্রোসফট",
+      "option4": "আই, বি, এম"
+    }
+  },
+  {
+    "question": "EDSAC কম্পিউটার-এ ডাটা সংরক্ষনের জন্য কি ধরনের মেমোরি ব্যবহার করা হতো?",
+    "answer": "3",
+    "options": {
+      "option1": "RAM",
+      "option2": "ROM",
+      "option3": "Mercury Delay lines",
+      "option4": "Registors"
+    }
+  },
+  {
+    "question": "ই-কমার্স সাইট amazon.com কত সালে প্রতিষ্ঠিত হয়?",
+    "answer": "3",
+    "options": {
+      "option1": "১৯৯০ সালে",
+      "option2": "১৯৮৮ সালে",
+      "option3": "১৯৯৪ সালে",
+      "option4": "১৯৯৮ সালে"
+    }
+  },
+  {
+    "question": "ই-মেইল আদান প্রদানে ব্যবহৃত SMTP- এর পূর্নরূপ কি?",
+    "answer": "4",
+    "options": {
+      "option1": "Simple Message Transmission Protocol",
+      "option2": "Strategic Mail Transfer Protocol",
+      "option3": "Strategic Mail Transmission Protocol",
+      "option4": "Simple Mail Transfer Protocol"
+    }
+  },
+  {
+    "question": "TCP দিয়ে কোনটি বোঝানো হয়?",
+    "answer": "2",
+    "options": {
+      "option1": "প্রোগ্রাম",
+      "option2": "প্রোটোকল",
+      "option3": "প্রোগ্রামিং",
+      "option4": "ফ্লোচার্ট"
+    }
+  },
+  {
+    "question": "Push এবং Pop নিচের কার সাথে সম্পর্কিত?",
+    "answer": "2",
+    "options": {
+      "option1": "Queue",
+      "option2": "Stack",
+      "option3": "Union",
+      "option4": "Array"
+    }
+  },
+  {
+    "question": "ওয়াই-ফাই (Wi-Fi) নেটওয়ার্কে সংযোগের জন্য সংশ্লিষ্ট ডিভাইসটির সংযোগ মাধ্যম কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "তামার তার",
+      "option2": "অপটিক্যাল ফাইবার",
+      "option3": "তারহীন সংযোগ",
+      "option4": "উপরের সবকটি"
+    }
+  },
+  {
+    "question": "261 টি আম তিন ভাইয়ের মধ্যে 1/3:1/5:1/9 অনুপাতে ভাগ করে দিলে প্রথম ভাই কতটি আম পাবে?",
+    "answer": "4",
+    "options": {
+      "option1": "45",
+      "option2": "81",
+      "option3": "90",
+      "option4": "135"
+    }
+  },
+  {
+    "question": "1.0% মুনাফায় 3000 টাকা এবং 8% মুনাফায় 200 টাকা বিনিয়োগ করলে মোট মূলধনের উপর গড়ে শতকরা কত হারে পাওয়া যাবে?",
+    "answer": "2",
+    "options": {
+      "option1": "9%",
+      "option2": "9.2%",
+      "option3": "8%",
+      "option4": "8.2%"
+    }
+  },
+  {
+    "question": "100 টাকায় 10 টি ডিম কিনে 100 টাকায় 8 টি ডিম বিক্রি করলে শতকরা লাভ কত হবে?",
+    "answer": "3",
+    "options": {
+      "option1": "16%",
+      "option2": "20%",
+      "option3": "25%",
+      "option4": "28%"
+    }
+  },
+  {
+    "question": "x^2-3x+1=0  হলে   (x^2-1/x^2 )  এর মান-",
+    "answer": "2",
+    "options": {
+      "option1": "5√3",
+      "option2": "3√5",
+      "option3": "4√5",
+      "option4": "6√5"
+    }
+  },
+  {
+    "question": "x^2-5x+6<0 হলে-",
+    "answer": "1",
+    "options": {
+      "option1": "2<x<3",
+      "option2": "-3<x<-2",
+      "option3": "x<2",
+      "option4": "x<3"
+    }
+  },
+  {
+    "question": "দুই অংক বিশিষ্ট একটি সংখ্যা, অংকদ্বয়ের স্থান বিনিময়ের ফলে 54 বৃদ্ধি পায়। অংক দুইটির যোগফল 12 হলে সংখ্যাটি কত?",
+    "answer": "3",
+    "options": {
+      "option1": "57",
+      "option2": "75",
+      "option3": "39",
+      "option4": "93"
+    }
+  },
+  {
+    "question": "log〖x^((3/2)) 〗=-1/2 হলে, x  এর মান কত?",
+    "answer": "1",
+    "options": {
+      "option1": "4/(9)",
+      "option2": "9/4",
+      "option3": "√(3/2)",
+      "option4": "√(2/3)"
+    }
+  },
+  {
+    "question": "একটি সমান্তর অনুক্রমে সাধারণ অন্তর 10 এবং 6-তম পদটি 52 হলে 15-তম পদটি",
+    "answer": "2",
+    "options": {
+      "option1": "140",
+      "option2": "142",
+      "option3": "148",
+      "option4": "150"
+    }
+  },
+  {
+    "question": "একটি গুনোত্তর অনুক্রমে তৃতীয় পদটি 20 এবং ষষ্ঠ (6-তম) পদটি 160 হলে প্রথম পদটি-",
+    "answer": "1",
+    "options": {
+      "option1": "5",
+      "option2": "10",
+      "option3": "12",
+      "option4": "8"
+    }
+  },
+  {
+    "question": "17 সে.মি.,15 সে.মি.,8 সে.মি. বাহু বিশিষ্ট ত্রিভূজ হবে-",
+    "answer": "3",
+    "options": {
+      "option1": "সমবাহু",
+      "option2": "সমদ্বিবাহু",
+      "option3": "সমকোণী",
+      "option4": "স্থূলকোণী"
+    }
+  },
+  {
+    "question": "একটি আয়তক্ষেত্রের কর্ণের দৈর্ঘ্য 15 মি. এবং প্রস্থ 10 মি. হলে আয়তক্ষেত্রের ক্ষেত্রফল কত বর্গমিটার?",
+    "answer": "4",
+    "options": {
+      "option1": "35√5",
+      "option2": "40√5",
+      "option3": "45√5",
+      "option4": "50√5"
+    }
+  },
+  {
+    "question": "13 সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের জ্যা-এর দৈর্ঘ্য 24 সে.মি. হলে কেন্দ্র থেকে উক্ত জ্যা-এর লম্ব দূরত্ব কত  সে.মি.",
+    "answer": "3",
+    "options": {
+      "option1": "3",
+      "option2": "4",
+      "option3": "5",
+      "option4": "6"
+    }
+  },
+  {
+    "question": "A={x|x ধনাত্মক পূর্ণ সংখ্যা এবং x2 &lt; 25}, B={x|x মৌলিক সংখ্যা এবং x2 &lt; 25}, C={ x|x মৌলিক সংখ্যা এবং x2 &lt; 25} হলে, A∩B∩C = ?",
+    "answer": "4",
+    "options": {
+      "option1": "{1,2,3,4}",
+      "option2": "{2,3,4}",
+      "option3": "{2,3,4,5}",
+      "option4": "Ø"
+    }
+  },
+  {
+    "question": "10 টি জিনিসের মধ্যে 2 টি এক জাতীয় এবং বাকীগুলো ভিন্ন ভিন্ন জিনিস। ঐ জিনিসগুলো থেকে প্রতিবারে 5 টি নিয়ে কত প্রকারে বাছাই করা যায়?",
+    "answer": "2",
+    "options": {
+      "option1": "170",
+      "option2": "182",
+      "option3": "190",
+      "option4": "192"
+    }
+  },
+  {
+    "question": "একটি থলিতে 6 টি নীল বল, 8 টি সাদা বল এবং 10 টি কালো বল আছে। দৈবভাবে একটি বল তুললে সেটি সাদা হবার সম্ভাবনা কত?",
+    "answer": "1",
+    "options": {
+      "option1": "2/3",
+      "option2": "1/3",
+      "option3": "3/4",
+      "option4": "1/4"
+    }
+  },
+  {
+    "question": "কোনটি ‘অগ্নি’র সমার্থক শব্দ নয়-",
+    "answer": "4",
+    "options": {
+      "option1": "পাবক",
+      "option2": "বহ্নি",
+      "option3": "হুতাশন",
+      "option4": "প্রজ্বলিত"
+    }
+  },
+  {
+    "question": "ভোর বেলায় আপনি বেড়াতে বের হয়েছেন। বের হওয়ার সময় সূর্য আপনার সামনে ছিল। কিছুক্ষন পরে আপনি বামদিকে ঘুরলেন, কয়েক মিনিট পরে আপনি ডানদিকে ঘুরলেন। এখন আপনের মুখ কোনদিকে?",
+    "answer": "1",
+    "options": {
+      "option1": "পূর্ব",
+      "option2": "পশ্চিম",
+      "option3": "উত্তর",
+      "option4": "দক্ষিণ"
+    }
+  },
+  {
+    "question": "একটি মোটা ও একটি চিকন হাতলয়ালা স্ক্র-ড্রাইভার দিয়ে একই মাপের দুটি স্ক্রু-কে কাঠবোর্ডের ভিতরে সমান গভীরতায় প্রবেশ করাতে চাইলে কোনটি ঘটবে?",
+    "answer": "2",
+    "options": {
+      "option1": "মোটা হাতলের ড্রাইভারকে বেশীবার ঘুরাতে হবে",
+      "option2": "চিকন হাতলের ড্রাইভারকে বেশীবার ঘুরাতে হবে",
+      "option3": "দু’টিকে একই সংখ্যকবার ঘুরাতে হবে",
+      "option4": "কোনটিই নয়"
+    }
+  },
+  {
+    "question": "৫-এর কত শতাংশ ৭ হবে",
+    "answer": "4",
+    "options": {
+      "option1": "৪০",
+      "option2": "১২৫",
+      "option3": "৯০",
+      "option4": "১৪০"
+    }
+  },
+  {
+    "question": "০.৪×০.০২×০.০৮=?",
+    "answer": "3",
+    "options": {
+      "option1": "০.৬৪",
+      "option2": "০.০৬৪",
+      "option3": ".০০০৬৪",
+      "option4": "৬.৪০"
+    }
+  },
+  {
+    "question": "কোন নৌকাকে বেশী গতিতে চালাতে হবে, বৈঠা ব্যবহার করতে হবে?",
+    "answer": "1",
+    "options": {
+      "option1": "পিছনে",
+      "option2": "সামনে",
+      "option3": "ডান পার্শ্বে",
+      "option4": "বাম পার্শ্বে"
+    }
+  },
+  {
+    "question": "Telephone : Cable :: Radio ",
+    "answer": "2",
+    "options": {
+      "option1": "Microphone",
+      "option2": "Wireless",
+      "option3": "Electricity",
+      "option4": "Wire"
+    }
+  },
+  {
+    "question": "২০০৯ সালের ২৮ আগস্ট শুক্রবার ছিল। ঐ বছরের ১ অক্টোবর কি বার ছিল?",
+    "answer": "2",
+    "options": {
+      "option1": "বুধবার",
+      "option2": "বৃহস্পতিবার",
+      "option3": "শুক্রবার",
+      "option4": "শনিবার"
+    }
+  },
+  {
+    "question": "কোন বৃত্তের ব্যাসার্ধ যদি ২০% কমে, তবে উক্ত বৃত্তের ক্ষেত্রফল কত % কমবে-",
+    "answer": "3",
+    "options": {
+      "option1": "১০%",
+      "option2": "২০%",
+      "option3": "৩৬%",
+      "option4": "৪০%"
+    }
+  },
+  {
+    "question": "Find out the correct synonym of ‘TENUOUS’",
+    "answer": "2",
+    "options": {
+      "option1": "Vital",
+      "option2": "Thin",
+      "option3": "Careful",
+      "option4": "Dangerous"
+    }
+  },
+  {
+    "question": "২য় বৃত্তের মধ্যে সঠিক সংখ্যাটি কত হবে?",
+    "answer": "1",
+    "image":"data:image/png;base64,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",
+    "options": {
+      "option1": "৯",
+      "option2": "৩৬",
+      "option3": "২৭",
+      "option4": "৬৫"
+    }
+  },
+  {
+    "question": "কোন বানানটি শুদ্ধ?",
+    "answer": "3",
+    "options": {
+      "option1": "Achievment",
+      "option2": "Acheivment",
+      "option3": "Achievement",
+      "option4": "Acheivement"
+    }
+  },
+  {
+    "question": "If LOYAL is coded as ‘JOWAJ’, then PRONE is coded as-",
+    "answer": "4",
+    "options": {
+      "option1": "QRPNF",
+      "option2": "NRMND",
+      "option3": "ORMNG",
+      "option4": "NRMNC"
+    }
+  },
+  {
+    "question": "একটি লেন রোলারকে যদি দুইজন ব্যক্তির একজন টেনে নেয় ও ঠেলে নেয় তবে কার বেশী কষ্ট হবে?",
+    "answer": "2",
+    "options": {
+      "option1": "টেনে নেয়া ব্যক্তির",
+      "option2": "ঠেলে নেয়া ব্যক্তির",
+      "option3": "দু’জনের সমান কষ্ট হবে",
+      "option4": "কোনোটিই নয়"
+    }
+  },
+  {
+    "question": "বিভা : কিরণ :: সুবলিত",
+    "answer": "2",
+    "options": {
+      "option1": "সুবিদিত",
+      "option2": "সুগঠিত",
+      "option3": "সুবিনিত",
+      "option4": "বিধিত"
+    }
+  },
+  {
+    "question": "একজন যোগ্য প্রশাসক ও ব্যবস্থাপকের অত্যাবশকীয় মৌলিক গুনাবলির মধ্যে শ্রেষ্ঠ গুন কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": "দায়িত্বশীলতা",
+      "option2": "নৈতিকতা",
+      "option3": "দক্ষতা",
+      "option4": "সরলতা"
+    }
+  },
+  {
+    "question": "আমাদের চিরন্তন মূল্যবোধ কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "সত্য ও ন্যায়",
+      "option2": "স্বার্থকতা",
+      "option3": "শ্রেষ্ঠতা",
+      "option4": "অসহিষ্ণুতা"
+    }
+  },
+  {
+    "question": "রাষ্ট্রের চতুর্থ স্তম্ভ কাকে বলা হয়?",
+    "answer": "3",
+    "options": {
+      "option1": "রাজনীতি",
+      "option2": "বুদ্ধিজীবী সম্প্রদায়",
+      "option3": "সংবাদ মাধ্যম",
+      "option4": "যুবশক্তি"
+    }
+  },
+  {
+    "question": "সরকারী সিদ্ধান্ত প্রণয়নে কোন মূল্যবোধটি গুরুত্বপূর্ন নয়?",
+    "answer": "2",
+    "options": {
+      "option1": "বিশ্বস্ততা",
+      "option2": "সৃজনশীলতা",
+      "option3": "নিরপেক্ষতা",
+      "option4": "জবাবদিহিতা"
+    }
+  },
+  {
+    "question": "UNDP সুশাসন নিশ্চিতকরণে কয়টি উপাদান উলেখ্য করেছে?",
+    "answer": "4",
+    "options": {
+      "option1": "৬ টি",
+      "option2": "৭ টি",
+      "option3": "৮ টি",
+      "option4": "৯ টি"
+    }
+  },
+  {
+    "question": "কোনটি ন্যায়পরায়ণতার নৈতিক মূলনীতি নয়?",
+    "answer": "3",
+    "options": {
+      "option1": "পুরস্কার ও শাস্তির ক্ষেত্রে সমতার নীতি প্রয়োগ",
+      "option2": "আইনের শাসন",
+      "option3": "সুশাসনের জন্য উচ্চ শিক্ষিত কর্মকর্তা নিয়োগ",
+      "option4": "অধিকার ও সুযোগের ক্ষেত্রে সমতার নিশ্চিতকরন"
+    }
+  },
+  {
+    "question": "সরকারি চাকরিতে সততার মাপকাঠি কি?",
+    "answer": "3",
+    "options": {
+      "option1": "যথা সময়ে অফিসে আগমন ও অফিস ত্যাগ",
+      "option2": "দাপ্তরিক কাজে কোন অবৈধ সুবিধা গ্রহন না করা",
+      "option3": "নির্মোহ ও নিরপেক্ষ ভাবে অর্পিত দায়িত্ব যথাবিধি সম্পন করা",
+      "option4": "উর্ধ্বতন কর্তৃপক্ষের যে কোন নির্দেশ প্রতিপালন করা"
+    }
+  },
+  {
+    "question": "নৈতিক শক্তির প্রধান উপাধান কি?",
+    "answer": "1",
+    "options": {
+      "option1": "সততা ও নিষ্ঠা",
+      "option2": "কর্তব্যপরায়ণতা",
+      "option3": "মায়া ও মমতা",
+      "option4": "উদারতা"
+    }
+  },
+  {
+    "question": "‘সুশাসন বলতে রাষ্ট্রের সঙ্গে সুশীল সমাজের, সরকারের সঙ্গে শাসিত জনগনের, শাসকের সঙ্গে শাসিতের সম্পর্ক বোঝায়’-উক্তিটি কার?",
+    "answer": "3",
+    "options": {
+      "option1": "এরিষ্টটল",
+      "option2": "জন স্টুয়ার্ড মিল",
+      "option3": "ম্যাককরনী",
+      "option4": "মেকিয়াভেলি"
+    }
+  },
+  {
+    "question": "জনগণ, রাষ্ট্র ও প্রশাসনের সাথে ঘনিষ্ঠ প্রত্যয় হল-",
+    "answer": "1",
+    "options": {
+      "option1": "সুশাসন",
+      "option2": "আইনের শাসন",
+      "option3": "রাজনীতি",
+      "option4": "মানবাধিকার"
+    }
+  }
+]
