@@ -380,7 +380,7 @@
     }
   },
   {
-    "question": "A chart was <u>appended</u> to the report. Here appended means-",
+    "question": "A chart was appended to the report. Here appended means-",
     "answer": "3",
     "options": {
       "option1": "changed",
