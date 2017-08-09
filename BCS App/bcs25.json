@@ -993,10 +993,10 @@
     "question": "100. x+y=6 এবং xy=8 হলে (x-y)^2 এর মান কত?",
     "answer": "1",
     "options": {
-      "option1": " 4",
-      "option2": " 6",
-      "option3": " 8",
-      "option4": " 12"
+      "option1": "4",
+      "option2": "6",
+      "option3": "8",
+      "option4": "12"
     }
   }
 ]

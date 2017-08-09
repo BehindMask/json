@@ -621,7 +621,7 @@
   },
   {
     "question": "63.  কোন শব্দ শোনার পরে কত সেকেন্ড পর্যন্ত এর রেশ আমাদের মস্তিষ্কে থাকে?",
-    "answer": " 2",
+    "answer": "2",
     "options": {
       "option1": " ১ সেকেন্ড ",
       "option2": " ০.১ সেকেন্ড",
@@ -913,7 +913,7 @@
     "question": "92. A farmer had 17 hens. All but 9 nine die. How many live hens were left?",
     "answer": "3",
     "options": {
-      "option1": " 3",
+      "option1": "3",
       "option2": "4",
       "option3": "9",
       "option4": "16"
@@ -923,10 +923,10 @@
     "question": "93. If two typists can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes?",
     "answer": "2",
     "options": {
-      "option1": " 3",
-      "option2": " 6",
-      "option3": " 9",
-      "option4": " 18"
+      "option1": "3",
+      "option2": "6",
+      "option3": "9",
+      "option4": "18"
     }
   },
   {

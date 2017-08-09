@@ -595,8 +595,8 @@
     "options": {
       "option1": "-24",
       "option2": "-2",
-      "option3": " 8",
-      "option4": " 2"
+      "option3": "8",
+      "option4": "2"
     }
   },
   {
@@ -611,7 +611,7 @@
   },
   {
     "question": "62. Choose the word or phrase that is most nearly similar or opposite in meaning to the word given in the question: BROCHURE-  ",
-    "answer": "2 ",
+    "answer": "2",
     "options": {
       "option1": "Opening",
       "option2": "Pamphlet",

@@ -1103,10 +1103,10 @@
     "question": "111. a+1/a=√3 হলে, a^2+1/a^2 এর মান কত?",
     "answer": "4",
     "options": {
-      "option1": " 6",
-      "option2": " 4",
-      "option3": " 2",
-      "option4": " 1"
+      "option1": "6",
+      "option2": "4",
+      "option3": "2",
+      "option4": "1"
     }
   },
   {
