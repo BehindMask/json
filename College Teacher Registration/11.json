@@ -521,11 +521,11 @@
   },
   {
     "question": "কোনটি দন্ত্য ধ্বনি?",
-    "answer": "ত",
+    "answer": "3",
     "options": {
       "option1": "ণ",
       "option2": "প",
-      "option3": "ণ",
+      "option3": "ত",
       "option4": "চ"
     }
   },

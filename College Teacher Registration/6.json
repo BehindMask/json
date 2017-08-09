@@ -691,7 +691,7 @@
   },
   {
     "question": "A=45° হলে (1-tan²A)/(1+tan²A)= কত?",
-    "answer": "০",
+    "answer": "3",
     "options": {
       "option1": "1",
       "option2": "1/2",

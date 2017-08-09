@@ -191,12 +191,12 @@
   },
   {
     "question": "No animal is so big -- the blue whale.",
-    "answer": "as",
+    "answer": "4",
     "options": {
       "option1": "to go",
       "option2": "went",
       "option3": "going",
-      "option4": "have gone"
+      "option4": "as"
     }
   },
   {
