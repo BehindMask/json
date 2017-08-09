@@ -713,9 +713,9 @@
     "question": "72.log2(8)= কত?",
     "answer": "2",
     "options": {
-      "option1": " 4",
-      "option2": " 3",
-      "option3": " 2",
+      "option1": "4",
+      "option2": "3",
+      "option3": "2",
       "option4": "1"
     }
   },
@@ -753,10 +753,10 @@
     "question": "76.  সেট A={x€N : x^2 greater than 8, x^3 less than 30 হলে x এর সঠিক মান কোনটি?",
     "answer": "2",
     "options": {
-      "option1": "  2",
-      "option2": " 3",
-      "option3": " 4",
-      "option4": " 5"
+      "option1": "2",
+      "option2": "3",
+      "option3": "4",
+      "option4": "5"
     }
   },
   {
@@ -911,7 +911,7 @@
   },
   {
     "question": "92. আটলান্টিক ও প্রশান্ত মহাসাগরকে যুক্ত করেছে কোনটি?",
-    "answer": " 4",
+    "answer": "4",
     "options": {
       "option1": " সুয়েজ খাল",
       "option2": " মিসিসিপি",
