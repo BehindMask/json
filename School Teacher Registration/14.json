@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "How did you come by your lost watch? here “come by” means–",
+    "answer": "2",
+    "options": {
+      "option1": "quicken",
+      "option2": "get",
+      "option3": "mend",
+      "option4": "lose"
+    }
+  },
+  {
+    "question": "The children who play near the garden water the saplings. here “water” is — a.",
+    "answer": "3",
+    "options": {
+      "option1": "noun",
+      "option2": "adjective",
+      "option3": "verb",
+      "option4": "adverb"
+    }
+  },
+  {
+    "question": "The word “ambiguous” is the synonym of—",
+    "answer": "3",
+    "options": {
+      "option1": "alien",
+      "option2": "certain",
+      "option3": "dubious",
+      "option4": "dangerous"
+    }
+  },
+  {
+    "question": "The antonym of the word “dishearten” is —",
+    "answer": "2",
+    "options": {
+      "option1": "discourage",
+      "option2": "encourage",
+      "option3": "develop",
+      "option4": "ameliorate"
+    }
+  },
+  {
+    "question": "What is the synonymous word of “augment”?",
+    "answer": "2",
+    "options": {
+      "option1": "Beautify",
+      "option2": "Increase",
+      "option3": "Segment",
+      "option4": "Calm"
+    }
+  },
+  {
+    "question": "I saw him going to market. (Compound)",
+    "answer": "1",
+    "options": {
+      "option1": "I saw him and he was going to market",
+      "option2": "I saw him who was going to market",
+      "option3": "I saw him to go to market",
+      "option4": "I go to market which he was"
+    }
+  },
+  {
+    "question": "I helped her solve the problem. (Passive)",
+    "answer": "4",
+    "options": {
+      "option1": "She was helped solve the problem",
+      "option2": "The problem was solved by my",
+      "option3": "Her problem was solved by me",
+      "option4": "She was helped to solve the problem by me"
+    }
+  },
+  {
+    "question": "Jerry was only four years old. (Negative)",
+    "answer": "2",
+    "options": {
+      "option1": "Jerry was not four years old",
+      "option2": "Jerry was not more than four years old",
+      "option3": "No one but Jerry was four years old",
+      "option4": "None but Jerry was four years old"
+    }
+  },
+  {
+    "question": "Where There is a will, there is —-.",
+    "answer": "3",
+    "options": {
+      "option1": "a path",
+      "option2": "many ways",
+      "option3": "a way",
+      "option4": "a well-wisher"
+    }
+  },
+  {
+    "question": "To carry coal to —-.",
+    "answer": "2",
+    "options": {
+      "option1": "Narayangonj",
+      "option2": "Newcastle",
+      "option3": "England",
+      "option4": "Lahore"
+    }
+  },
+  {
+    "question": "Orthita as well as Obhnibesh (to be)— attending the party.",
+    "answer": "2",
+    "options": {
+      "option1": "are",
+      "option2": "is",
+      "option3": "have been",
+      "option4": "been"
+    }
+  },
+  {
+    "question": "Alice went to market with a view to (to purchase) — a dress.",
+    "answer": "4",
+    "options": {
+      "option1": "purchase",
+      "option2": "purchased",
+      "option3": "purchases",
+      "option4": "purchasing"
+    }
+  },
+  {
+    "question": "Rome was not built in a day. (Active)",
+    "answer": "1",
+    "options": {
+      "option1": "The Romans did not built Rome in a day",
+      "option2": "People were not build Rome in a day",
+      "option3": "The Romans were not build Rome in a day",
+      "option4": "A day was not built by Rome"
+    }
+  },
+  {
+    "question": "Money is sweeter than honey. (Negative)",
+    "answer": "1",
+    "options": {
+      "option1": "Honey is not so sweet as money.",
+      "option2": "Money is not as sweet as honey.",
+      "option3": "Nothing is as sweet as money and honey.",
+      "option4": "Honey is not sweeter than money."
+    }
+  },
+  {
+    "question": "Upoma came here late. Here “late” is —",
+    "answer": "2",
+    "options": {
+      "option1": "adjective",
+      "option2": "adverb",
+      "option3": "verb",
+      "option4": "noun"
+    }
+  },
+  {
+    "question": "He gave me a dress which was expensive. (Simple)",
+    "answer": "4",
+    "options": {
+      "option1": "He gave me a dress expensive.",
+      "option2": "He gave me a dress and it was expensive.",
+      "option3": "He gave me a expensive dress.",
+      "option4": "He gave me an expensive dress."
+    }
+  },
+  {
+    "question": "A wearer knows where —.",
+    "answer": "3",
+    "options": {
+      "option1": "a man goes",
+      "option2": "he is right",
+      "option3": "the shoe pinches",
+      "option4": "the pain disturbs"
+    }
+  },
+  {
+    "question": "তুমি কি জানো সে কোথায় থাকে?",
+    "answer": "4",
+    "options": {
+      "option1": "Do you know where does he live?",
+      "option2": "Do yopu know where he live?",
+      "option3": "Do you know where he is live?",
+      "option4": "do you know where he lives?"
+    }
+  },
+  {
+    "question": "সে সাঁতরাতে জানে না।",
+    "answer": "3",
+    "options": {
+      "option1": "he does not know swim.",
+      "option2": "He does not know to swimming.",
+      "option3": "He does not know how to swim.",
+      "option4": "He don’t know swimming."
+    }
+  },
+  {
+    "question": "তোমার বাবা কী করেন?",
+    "answer": "1",
+    "options": {
+      "option1": "What is your father?",
+      "option2": "What is your father doing?",
+      "option3": "What does your father?",
+      "option4": "What your father does?"
+    }
+  },
+  {
+    "question": "How Karim has solved the problems—?",
+    "answer": "3",
+    "options": {
+      "option1": "really nice",
+      "option2": "actually wonderful",
+      "option3": "astounds us all",
+      "option4": "are really difficult"
+    }
+  },
+  {
+    "question": "What is the noun form of include?",
+    "answer": "2",
+    "options": {
+      "option1": "Includement",
+      "option2": "Inclusion",
+      "option3": "Inclution",
+      "option4": "Includeness"
+    }
+  },
+  {
+    "question": "The synonym of “abandon” is–",
+    "answer": "4",
+    "options": {
+      "option1": "try",
+      "option2": "join",
+      "option3": "keep with",
+      "option4": "leave"
+    }
+  },
+  {
+    "question": "A — in time saves nine.",
+    "answer": "3",
+    "options": {
+      "option1": "money",
+      "option2": "penny",
+      "option3": "stitch",
+      "option4": "saving"
+    }
+  },
+  {
+    "question": "A man is known by the —- he keeps.",
+    "answer": "2",
+    "options": {
+      "option1": "words",
+      "option2": "company",
+      "option3": "contribution",
+      "option4": "relatives"
+    }
+  },
+  {
+    "question": "a+b, a^2-b^2  এবং a^3+b^3 এর গ. সা.গু কত?",
+    "answer": "4",
+    "options": {
+      "option1": "a^2-b^2",
+      "option2": "a-b",
+      "option3": "(a+b)^2",
+      "option4": "a+b"
+    }
+  },
+  {
+    "question": "ঘনকের ধার a একক হলে ঘনকের সমগ্র তলের ক্ষেত্রফল কত?",
+    "answer": "2",
+    "options": {
+      "option1": "√6a^2",
+      "option2": "6a^2",
+      "option3": "a^3",
+      "option4": "6a"
+    }
+  },
+  {
+    "question": "কোনো সমকোণী ত্রিভুজের ভূমি x এবং উচ্চতা y হলে ত্রিভুজটির ক্ষেত্রফল কত হবে?",
+    "answer": "1",
+    "options": {
+      "option1": "(1/2)xy বর্গএকক",
+      "option2": "xy বর্গএকক",
+      "option3": "x^2+y^2 বর্গএকক",
+      "option4": "12(x^2+y^2) বর্গএকক"
+    }
+  },
+  {
+    "question": "6(1/4)% হার সুদে কত সময়ে 96 টাকার সুদ 18 টাকা হবে।?",
+    "answer": "4",
+    "options": {
+      "option1": "2(1/2) বছর",
+      "option2": "2 বছর",
+      "option3": "4 বছর",
+      "option4": "3 বছর"
+    }
+  },
+  {
+    "question": "4^(x+1)=32 হলেx এর মান কত?",
+    "answer": "2",
+    "options": {
+      "option1": "2/3",
+      "option2": "3/2",
+      "option3": "1",
+      "option4": "1/2"
+    }
+  },
+  {
+    "question": "(8x)^0+8x^0 এর মান নিচের কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "2",
+      "option2": "16",
+      "option3": "9",
+      "option4": "8"
+    }
+  },
+  {
+    "question": "মৌলিক সংখ্যার সেট কিরূপ হবে?",
+    "answer": "2",
+    "options": {
+      "option1": "সসীম",
+      "option2": "অসীম",
+      "option3": "সংযোগ",
+      "option4": "ছেদ"
+    }
+  },
+  {
+    "question": "দুইটি সংখ্যার গ.সা.গু 7 এবং ল.সা.গু 84। সংখ্যা দুইটির একটি 42 হলে অপরটি কত?",
+    "answer": "2",
+    "options": {
+      "option1": "7",
+      "option2": "14",
+      "option3": "21",
+      "option4": "28"
+    }
+  },
+  {
+    "question": "60 জন ছাত্রের মধ্যে 42 জন ফেল করলে পাসের হার কত?",
+    "answer": "3",
+    "options": {
+      "option1": "25%",
+      "option2": "28%",
+      "option3": "30%",
+      "option4": "32%"
+    }
+  },
+  {
+    "question": "বৃত্তের সমান সমান জ্যা কেন্দ্র হতে সর্বদা নিচের কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "সমদূরবর্তী",
+      "option2": "অসমদূরবর্তী",
+      "option3": "সমান্তরাল",
+      "option4": "কোনোটিই নয়"
+    }
+  },
+  {
+    "question": "একটি আয়তাকার ঘরের দৈর্ঘ্য, প্রস্থের দেড়গুণ। এর ক্ষেত্রফল 294 বর্গ মিটার হলে, পরিসীমা কত?",
+    "answer": "4",
+    "options": {
+      "option1": "40 মিটার",
+      "option2": "50 মিটার",
+      "option3": "60 মিটার",
+      "option4": "70 মিটার"
+    }
+  },
+  {
+    "question": "দুটি বৃত্তের ব্যাসার্ধের অনুপাত 3:2। বৃত্ত দুটির ক্ষেত্রফলের অনুপাত নিচের কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "2:3",
+      "option2": "3:4",
+      "option3": "4:9",
+      "option4": "9:4"
+    }
+  },
+  {
+    "question": "a : b = 4 : 7 এবং b : c = 5 হলে a : b : c এর মান কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "4 : 7 : 5",
+      "option2": "5 : 6 : 7",
+      "option3": "20 : 35 : 42",
+      "option4": "20 : 30 : 37"
+    }
+  },
+  {
+    "question": "a, b, c, d ক্রমিক সমানুপাতী হলে নিচের কোনটি সঠিক?",
+    "answer": "3",
+    "options": {
+      "option1": "ab = cd",
+      "option2": "ac = bd",
+      "option3": "ad = bc",
+      "option4": "কোনোটিই নয়"
+    }
+  },
+  {
+    "question": "250 এর 10% এর মান কত?",
+    "answer": "1",
+    "options": {
+      "option1": "25",
+      "option2": "50",
+      "option3": "100",
+      "option4": "75"
+    }
+  },
+  {
+    "question": "5√5 এর 5 ভিত্তিক লগ কত?",
+    "answer": "2",
+    "options": {
+      "option1": "√5",
+      "option2": "3/2",
+      "option3": "2/3",
+      "option4": "5"
+    }
+  },
+  {
+    "question": "log_2 8 এর মান নিচের কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": "4",
+      "option2": "3",
+      "option3": "2",
+      "option4": "1"
+    }
+  },
+  {
+    "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+    "answer": "1",
+    "options": {
+      "option1": "সবগুলো",
+      "option2": "11",
+      "option3": "2",
+      "option4": "π"
+    }
+  },
+  {
+    "question": "প্রথম n সংখ্যক বিজোড় সংখ্যার যোগফল কত?",
+    "answer": "2",
+    "options": {
+      "option1": "দুহঃ+যোগ",
+      "option2": "দুঃ+যোগ",
+      "option3": "দুর+যোগ",
+      "option4": "দুরঃ+যোগ"
+    }
+  },
+  {
+    "question": "(a^-1)^-1 এর মান নিচের কোনটি সঠিক?",
+    "answer": "3",
+    "options": {
+      "option1": "1/a",
+      "option2": "a^2",
+      "option3": "a",
+      "option4": "1/a^2"
+    }
+  },
+  {
+    "question": "বৃত্তের কেন্দ্রের কোণ কত ডিগ্রীর সমান ?",
+    "answer": "1",
+    "options": {
+      "option1": "360°",
+      "option2": "270°",
+      "option3": "180°",
+      "option4": "0°"
+    }
+  },
+  {
+    "question": "Sinθ=4/5 হলে, sceθ এর মান কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "5/4",
+      "option2": "4/9",
+      "option3": "3/5",
+      "option4": "5/3"
+    }
+  },
+  {
+    "question": "x>0 এরx^2=4x হলে x এর মান কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "4",
+      "option2": "3",
+      "option3": "2",
+      "option4": "0"
+    }
+  },
+  {
+    "question": "চতুর্ভুজের চারটি কোনের সমষ্টি নিচের কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "180°",
+      "option2": "270°",
+      "option3": "360°",
+      "option4": "0°"
+    }
+  },
+  {
+    "question": "ঘণ্টায় x মাইল বেগে y মাইল দূরত্ব অতিক্রম করতে কত ঘণ্টা লাগবে?",
+    "answer": "1",
+    "options": {
+      "option1": "x/y ঘণ্টা",
+      "option2": "y/x ঘণ্টা",
+      "option3": "xy ঘণ্টা",
+      "option4": "x+y ঘণ্টা"
+    }
+  },
+  {
+    "question": "সাধুরীতিতে কোন পদটি দীর্ঘরূপ হয় না?",
+    "answer": "2",
+    "options": {
+      "option1": "বিশেষ্য",
+      "option2": "অব্যয়",
+      "option3": "সর্বনাম",
+      "option4": "ক্রিয়া"
+    }
+  },
+  {
+    "question": "নিচের কোন বানানটি শুদ্ধ?",
+    "answer": "3",
+    "options": {
+      "option1": "বাল্মিকী",
+      "option2": "বাল্মিকি",
+      "option3": "বাল্মীকি",
+      "option4": "বাল্মীকী"
+    }
+  },
+  {
+    "question": "”শুকুনি মামা” এর অর্থ কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "কুৎসিত মামা",
+      "option2": "সৎ মামা",
+      "option3": "কুচক্রী মামা",
+      "option4": "পাতানো মামা"
+    }
+  },
+  {
+    "question": "”সংশয়”-এর বিপরীত শব্দ কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": "নির্ভয়",
+      "option2": "প্রত্যয়",
+      "option3": "বিস্ময়",
+      "option4": "দ্বিধা"
+    }
+  },
+  {
+    "question": "বক্তব্য এর সঠিক প্রকৃতি প্রত্যয় কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "বক্+তব্য",
+      "option2": "বক্ত+অব্য",
+      "option3": "বক্ত+ব্য",
+      "option4": "বচ্+তব্য"
+    }
+  },
+  {
+    "question": "”উপকারীর অপকার কর যে”- নিচের কোনটি শুদ্ধ ?",
+    "answer": "3",
+    "options": {
+      "option1": "কৃতজ্ঞ",
+      "option2": "বেঈমান",
+      "option3": "কৃতঘ্ন",
+      "option4": "কৃতগ্ণ"
+    }
+  },
+  {
+    "question": "ব্যাকরণের কোন অংশে কারক সম্বদ্ধে আলোচনা করা হয়?",
+    "answer": "4",
+    "options": {
+      "option1": "ধ্বনিতত্ত্বে",
+      "option2": "অর্থতত্ত্বে",
+      "option3": "বাক্যতত্ত্বে",
+      "option4": "রূপতত্ত্বে"
+    }
+  },
+  {
+    "question": "বাড়ি বা রাস্তার নম্বরের পর নিচের কোন চিহ্নটি বসে?",
+    "answer": "1",
+    "options": {
+      "option1": "দাঁড়ি",
+      "option2": "সেমিকোলন",
+      "option3": "কোলন",
+      "option4": "কমা"
+    }
+  },
+  {
+    "question": "”সূর্য” এর প্রতিশব্দ কোনটি?",
+    "answer": "4",
+    "options": {
+      "option1": "সুধাংশু",
+      "option2": "শশাঙ্ক",
+      "option3": "বিধু",
+      "option4": "আদিত্য"
+    }
+  },
+  {
+    "question": "”ভিক্ষুক টা যে পেছনে লেগেই রয়েছে, কী বিপদ!” -এ বাক্যের “কী” এর অর্থ কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "বিরক্তি",
+      "option2": "রাগ",
+      "option3": "ভয়",
+      "option4": "হুমকি"
+    }
+  },
+  {
+    "question": "”The fire is out”-বাক্যটির অনুবাদ কী?",
+    "answer": "3",
+    "options": {
+      "option1": "আগুন বাইরে",
+      "option2": "বাইরে আগুন",
+      "option3": "আগুন ছড়িয়ে পড়েছে",
+      "option4": "আগুন নিভে গেছে"
+    }
+  },
+  {
+    "question": "নিচের কোনটিতে সাধুভাষা সাধারণত অনুপযোগী?",
+    "answer": "4",
+    "options": {
+      "option1": "কবিতায়",
+      "option2": "গানে",
+      "option3": "ছোটগল্পে",
+      "option4": "নাটকে"
+    }
+  },
+  {
+    "question": "”অন্তরঙ্গ” এর বিপরীত শব্দ কী?",
+    "answer": "3",
+    "options": {
+      "option1": "শত্রুতা",
+      "option2": "সম্পর্কহী",
+      "option3": "বহিরঙ্গ",
+      "option4": "বৈরীবাব"
+    }
+  },
+  {
+    "question": "কোনটি শুদ্ধ বানান?",
+    "answer": "3",
+    "options": {
+      "option1": "মুহুর্ত",
+      "option2": "মুহুর্ত",
+      "option3": "মুহূর্ত",
+      "option4": "মুঞূর্তু"
+    }
+  },
+  {
+    "question": "কোন বাংলা পদের সাথে সন্ধি হয় না?",
+    "answer": "2",
+    "options": {
+      "option1": "ক্রিয়া",
+      "option2": "অব্যয়",
+      "option3": "বিশেষ্য",
+      "option4": "বিশেষণ"
+    }
+  },
+  {
+    "question": "”হাতে দুর্বা গজানো” বাগধারার অর্থ কী?",
+    "answer": "3",
+    "options": {
+      "option1": "ছন্নছাড়া",
+      "option2": "অলুক্ষণে",
+      "option3": "আলসেমির লক্ষণ",
+      "option4": "অতিশয় দুর্বল"
+    }
+  },
+  {
+    "question": "”শুভক্ষণে জন্ম যার” এক কথায় কী হবে?",
+    "answer": "1",
+    "options": {
+      "option1": "ক্ষণজন্মা",
+      "option2": "শুভজন্মা",
+      "option3": "জন্মাধীর",
+      "option4": "শুভজন্মকাল"
+    }
+  },
+  {
+    "question": "নিচের কোন শব্দটির পুরুষবাচক শব্দ নেই?",
+    "answer": "4",
+    "options": {
+      "option1": "বাদী",
+      "option2": "দাত্রী",
+      "option3": "তাদৃশ্য",
+      "option4": "ডাইনী"
+    }
+  },
+  {
+    "question": "নিচের কোনটি “সৃষ্টি” এর প্রকৃতি ও প্রত্যয়?",
+    "answer": "3",
+    "options": {
+      "option1": "সৃষ্+টি",
+      "option2": "সৃশ্+তি",
+      "option3": "সৃজ্+তি",
+      "option4": "স্রী+ষ্টি"
+    }
+  },
+  {
+    "question": "নীলাম্বর কোন সমাস?",
+    "answer": "3",
+    "options": {
+      "option1": "দ্বন্দ্ব",
+      "option2": "তৎপুরুষ",
+      "option3": "কর্মধারয়",
+      "option4": "অব্যয়ীভাব"
+    }
+  },
+  {
+    "question": "”তিলে তৈল হয়” “তিলে” কোন কারকে কোন বিভক্তি?",
+    "answer": "2",
+    "options": {
+      "option1": "কর্মকারকে ৭মী",
+      "option2": "অপাদান কারকে ৭মী",
+      "option3": "করণ কারকে ৭মী",
+      "option4": "অধিকরণ কারকে ৭মী"
+    }
+  },
+  {
+    "question": "নিচের কোনটি শুদ্ধ?",
+    "answer": "1",
+    "options": {
+      "option1": "ষ্ণ=ষ+ণ",
+      "option2": "ষ্ণ=ষ+ঞ",
+      "option3": "ষ্ণ=ষ+ন",
+      "option4": "ষ্ণ=ষ+ঙ"
+    }
+  },
+  {
+    "question": "মৌলিক শব্দ কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "আকাশ",
+      "option2": "শীতল",
+      "option3": "ঢাকাই",
+      "option4": "কান্না"
+    }
+  },
+  {
+    "question": "”পেয়ারা” কোন ভাষা থেকে আগত?",
+    "answer": "4",
+    "options": {
+      "option1": "হিন্দি",
+      "option2": "উর্দু",
+      "option3": "গ্রিক",
+      "option4": "পর্তুগিজ"
+    }
+  },
+  {
+    "question": "”বিদ্যান মুর্খ অপেক্ষা শ্রেষ্ঠতর”- বাক্যটির শুদ্ধরূপ কোনটি?",
+    "answer": "2",
+    "options": {
+      "option1": "বিদ্যান মুর্খ অপেক্ষা শ্রেষ্ঠ",
+      "option2": "বিদ্বান মূর্খ অপেক্ষা শ্রেষ্ঠ",
+      "option3": "বিদ্বান মুর্খ অপেক্ষা শ্রেষ্ঠতর",
+      "option4": "বিদ্বান মুর্খ অপেক্ষা শ্রেষ্ঠ"
+    }
+  },
+  {
+    "question": "১৯৭১ সালে মুক্তিযুদ্ধকালে জাতিসংঘের মহাসচিব কে ছিলেন?",
+    "answer": "2",
+    "options": {
+      "option1": "কফি আনান",
+      "option2": "উ থান্ট",
+      "option3": "দ্যাগ হ্যামারশোল্ড",
+      "option4": "বুট্রোস ঘালি"
+    }
+  },
+  {
+    "question": "চিকনগুনিয়ার বাহক কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "অ্যানোফিলিস",
+      "option2": "কিউলেক্স",
+      "option3": "এডিস",
+      "option4": "সকল ধরনের মশা"
+    }
+  },
+  {
+    "question": "বাংলাদেশের রাষ্ট্রীয় মনোগ্রামের ডিজােইনার কে?",
+    "answer": "4",
+    "options": {
+      "option1": "কাজী খসরু",
+      "option2": "কামরুল হাসান",
+      "option3": "স্বপন কুমার",
+      "option4": "এএনএ সাহা"
+    }
+  },
+  {
+    "question": "দেশের প্রথম ইলেকট্রনিক বই কোনটি?",
+    "answer": "1",
+    "options": {
+      "option1": "একুশ ই বুক",
+      "option2": "স্বাধীনতা ই বুক",
+      "option3": "বাংলাদেশ ই বুক",
+      "option4": "ডিজিটাল ই বুক"
+    }
+  },
+  {
+    "question": "WIPO এর সদর দপ্তর কোথায়?",
+    "answer": "2",
+    "options": {
+      "option1": "ব্রাসেলস",
+      "option2": "জেনেভা",
+      "option3": "লন্ডন",
+      "option4": "প্যারিস"
+    }
+  },
+  {
+    "question": "”মংডু” কোন দুটি দেশের সীমান্ত এলাকা?",
+    "answer": "1",
+    "options": {
+      "option1": "বাংলাদেশ–মিয়ানমার",
+      "option2": "বাংলাদেশ -ভারত",
+      "option3": "মিয়ানমার-চীন",
+      "option4": "ভারত-মিয়ানমার"
+    }
+  },
+  {
+    "question": "২০১৮ সালে এশিয়ান গেমস কোথায় অনুষ্ঠিত হবে?",
+    "answer": "2",
+    "options": {
+      "option1": "বেইজিং, চীন",
+      "option2": "জাকার্তা, ইন্দোনেশিয়া",
+      "option3": "নয়াদিল্লি, ভারত",
+      "option4": "তেহরান, ইরান"
+    }
+  },
+  {
+    "question": "বাংলাদেশ স্কয়ার কোন দেশে অবস্থিত?",
+    "answer": "3",
+    "options": {
+      "option1": "ভারতে",
+      "option2": "ইরানে",
+      "option3": "লাইবেরিয়ায়",
+      "option4": "লিবিয়ায়"
+    }
+  },
+  {
+    "question": "দেশে প্রথম ডিজিটাল ভূমি ব্যবস্থাপনা চালু হয় কোথায়?",
+    "answer": "3",
+    "options": {
+      "option1": "সিলেট",
+      "option2": "বরিশাল",
+      "option3": "চট্টগ্রাম",
+      "option4": "রংপুর"
+    }
+  },
+  {
+    "question": "”বর্ণালী”এবং ”শুভ্র” কী?",
+    "answer": "1",
+    "options": {
+      "option1": "উন্নত জাতের ভুট্টা",
+      "option2": "উন্নত জাতের গম",
+      "option3": "উন্নত জাতের আম",
+      "option4": "উন্নত জাতের চাল"
+    }
+  },
+  {
+    "question": "ক্যান্সার চিকিৎসায় ব্যবহৃত গামা বিকিরণের উৎস হলো–",
+    "answer": "2",
+    "options": {
+      "option1": "আইসোটোন",
+      "option2": "আইসোটোপ",
+      "option3": "আইসোবার",
+      "option4": "রাসায়নিক পদার্থ"
+    }
+  },
+  {
+    "question": "ফ্রান্সের বর্তমান প্রেসিডেন্টের নাম কি?",
+    "answer": "1",
+    "options": {
+      "option1": "ইমানুয়েল ম্যাখোঁ",
+      "option2": "আটেলা মার্কেল",
+      "option3": "ম্যালকম",
+      "option4": "জাস্টিন ট্রুডো"
+    }
+  },
+  {
+    "question": "জাঙ্ক ফুডে নিচের কোন দ্রব্যের আধিক্য থাকে?",
+    "answer": "1",
+    "options": {
+      "option1": "চর্বি",
+      "option2": "ভিটামিন",
+      "option3": "শর্করা",
+      "option4": "আমিষ"
+    }
+  },
+  {
+    "question": "বিশ্ব অর্থনৈতিক সমীক্ষা-২০১৫ অনুযায়ী বাংলাদেশের মাথাপিছু আয় (মার্কিন ডলার)-",
+    "answer": "2",
+    "options": {
+      "option1": "১২৬০ ডলার",
+      "option2": "১৩১৪ ডলার",
+      "option3": "১৩৬০ ডলার",
+      "option4": "১৩২০ ডলার"
+    }
+  },
+  {
+    "question": "ক্রিকেট খেলার মাঠের পিচের দৈর্ঘ্য-",
+    "answer": "3",
+    "options": {
+      "option1": "১১ জগ",
+      "option2": "১৭ গজ",
+      "option3": "২২ গজ",
+      "option4": "২১ গজ"
+    }
+  },
+  {
+    "question": "স্ক্যানার কি ধরনের ডিভাইস?",
+    "answer": "1",
+    "options": {
+      "option1": "ইনপুট",
+      "option2": "মেমোরি",
+      "option3": "আউটপুট",
+      "option4": "প্রসেসিং"
+    }
+  },
+  {
+    "question": "ভারত বাংলাদেশের মধ্যে অভিন্ন নদী কতটি?",
+    "answer": "2",
+    "options": {
+      "option1": "৫৩টি",
+      "option2": "৫৪টি",
+      "option3": "৫৫টি",
+      "option4": "৫৬টি"
+    }
+  },
+  {
+    "question": "সমতল জনপদ কোথায় অবস্থিত?",
+    "answer": "2",
+    "options": {
+      "option1": "রাজশাহী অঞ্চলে",
+      "option2": "কুমিল্লা অঞ্চলে",
+      "option3": "ঢাকা অঞ্চলে",
+      "option4": "সিলেট অঞ্চলে"
+    }
+  },
+  {
+    "question": "বিখ্যাত চিত্রকর্ম “তিন কন্যা”-এর চিত্রকর কে?",
+    "answer": "3",
+    "options": {
+      "option1": "জয়নুল আবেদিন",
+      "option2": "এসএম সুলতান",
+      "option3": "কামরুল হাসান",
+      "option4": "রফিকুন্নবী"
+    }
+  },
+  {
+    "question": "যশোর জেলায় অবস্থিত বিল?",
+    "answer": "2",
+    "options": {
+      "option1": "হাইল",
+      "option2": "ভবদহ",
+      "option3": "পাথর চাওলি",
+      "option4": "আড়িয়াল"
+    }
+  },
+  {
+    "question": "কোন উপজাতির ধর্ম ইসলাম?",
+    "answer": "3",
+    "options": {
+      "option1": "রাখাইন",
+      "option2": "মারমা",
+      "option3": "পাঙন",
+      "option4": "খিয়াং"
+    }
+  },
+  {
+    "question": "সংসদ অধিবেশন কে আহ্বান করেন?",
+    "answer": "3",
+    "options": {
+      "option1": "স্পীকার",
+      "option2": "প্রধানমন্ত্রী",
+      "option3": "রাষ্ট্রপতি",
+      "option4": "বিরোধী দলীয় নেত্রী"
+    }
+  },
+  {
+    "question": "পানামা খাল কোন মহাসাগরকে যুক্ত করে?",
+    "answer": "3",
+    "options": {
+      "option1": "ভারত ও প্রশান্ত মহাসাগর",
+      "option2": "আটলান্টিক ও ভারত মহাসাগর",
+      "option3": "প্রশান্ত মহাসাগর ও আটলান্টিক মহাসাগর",
+      "option4": "আটলান্টিক ও দক্ষিণ মহাসাগর"
+    }
+  },
+  {
+    "question": "লাফিং গ্যাসের সংকেত কোনটি?",
+    "answer": "3",
+    "options": {
+      "option1": "N2O5",
+      "option2": "N2O3",
+      "option3": "N2O",
+      "option4": "Cu2O"
+    }
+  },
+  {
+    "question": "বাংলায় “ছিয়াত্তরের মন্বন্তর” এর সময়কাল:",
+    "answer": "1",
+    "options": {
+      "option1": "১৭৭০ খ্রিস্টাব্দ",
+      "option2": "১৭৬০ খ্রিস্টাব্দ",
+      "option3": "১৭৬৫ খ্রিস্টাব্দ",
+      "option4": "১৭৫৬ খ্রিস্টাব্দ"
+    }
+  }
+]
